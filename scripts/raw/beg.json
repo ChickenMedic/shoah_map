@@ -1,0 +1,7470 @@
+[
+ {
+  "no": "1",
+  "name": "Abteroda, Kreis Eisenach",
+  "parent": "buchenwald",
+  "end": "1945-04-08"
+ },
+ {
+  "no": "2",
+  "name": "Adlershorst, Gemeinde Gotenhafen",
+  "parent": "stutthof",
+  "start": "1939-09-13",
+  "end": "1941-11-30"
+ },
+ {
+  "no": "6",
+  "name": "Ahrensbök, Kreis Eutin/Oldenburg",
+  "start": "1933-12-05",
+  "end": "1934-05-09"
+ },
+ {
+  "no": "6a",
+  "name": "Alderney, Einsatzort der I. SS-Baubrigade",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "8",
+  "name": "Alfred I/Sachsen, Kdo. v. Ellrich",
+  "parent": "mittelbau-dora"
+ },
+ {
+  "no": "10",
+  "name": "Allendorf bei Kirchhain, Kreis Marburg",
+  "parent": "buchenwald",
+  "start": "1944-08-16",
+  "end": "1945-03-27"
+ },
+ {
+  "no": "11a",
+  "name": "Alt Daber (Männer), Gemeinde Wittstock/Brandenburg",
+  "start": "1933-05-08",
+  "end": "1933-05-25"
+ },
+ {
+  "no": "12",
+  "name": "Altdorf = Stara Wies, Kreis Pleß/Schlesien",
+  "parent": "auschwitz",
+  "start": "1942-10-01",
+  "end": "1943-11-30"
+ },
+ {
+  "no": "13",
+  "name": "Altenburg/Thüringen",
+  "parent": "ravensbruck",
+  "start": "1944-11-27",
+  "end": "1945-04-12"
+ },
+ {
+  "no": "14",
+  "name": "Altenhammer, Kreis Neustadt a. d. Waldnaab",
+  "parent": "flossenburg",
+  "start": "1944-12-01",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "15",
+  "name": "Alt-Garge a. d. Elbe",
+  "parent": "neuengamme",
+  "start": "1944-08-24",
+  "end": "1945-02-15"
+ },
+ {
+  "no": "16",
+  "name": "Althammer/Pommern",
+  "parent": "stutthof"
+ },
+ {
+  "no": "17",
+  "name": "Althammer = Stara Kuznia (Kuznica), Kreis Pleß",
+  "parent": "auschwitz",
+  "start": "1944-09-15"
+ },
+ {
+  "no": "18",
+  "name": "Amersfoort/Holland",
+  "parent": "herzogenbusch",
+  "start": "1941-08-18",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "19",
+  "name": "Ampermoching, nur Arbeitseinsatzstelle v. Dachau"
+ },
+ {
+  "no": "20",
+  "name": "Ampfing-Waldlager V und VI, Kdo. v. Mühldorf",
+  "parent": "dachau",
+  "start": "1945-01-13",
+  "end": "1945-05-02"
+ },
+ {
+  "no": "21",
+  "name": "Amstetten/Niederösterreich",
+  "parent": "mauthausen",
+  "end": "1945-04-18"
+ },
+ {
+  "no": "22",
+  "name": "Ankenbuck, Kreis Donaueschingen (früher: Kreis Villingen)",
+  "start": "1933-04-01",
+  "end": "1934-03-12"
+ },
+ {
+  "no": "23",
+  "name": "Annaburg, Kreis Jessen (früher: Kreis Torgau)",
+  "parent": "buchenwald",
+  "end": "1945-03-16"
+ },
+ {
+  "no": "25",
+  "name": "Ansbach",
+  "parent": "ravensbruck",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "26",
+  "name": "Ansbach",
+  "parent": "flossenburg",
+  "start": "1945-03-13",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "28",
+  "name": "Apolda/Thüringen",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "29",
+  "name": "Arbeitsdorf, Gemeinde Fallersleben",
+  "start": "1942-04-08",
+  "end": "1942-10-11"
+ },
+ {
+  "no": "30",
+  "name": "Arenberg",
+  "start": "1940-04-05",
+  "end": "1940-04-20"
+ },
+ {
+  "no": "31",
+  "name": "Argenau = Gniewkowo/Warthegau, Kdo. v. Thorn OT",
+  "parent": "stutthof"
+ },
+ {
+  "no": "32",
+  "name": "Arnheim (Arnhem)/Holland",
+  "parent": "herzogenbusch",
+  "start": "1943-07-01"
+ },
+ {
+  "no": "33",
+  "name": "Arolsen, Kreis Waldeck",
+  "parent": "buchenwald",
+  "start": "1943-11-15",
+  "end": "1945-03-29"
+ },
+ {
+  "no": "34",
+  "name": "Artern, \"Adorf\", Kreis Sangerhausen",
+  "parent": "mittelbau-dora",
+  "end": "1945-04-06"
+ },
+ {
+  "no": "35",
+  "name": "Asbach, Kdo. v. Neckarelz I und II",
+  "parent": "natzweiler",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "36",
+  "name": "Aschendorfermoor, Gemeinde Aschendorf",
+  "start": "1936-01-01"
+ },
+ {
+  "no": "37",
+  "name": "Aschersleben",
+  "parent": "buchenwald",
+  "start": "1945-01-06",
+  "end": "1945-04-11"
+ },
+ {
+  "no": "37a",
+  "name": "Aseri/Estland",
+  "parent": "vaivara"
+ },
+ {
+  "no": "38",
+  "name": "Aslau, Kreis Bunzlau/Niederschlesien",
+  "parent": "gross-rosen",
+  "end": "1945-02-11"
+ },
+ {
+  "no": "41",
+  "name": "Aue/Sachsen",
+  "parent": "flossenburg",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "44",
+  "name": "Augsburg",
+  "parent": "dachau",
+  "start": "1942-04-14",
+  "end": "1942-07-23"
+ },
+ {
+  "no": "45",
+  "name": "Augsburg, Michel-Fabrik",
+  "parent": "dachau",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "46",
+  "name": "Augsburg, Oberbürgermeister",
+  "parent": "dachau"
+ },
+ {
+  "no": "47",
+  "name": "Augsburg-Pfersee, Messerschmitt-Werke",
+  "parent": "dachau"
+ },
+ {
+  "no": "48",
+  "name": "Augsburg, Reichsbahnbetriebsamt",
+  "parent": "dachau"
+ },
+ {
+  "no": "49",
+  "name": "Augustusburg bei Chemnitz",
+  "start": "1933-05-01",
+  "end": "1935-12-31"
+ },
+ {
+  "no": "51",
+  "name": "Aurich, Kreis Aurich",
+  "parent": "neuengamme",
+  "end": "1944-12-23"
+ },
+ {
+  "no": "52",
+  "name": "Auschwitz = Oswiecim, Auschwitz-Zasole und SS-Eisenbahn-Baubrigade 2 (auch als 7 bezeichnet)",
+  "start": "1940-05-20",
+  "end": "1945-01-27"
+ },
+ {
+  "no": "52a",
+  "name": "Auvere/Estland",
+  "parent": "vaivara",
+  "start": "1943-09-15"
+ },
+ {
+  "no": "54",
+  "name": "Babitz/Oberschlesien",
+  "parent": "auschwitz",
+  "start": "1943-03-01",
+  "end": "1945-01-18"
+ },
+ {
+  "no": "55",
+  "name": "Backa-Topola/Jugoslawien",
+  "start": "1944-03-17"
+ },
+ {
+  "no": "56",
+  "name": "Bachmanning, Kreis Wels, Kdo. v. Großraming",
+  "parent": "mauthausen",
+  "start": "1943-09-30"
+ },
+ {
+  "no": "57",
+  "name": "Bad Berka, Kreis Weimar, Kdo. v. Tonndorf",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "59",
+  "name": "Bad Gandersheim, Kreis Gandersheim",
+  "parent": "buchenwald",
+  "start": "1944-10-02",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "60",
+  "name": "Bad Godesberg",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "61",
+  "name": "Bad Ischl, Kreis Gmunden, Umsiedlungslager",
+  "parent": "dachau",
+  "start": "1942-02-09",
+  "end": "1942-12-19"
+ },
+ {
+  "no": "62",
+  "name": "Bad Ischl, Kreis Gmunden, Sägewerk",
+  "parent": "dachau",
+  "start": "1942-06-18",
+  "end": "1942-12-19"
+ },
+ {
+  "no": "64",
+  "name": "Bad Oberdorf, Gemeinde Hindelang",
+  "parent": "dachau"
+ },
+ {
+  "no": "65",
+  "name": "Bad Rappenau, Kreis Sinsheim, Kdo. v. Neckarelz I und II",
+  "parent": "natzweiler",
+  "start": "1944-09-01",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "66",
+  "name": "Bad Saarow, Kreis Beeskow-Storkow",
+  "parent": "sachsenhausen",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "67",
+  "name": "Bad Salzbrunn/Niederschlesien",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "68",
+  "name": "Bad Salzungen, Kreis Meiningen",
+  "parent": "buchenwald",
+  "start": "1945-01-05"
+ },
+ {
+  "no": "69",
+  "name": "Bad Sulza, Kreis Waimar",
+  "start": "1933-07-01",
+  "end": "1937-07-31"
+ },
+ {
+  "no": "70",
+  "name": "Bad Tölz",
+  "parent": "dachau",
+  "start": "1940-07-01"
+ },
+ {
+  "no": "71",
+  "name": "Bad Warmbrunn, Kreis Hirschberg/Niederschlesien",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "72",
+  "name": "Bad Zwischenahn, Kdo. v. Esterwegen"
+ },
+ {
+  "no": "75",
+  "name": "Ballenstedt, Kreis Quedlinburg (früher: Kreis Ballenstedt)",
+  "parent": "mittelbau-dora"
+ },
+ {
+  "no": "76",
+  "name": "Banjica/Serbien",
+  "start": "1941-07-09",
+  "end": "1944-10-03"
+ },
+ {
+  "no": "77",
+  "name": "Barkhausen",
+  "parent": "neuengamme",
+  "start": "1944-03-18",
+  "end": "1945-04-01"
+ },
+ {
+  "no": "78",
+  "name": "Barneveld/Holland",
+  "start": "1943-02-27",
+  "end": "1943-09-28"
+ },
+ {
+  "no": "80",
+  "name": "Barth/Ostsee, Kreis Stralsund",
+  "parent": "ravensbruck",
+  "start": "1943-08-01",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "82",
+  "name": "Bäumenheim, Gemeinde Asbach, Kreis Donauwörth",
+  "parent": "dachau"
+ },
+ {
+  "no": "83",
+  "name": "Bautzen/Sachsen",
+  "parent": "gross-rosen",
+  "start": "1944-10-01",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "85",
+  "name": "Bayreuth",
+  "parent": "flossenburg",
+  "start": "1944-06-14",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "86",
+  "name": "Bayrischzell, Kreis Miesbach",
+  "parent": "dachau"
+ },
+ {
+  "no": "87",
+  "name": "Beaune-la-Rolande/Frankreich",
+  "start": "1941-05-14",
+  "end": "1943-07-02"
+ },
+ {
+  "no": "89",
+  "name": "Beerfelde, Kreis Lebus/Oder",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "90",
+  "name": "Belzec, Kreis Zamosc/Polen",
+  "start": "1941-09-01",
+  "end": "1943-07-31"
+ },
+ {
+  "no": "91",
+  "name": "Belzig, Kreis Zauch-Belzig",
+  "parent": "ravensbruck",
+  "start": "1944-10-01",
+  "end": "1945-05-02"
+ },
+ {
+  "no": "92",
+  "name": "Benninghausen/Westfalen",
+  "start": "1933-03-29",
+  "end": "1933-10-11"
+ },
+ {
+  "no": "93",
+  "name": "Bensberg, Rheinisch-Bergischer Kreis",
+  "parent": "buchenwald",
+  "start": "1944-03-28",
+  "end": "1945-02-25"
+ },
+ {
+  "no": "94",
+  "name": "Bensheim-Auerbach",
+  "parent": "natzweiler",
+  "start": "1944-09-11",
+  "end": "1945-03-26"
+ },
+ {
+  "no": "95",
+  "name": "Berga/Elster, Kreis Greiz/Thüringen",
+  "parent": "buchenwald",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "96",
+  "name": "Bergen-Belsen",
+  "start": "1943-04-30",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "96a",
+  "name": "Bergkamen (Männer)/Westfalen",
+  "start": "1933-04-01"
+ },
+ {
+  "no": "98",
+  "name": "Berlin, SS-Hauptwirtschaftslager II (Berlin-Südende), Volksdeutsche Mittelstelle (Berlin W 62), Reichssicherheitshauptamt, Kreiselgerät GmbH, Deutsche Ausrüstungswerke (SS-WVHA/Amt W IV), Bauleitung Groß-Berlin",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "99",
+  "name": "Berlin, Arado-Flugzeugwerke",
+  "parent": "sachsenhausen",
+  "start": "1944-10-01"
+ },
+ {
+  "no": "101",
+  "name": "Berlin-Hakenfelde, Luftfahrtgerätewerk",
+  "parent": "sachsenhausen",
+  "start": "1943-07-01"
+ },
+ {
+  "no": "102",
+  "name": "Berlin-Halensee",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "103",
+  "name": "Berlin, Kastanienallee",
+  "parent": "sachsenhausen",
+  "start": "1941-09-29",
+  "end": "1941-12-31"
+ },
+ {
+  "no": "104",
+  "name": "Berlin, Kommandoamt der SS",
+  "parent": "sachsenhausen",
+  "start": "1941-05-02",
+  "end": "1941-12-31"
+ },
+ {
+  "no": "105",
+  "name": "Berlin-Köpenick, AEG-Kabelwerk Oberspree",
+  "parent": "sachsenhausen",
+  "end": "1945-04-20"
+ },
+ {
+  "no": "106",
+  "name": "Berlin-Lichtenrade",
+  "parent": "sachsenhausen",
+  "end": "1945-04-20"
+ },
+ {
+  "no": "107",
+  "name": "Berlin-Lichterfelde",
+  "parent": "sachsenhausen",
+  "start": "1941-01-07"
+ },
+ {
+  "no": "108",
+  "name": "Berlin-Marienfelde",
+  "parent": "sachsenhausen",
+  "start": "1943-09-23"
+ },
+ {
+  "no": "109",
+  "name": "Berlin-Neukölln, Registrierkassen-Gesellschaft Krupp",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "110",
+  "name": "Berlin-Niederschöneweide, Firma Pertrix (Varta)",
+  "parent": "sachsenhausen",
+  "end": "1945-04-21"
+ },
+ {
+  "no": "111",
+  "name": "Berlin-Reinickendorf, Argus-Werke",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "112",
+  "name": "Berlin-Siemensstadt, Siemens-Schuckertwerke",
+  "parent": "sachsenhausen",
+  "start": "1944-07-17",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "113",
+  "name": "Berlin-Spandau (Frauen), Deutsche Industriewerke",
+  "parent": "sachsenhausen",
+  "end": "1945-04-23"
+ },
+ {
+  "no": "114",
+  "name": "Berlin-Tegel, Borsig-Werke",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "115",
+  "name": "Berlin-Tempelhof, \"Columbia\"",
+  "start": "1935-01-08",
+  "end": "1936-11-05"
+ },
+ {
+  "no": "117",
+  "name": "Berlin-Wilmersdorf",
+  "parent": "sachsenhausen",
+  "start": "1943-01-02",
+  "end": "1943-07-03"
+ },
+ {
+  "no": "118",
+  "name": "Berlin-Zehlendorf, Spinnstoff-Fabrik Zehlendorf",
+  "parent": "sachsenhausen",
+  "start": "1943-09-01"
+ },
+ {
+  "no": "119",
+  "name": "Berlstedt, Kreis Weimar",
+  "parent": "buchenwald",
+  "start": "1938-11-15",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "121",
+  "name": "Bernsdorf = Bernartice/Tschech., Kreis Trautenau",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "123a",
+  "name": "Beydritten (Männer)/Ostpreußen"
+ },
+ {
+  "no": "124",
+  "name": "Bichl, Kreis Bad Tölz",
+  "parent": "dachau",
+  "start": "1941-05-01",
+  "end": "1941-12-31"
+ },
+ {
+  "no": "126",
+  "name": "Biesenthal bei Eberswalde, Kreis Oberbarnim",
+  "parent": "sachsenhausen",
+  "start": "1944-07-01"
+ },
+ {
+  "no": "128",
+  "name": "Billroda, Kreis Nebra (früher: Kreis Eckartsberga)",
+  "parent": "buchenwald",
+  "start": "1945-03-19",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "130",
+  "name": "Birkenau = Brzezinka (Auschwitz II)",
+  "parent": "auschwitz",
+  "start": "1941-11-26",
+  "end": "1945-01-27"
+ },
+ {
+  "no": "132",
+  "name": "Birnbäumel/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-10-22",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "133",
+  "name": "Bischofferode, Kreis Werbis, Kdo. v. Harzungen und Klein-Bodungen",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "134",
+  "name": "Bisingen, Kreis Hechingen",
+  "parent": "natzweiler",
+  "start": "1944-08-24",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "135",
+  "name": "Bismarckhütte-Hajduki Wielkie, Kreis Chorzow",
+  "parent": "auschwitz",
+  "start": "1944-09-01",
+  "end": "1945-01-18"
+ },
+ {
+  "no": "136",
+  "name": "Blaichach, Kreis Sonthofen",
+  "parent": "dachau"
+ },
+ {
+  "no": "137",
+  "name": "Blankenburg, Kreis Wernigerode (früher: Kreis Blankenburg)",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "138",
+  "name": "Blankenhain, Kreis Weimar, Kdo. v. Tonndorf",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "139",
+  "name": "Blechhammer, Kreis Cosel/Oberschlesien",
+  "parent": "auschwitz",
+  "start": "1944-04-01",
+  "end": "1945-01-26"
+ },
+ {
+  "no": "140",
+  "name": "Bleicherode/Sachsen",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "141",
+  "name": "Blizyn/Polen, Deutsche Ausrüstungswerke GmbH, Kdo. v. Radom",
+  "parent": "majdanek",
+  "start": "1944-02-10"
+ },
+ {
+  "no": "143",
+  "name": "Bobrek, Kreis Krenau",
+  "parent": "auschwitz",
+  "end": "1945-01-19"
+ },
+ {
+  "no": "144",
+  "name": "Bochum, Bochumer Verein",
+  "parent": "buchenwald",
+  "start": "1944-06-26"
+ },
+ {
+  "no": "145",
+  "name": "Bochum, Eisen- und Hüttenwerke",
+  "parent": "buchenwald",
+  "start": "1944-08-21"
+ },
+ {
+  "no": "148",
+  "name": "Böhlen, Kreis Borna (früher: Kreis Leipzig)",
+  "parent": "buchenwald",
+  "end": "1944-11-28"
+ },
+ {
+  "no": "149",
+  "name": "Bohnsack bei Danzig",
+  "parent": "stutthof",
+  "start": "1940-06-07"
+ },
+ {
+  "no": "150",
+  "name": "Boizenburg, Kreis Hagenow, Bezirk Schwerin",
+  "parent": "neuengamme",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "151",
+  "name": "Bolkenhain bei Striegau/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-07-01",
+  "end": "1945-02-28"
+ },
+ {
+  "no": "153",
+  "name": "Bomlitz, Kreis Fallingbostel"
+ },
+ {
+  "no": "155",
+  "name": "Börgermoor, Gemeinde Surwold",
+  "start": "1933-01-30",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "156",
+  "name": "Börnicke, Kreis Osthavelland",
+  "parent": "sachsenhausen",
+  "start": "1933-06-07"
+ },
+ {
+  "no": "157",
+  "name": "Borgo San Dalmazzo",
+  "start": "1943-09-01",
+  "end": "1945-02-15"
+ },
+ {
+  "no": "158",
+  "name": "Born/Pommern",
+  "parent": "ravensbruck",
+  "start": "1942-12-01"
+ },
+ {
+  "no": "159",
+  "name": "Botten/Botschin = Bocien",
+  "parent": "stutthof",
+  "start": "1944-08-24",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "160",
+  "name": "Bozen = Bolzano"
+ },
+ {
+  "no": "162",
+  "name": "Brandenburg (Havel)",
+  "start": "1933-03-15",
+  "end": "1934-04-23"
+ },
+ {
+  "no": "163",
+  "name": "Brandenburg (Havel)",
+  "parent": "sachsenhausen",
+  "start": "1941-05-13",
+  "end": "1945-04-18"
+ },
+ {
+  "no": "164",
+  "name": "Brandhofen/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1945-03-01",
+  "end": "1945-04-25"
+ },
+ {
+  "no": "165",
+  "name": "Braunschweig, Lager Büssing und Schilldenkmal",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "166",
+  "name": "Braunschweig, SS-Junkerschule",
+  "parent": "buchenwald",
+  "start": "1941-09-13",
+  "end": "1941-11-03"
+ },
+ {
+  "no": "167",
+  "name": "Braunschweig, SS-Reitschule",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "169",
+  "name": "Braunschweig, Truppenwirtschaft",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "170",
+  "name": "Brauweiler bei Köln",
+  "start": "1933-06-01",
+  "end": "1934-03-12"
+ },
+ {
+  "no": "171",
+  "name": "Breendonk = Breendonck/Belgien",
+  "start": "1940-09-20",
+  "end": "1944-09-04"
+ },
+ {
+  "no": "173",
+  "name": "Breitenau/Hessen (früher: Provinz Hessen-Nassau)",
+  "start": "1933-04-01",
+  "end": "1934-03-17"
+ },
+ {
+  "no": "175",
+  "name": "Bremen, Behelfswohnbau",
+  "parent": "neuengamme",
+  "end": "1945-04-26"
+ },
+ {
+  "no": "176",
+  "name": "Bremen-Blumenthal, Deschimag",
+  "parent": "neuengamme",
+  "start": "1944-09-01",
+  "end": "1945-04-20"
+ },
+ {
+  "no": "177",
+  "name": "Bremen, Borgwardwerke",
+  "parent": "neuengamme",
+  "end": "1944-10-12"
+ },
+ {
+  "no": "178",
+  "name": "Bremen, Deschimag, Lager Schützenhof",
+  "parent": "neuengamme",
+  "end": "1945-04-11"
+ },
+ {
+  "no": "179",
+  "name": "Bremen-Farge",
+  "parent": "neuengamme",
+  "start": "1943-07-01",
+  "end": "1945-04-08"
+ },
+ {
+  "no": "180",
+  "name": "Bremen-Findorf (\"Missler\")",
+  "start": "1933-04-01",
+  "end": "1933-09-13"
+ },
+ {
+  "no": "181",
+  "name": "Bremen-Neuenland",
+  "parent": "neuengamme",
+  "start": "1944-08-16",
+  "end": "1944-11-28"
+ },
+ {
+  "no": "182",
+  "name": "Bremen, Ochtumsand",
+  "start": "1933-09-13",
+  "end": "1934-05-15"
+ },
+ {
+  "no": "183",
+  "name": "Bremen-Osterort",
+  "parent": "neuengamme",
+  "start": "1944-11-28"
+ },
+ {
+  "no": "184",
+  "name": "Bremen-Vegesack",
+  "parent": "neuengamme",
+  "end": "1944-09-30"
+ },
+ {
+  "no": "185",
+  "name": "Bremerhaven (\"Langlütjen\")",
+  "start": "1933-09-09",
+  "end": "1934-01-25"
+ },
+ {
+  "no": "186",
+  "name": "Breslau I, Famo-Werke",
+  "parent": "gross-rosen",
+  "start": "1944-07-01",
+  "end": "1945-01-23"
+ },
+ {
+  "no": "187",
+  "name": "Breslau II",
+  "parent": "gross-rosen",
+  "start": "1944-07-01",
+  "end": "1945-01-23"
+ },
+ {
+  "no": "188",
+  "name": "Breslau-Deutsch Lissa",
+  "parent": "gross-rosen",
+  "start": "1942-07-01",
+  "end": "1945-01-23"
+ },
+ {
+  "no": "189",
+  "name": "Breslau-Dürrgoy",
+  "start": "1933-03-12",
+  "end": "1934-07-20"
+ },
+ {
+  "no": "190",
+  "name": "Breslau-Hundsfeld",
+  "parent": "gross-rosen",
+  "start": "1944-07-01",
+  "end": "1945-01-25"
+ },
+ {
+  "no": "191",
+  "name": "Bretstein, Kreis Judenburg/Österreich",
+  "parent": "mauthausen",
+  "start": "1941-08-01",
+  "end": "1943-09-30"
+ },
+ {
+  "no": "192",
+  "name": "Brieg/Schlesien",
+  "parent": "gross-rosen",
+  "start": "1944-07-01",
+  "end": "1945-01-23"
+ },
+ {
+  "no": "193",
+  "name": "Briesen",
+  "parent": "sachsenhausen",
+  "start": "1943-10-26",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "197",
+  "name": "Bromberg = Bydgoszcz/Reichsgau Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1943-08-01",
+  "end": "1943-09-30"
+ },
+ {
+  "no": "198",
+  "name": "Bromberg-Brahnau",
+  "parent": "stutthof",
+  "start": "1944-07-15",
+  "end": "1945-01-28"
+ },
+ {
+  "no": "199",
+  "name": "Bromberg-Ost",
+  "parent": "stutthof",
+  "start": "1944-09-13"
+ },
+ {
+  "no": "201",
+  "name": "Brünn = Brno/Tschech.",
+  "parent": "auschwitz",
+  "start": "1943-10-01",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "202",
+  "name": "Brünnlitz = Brnenec/Tschech., Kreis Mährisch-Trübau (früher: Kreis Zwittau)",
+  "parent": "gross-rosen",
+  "start": "1944-10-21",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "204",
+  "name": "Bruss-Sophienwalde = Brusy-Dziemiany, Kreis Konitz/Westpreußen",
+  "parent": "stutthof",
+  "start": "1944-08-24",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "208",
+  "name": "Buchenwald, früher Ettersberg",
+  "start": "1937-07-15",
+  "end": "1945-04-11"
+ },
+ {
+  "no": "209",
+  "name": "Buchwald-Hohenwiese, Kreis Hirschberg/Niederschlesien, Kdo. v. Hirschberg",
+  "parent": "gross-rosen",
+  "start": "1944-11-14",
+  "end": "1945-02-18"
+ },
+ {
+  "no": "211",
+  "name": "Budweis = Ceske Budejovice/Tschech.",
+  "start": "1942-04-13",
+  "end": "1943-06-23"
+ },
+ {
+  "no": "212",
+  "name": "Budy, Kreis Biala (früher: Kreis Bielitz-Land)",
+  "parent": "auschwitz",
+  "start": "1942-11-01"
+ },
+ {
+  "no": "213",
+  "name": "Budzyn, Kreis Krasnik/Polen",
+  "parent": "majdanek",
+  "start": "1943-10-22",
+  "end": "1944-07-06"
+ },
+ {
+  "no": "215",
+  "name": "Bunzlau I/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-05-01",
+  "end": "1945-02-12"
+ },
+ {
+  "no": "216",
+  "name": "Bunzlau II/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-10-01",
+  "end": "1945-02-11"
+ },
+ {
+  "no": "217",
+  "name": "Burgau, Kreis Günzburg",
+  "parent": "dachau",
+  "start": "1945-02-11",
+  "end": "1945-04-24"
+ },
+ {
+  "no": "220",
+  "name": "Burgsdorf, Gemeinde Bychow",
+  "parent": "stutthof"
+ },
+ {
+  "no": "221",
+  "name": "Buttelstedt, Kreis Weimar",
+  "parent": "buchenwald",
+  "start": "1941-03-24"
+ },
+ {
+  "no": "223",
+  "name": "Cacak/Serbien",
+  "start": "1943-06-11"
+ },
+ {
+  "no": "224",
+  "name": "Calw, Kreis Calw",
+  "parent": "natzweiler",
+  "start": "1945-01-13",
+  "end": "1945-04-02"
+ },
+ {
+  "no": "229",
+  "name": "Charlottengrube, Gemeinde Rydultau, Kreis Rybnik",
+  "parent": "auschwitz",
+  "start": "1944-09-19",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "230",
+  "name": "Chelmek-Paprotnik",
+  "parent": "auschwitz",
+  "start": "1942-10-01",
+  "end": "1942-12-09"
+ },
+ {
+  "no": "232",
+  "name": "Chemnitz",
+  "start": "1933-05-22",
+  "end": "1934-09-04"
+ },
+ {
+  "no": "233",
+  "name": "Chemnitz",
+  "parent": "flossenburg",
+  "start": "1944-10-24"
+ },
+ {
+  "no": "234",
+  "name": "Chinow/Pommern",
+  "parent": "stutthof",
+  "end": "1945-03-10"
+ },
+ {
+  "no": "237",
+  "name": "Christianstadt, Kreis Crossen",
+  "parent": "gross-rosen",
+  "end": "1945-02-03"
+ },
+ {
+  "no": "241",
+  "name": "Cochem-Bruttig",
+  "parent": "natzweiler",
+  "start": "1944-03-10"
+ },
+ {
+  "no": "242",
+  "name": "Coka",
+  "start": "1943-03-01"
+ },
+ {
+  "no": "243",
+  "name": "Colditz, Kreis Grimma/Sachsen",
+  "parent": "buchenwald",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "244",
+  "name": "Colditz, Kreis Grimma/Sachsen",
+  "start": "1933-07-22",
+  "end": "1934-08-15"
+ },
+ {
+  "no": "247",
+  "name": "Compiegne/Frankreich",
+  "start": "1941-08-28",
+  "end": "1944-08-18"
+ },
+ {
+  "no": "248",
+  "name": "Crawinkel, Kreis Gotha/Thüringen, Kdo. v. Ohrdruf",
+  "parent": "buchenwald",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "253",
+  "name": "Dabelow, Kreis Neustrelitz (früher: Kreis Strelitz)",
+  "parent": "ravensbruck",
+  "start": "1941-07-26"
+ },
+ {
+  "no": "254",
+  "name": "Dachau, Hauptlager",
+  "start": "1933-03-22",
+  "end": "1945-04-29"
+ },
+ {
+  "no": "255",
+  "name": "Dachau, Entomologisches Institut",
+  "parent": "dachau"
+ },
+ {
+  "no": "256",
+  "name": "Dachau, Pollnhof",
+  "parent": "dachau"
+ },
+ {
+  "no": "257",
+  "name": "Dachau, Präzifix",
+  "parent": "dachau",
+  "start": "1942-11-01"
+ },
+ {
+  "no": "258",
+  "name": "Dachau, Wülfert",
+  "parent": "dachau",
+  "start": "1943-05-13"
+ },
+ {
+  "no": "260",
+  "name": "Dalum, Kreis Meppen, Kdo. v. Meppen-Versen",
+  "parent": "neuengamme",
+  "end": "1945-03-25"
+ },
+ {
+  "no": "260a",
+  "name": "Damerau (Männer)/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1939-09-30",
+  "end": "1939-11-30"
+ },
+ {
+  "no": "261",
+  "name": "Dammsmühle, Gemeinde Schönwalde, Kreis Niederbarnim",
+  "parent": "sachsenhausen",
+  "start": "1943-01-02",
+  "end": "1943-07-03"
+ },
+ {
+  "no": "262",
+  "name": "Damshöhe",
+  "parent": "ravensbruck",
+  "start": "1943-05-13",
+  "end": "1943-10-21"
+ },
+ {
+  "no": "263",
+  "name": "Danzig-Holm, Marinebauleitung",
+  "parent": "stutthof",
+  "start": "1944-10-16"
+ },
+ {
+  "no": "264",
+  "name": "Danzig-Langfuhr, Führerschule",
+  "parent": "stutthof",
+  "start": "1940-02-29",
+  "end": "1941-05-13"
+ },
+ {
+  "no": "265",
+  "name": "Danzig-Langfuhr, Verwaltung",
+  "parent": "stutthof",
+  "start": "1941-11-18"
+ },
+ {
+  "no": "266",
+  "name": "Danzig-Neufahrwasser",
+  "parent": "stutthof",
+  "start": "1939-09-14",
+  "end": "1940-02-01"
+ },
+ {
+  "no": "267",
+  "name": "Danzig-Neufahrwasser, Firma Borchardt",
+  "parent": "stutthof",
+  "start": "1943-02-01",
+  "end": "1943-06-30"
+ },
+ {
+  "no": "267a",
+  "name": "Danzig-Ohra (Männer)",
+  "parent": "stutthof",
+  "start": "1941-07-30",
+  "end": "1941-08-21"
+ },
+ {
+  "no": "268",
+  "name": "Danzig-Oliva, Firma Boetzel",
+  "parent": "stutthof",
+  "start": "1942-11-01",
+  "end": "1943-09-30"
+ },
+ {
+  "no": "269",
+  "name": "Danzig-Oliva, Firma Penner",
+  "parent": "stutthof",
+  "start": "1942-10-01",
+  "end": "1943-06-30"
+ },
+ {
+  "no": "270",
+  "name": "Danzig-Oliva, Reitschule",
+  "parent": "stutthof",
+  "start": "1940-07-16",
+  "end": "1940-12-23"
+ },
+ {
+  "no": "271",
+  "name": "Danzig-Schellmühl, Carstens",
+  "parent": "stutthof",
+  "start": "1940-03-27",
+  "end": "1940-07-30"
+ },
+ {
+  "no": "272",
+  "name": "Danzig-Schellmühl, Faßfabrik, Firma Jost",
+  "parent": "stutthof",
+  "start": "1940-12-27"
+ },
+ {
+  "no": "273",
+  "name": "Danzig, Schichau-Werft",
+  "parent": "stutthof",
+  "start": "1944-09-13",
+  "end": "1945-03-10"
+ },
+ {
+  "no": "274",
+  "name": "Danzig, SS-Hauptversorgungslager",
+  "parent": "stutthof",
+  "start": "1940-06-23"
+ },
+ {
+  "no": "275",
+  "name": "Danzig, SS-Oberabschnitt Weichsel",
+  "parent": "stutthof",
+  "start": "1942-11-01",
+  "end": "1943-09-30"
+ },
+ {
+  "no": "276",
+  "name": "Danzig-Troyl, Danziger Werft",
+  "parent": "stutthof",
+  "start": "1944-08-26",
+  "end": "1945-03-30"
+ },
+ {
+  "no": "277",
+  "name": "Danzig, Viktoriaschule",
+  "parent": "stutthof",
+  "start": "1939-09-01",
+  "end": "1941-11-07"
+ },
+ {
+  "no": "278",
+  "name": "Danzig-Westerplatte",
+  "parent": "stutthof",
+  "start": "1939-09-14",
+  "end": "1941-05-03"
+ },
+ {
+  "no": "279",
+  "name": "Danzig-Ziegankenberg",
+  "parent": "stutthof",
+  "start": "1940-04-15",
+  "end": "1941-05-01"
+ },
+ {
+  "no": "280",
+  "name": "Darmstadt",
+  "parent": "natzweiler",
+  "start": "1944-08-31",
+  "end": "1944-09-12"
+ },
+ {
+  "no": "282",
+  "name": "Dautmergen, Kreis Balingen",
+  "parent": "natzweiler",
+  "start": "1944-08-23",
+  "end": "1945-04-18"
+ },
+ {
+  "no": "283",
+  "name": "Dedinje/Serbien",
+  "start": "1943-01-31"
+ },
+ {
+  "no": "286",
+  "name": "Dernau, Kreis Ahrweiler",
+  "parent": "buchenwald",
+  "end": "1944-12-13"
+ },
+ {
+  "no": "287",
+  "name": "Dessau/Anhalt",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "289",
+  "name": "Deutschoth/Gau Westmark, Kdo. v. Longwy-Thil",
+  "parent": "natzweiler",
+  "start": "1944-08-24",
+  "end": "1944-09-01"
+ },
+ {
+  "no": "291",
+  "name": "Dippoldsau, Kreis Steyr, Kdo. v. Großraming",
+  "parent": "mauthausen",
+  "start": "1943-07-01",
+  "end": "1944-08-29"
+ },
+ {
+  "no": "292",
+  "name": "Döberitz, Kreis Osthavelland",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "294",
+  "name": "Domachau/Westpreußen",
+  "parent": "stutthof",
+  "start": "1940-03-12",
+  "end": "1940-08-29"
+ },
+ {
+  "no": "295",
+  "name": "Dondangen = Dundaga/Lettland",
+  "parent": "riga-kaiserwald",
+  "end": "1944-08-21"
+ },
+ {
+  "no": "296",
+  "name": "Dora-Mittelbau, Gemeinde Nordhausen",
+  "parent": "buchenwald",
+  "start": "1943-08-27",
+  "end": "1945-04-09"
+ },
+ {
+  "no": "297",
+  "name": "Dörbeck/Ostpreußen",
+  "parent": "stutthof"
+ },
+ {
+  "no": "298",
+  "name": "Dormettingen, Kreis Balingen",
+  "parent": "natzweiler",
+  "start": "1945-01-01",
+  "end": "1945-04-18"
+ },
+ {
+  "no": "299",
+  "name": "Dornburg, Kreis Zerbst",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "300",
+  "name": "Dörnhau, Kreis Waldenburg/Niederschlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "start": "1944-05-01",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "301",
+  "name": "Dörpen",
+  "start": "1940-07-09",
+  "end": "1940-07-31"
+ },
+ {
+  "no": "302",
+  "name": "Dortmund",
+  "parent": "buchenwald",
+  "start": "1944-10-01",
+  "end": "1945-03-16"
+ },
+ {
+  "no": "303",
+  "name": "Drancy/Frankreich",
+  "start": "1941-08-20",
+  "end": "1944-08-17"
+ },
+ {
+  "no": "304",
+  "name": "Dresden N 23, Bauleitung der Waffen-SS und Polizei",
+  "parent": "flossenburg",
+  "start": "1942-06-22"
+ },
+ {
+  "no": "305",
+  "name": "Dresden, Verwahrungsanstalt in der Gefangenen-Anstalt II",
+  "start": "1934-02-01"
+ },
+ {
+  "no": "306",
+  "name": "Dresden, Behelfsheim",
+  "parent": "flossenburg",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "307",
+  "name": "Dresden, Bernsdorf & Co.",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "308",
+  "name": "Dresden-Friedrichstadt, Reichsbahn",
+  "parent": "flossenburg",
+  "start": "1945-03-23"
+ },
+ {
+  "no": "309",
+  "name": "Dresden-Friedrichstadt, Reichsbahn-Ausbesserungswerk",
+  "parent": "flossenburg",
+  "start": "1944-09-14"
+ },
+ {
+  "no": "310",
+  "name": "Dresden-Trachenberge, Kdo. v. Sachsenburg",
+  "start": "1934-09-04",
+  "end": "1934-10-31"
+ },
+ {
+  "no": "311",
+  "name": "Dresden, Universelle",
+  "parent": "flossenburg",
+  "start": "1944-10-09",
+  "end": "1945-02-13"
+ },
+ {
+  "no": "312",
+  "name": "Dresden, Zeiss-Ikon, Werk Goehle",
+  "parent": "flossenburg",
+  "start": "1944-10-09",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "313",
+  "name": "Dresden, Zeiss-Ikon, Werk Reick",
+  "parent": "flossenburg",
+  "start": "1944-10-22"
+ },
+ {
+  "no": "314",
+  "name": "Drögen, Gemeinde Buchholz, Kreis Gransee (früher: Kreis Strelitz)",
+  "parent": "sachsenhausen",
+  "start": "1941-05-02",
+  "end": "1942-11-30"
+ },
+ {
+  "no": "316",
+  "name": "Drütte, Gemeinde Watenstedt-Salzgitter",
+  "parent": "neuengamme",
+  "start": "1942-09-01",
+  "end": "1945-04-08"
+ },
+ {
+  "no": "319",
+  "name": "Duderstadt",
+  "parent": "buchenwald",
+  "start": "1944-11-04",
+  "end": "1945-04-07"
+ },
+ {
+  "no": "323",
+  "name": "Düsseldorf-Derendorf",
+  "parent": "buchenwald",
+  "start": "1944-09-01",
+  "end": "1945-03-10"
+ },
+ {
+  "no": "324",
+  "name": "Düsseldorf, Deutsche Erd- und Steinwerke (\"DEST\"), vormals Kirchfeldstraße 74-80 (Schule)",
+  "parent": "buchenwald",
+  "start": "1944-03-17",
+  "end": "1945-03-13"
+ },
+ {
+  "no": "325",
+  "name": "Düsseldorf-Grafenberg",
+  "parent": "buchenwald",
+  "start": "1943-11-03",
+  "end": "1945-03-10"
+ },
+ {
+  "no": "326",
+  "name": "Düsseldorf-\"Kalkum\"",
+  "parent": "buchenwald",
+  "start": "1943-05-28"
+ },
+ {
+  "no": "327",
+  "name": "Düsseldorf-Lohausen",
+  "parent": "buchenwald",
+  "start": "1944-11-23"
+ },
+ {
+  "no": "328",
+  "name": "Düssin/Mecklenburg",
+  "parent": "neuengamme",
+  "end": "1945-03-01"
+ },
+ {
+  "no": "329",
+  "name": "Dyhernfurth I, Kreis Wohlau/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1943-07-01",
+  "end": "1945-01-25"
+ },
+ {
+  "no": "330",
+  "name": "Dyhernfurth II, Kreis Wohlau/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-01-09",
+  "end": "1945-01-25"
+ },
+ {
+  "no": "334",
+  "name": "Ebensee/Oberösterreich",
+  "parent": "mauthausen",
+  "start": "1943-11-18",
+  "end": "1945-05-06"
+ },
+ {
+  "no": "335",
+  "name": "Ebersberg/Bayern",
+  "parent": "dachau"
+ },
+ {
+  "no": "336",
+  "name": "Eberswalde",
+  "parent": "ravensbruck",
+  "start": "1944-09-05"
+ },
+ {
+  "no": "337",
+  "name": "Echelsbach, Gemeinde Bayersoien, Kreis Schongau",
+  "parent": "dachau",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "338",
+  "name": "Eching, Kreis Freising",
+  "parent": "dachau",
+  "start": "1945-04-10"
+ },
+ {
+  "no": "339",
+  "name": "Echterdingen, Kreis Esslingen",
+  "parent": "natzweiler",
+  "start": "1944-11-17",
+  "end": "1945-01-21"
+ },
+ {
+  "no": "340",
+  "name": "Edersgrün/Tschech.",
+  "start": "1939-05-01",
+  "end": "1942-12-31"
+ },
+ {
+  "no": "341",
+  "name": "Edewechterdamm",
+  "start": "1942-07-25",
+  "end": "1943-09-27"
+ },
+ {
+  "no": "343",
+  "name": "Eichen bei Kladno = Dubi/Tschech.",
+  "start": "1942-03-01",
+  "end": "1942-10-01"
+ },
+ {
+  "no": "344",
+  "name": "Eichstätt, Kdo. v. Nürnberg",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "345",
+  "name": "Eichwalde/Ostpreußen",
+  "parent": "stutthof",
+  "start": "1939-10-02",
+  "end": "1939-12-10"
+ },
+ {
+  "no": "346a",
+  "name": "Eilsleben (Männer), Kdo. v. Helmstedt-Beendorf/Sachsen",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "347",
+  "name": "Einbeck"
+ },
+ {
+  "no": "348",
+  "name": "Eindhoven/Holland",
+  "parent": "herzogenbusch",
+  "start": "1943-09-02"
+ },
+ {
+  "no": "349",
+  "name": "Eintrachthütte, Gemeinde Schwientochlowitz",
+  "parent": "auschwitz",
+  "start": "1943-06-07",
+  "end": "1945-01-23"
+ },
+ {
+  "no": "350",
+  "name": "Eisenach",
+  "parent": "buchenwald",
+  "end": "1945-02-16"
+ },
+ {
+  "no": "351",
+  "name": "Eisenberg = Jezeri, Gemeinde Ulbersdorf, Kreis Komotau/Tschech.",
+  "parent": "flossenburg",
+  "start": "1943-06-21",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "352",
+  "name": "Eisenerz/Steiermark",
+  "parent": "mauthausen",
+  "start": "1943-06-15"
+ },
+ {
+  "no": "353",
+  "name": "Elbing, Boelckestraße",
+  "parent": "stutthof",
+  "start": "1940-03-27",
+  "end": "1942-03-01"
+ },
+ {
+  "no": "354",
+  "name": "Elbing-OT/Ostpreußen",
+  "parent": "stutthof",
+  "start": "1944-08-09"
+ },
+ {
+  "no": "355",
+  "name": "Elbing, Schichau-Werft",
+  "parent": "stutthof",
+  "start": "1944-09-20"
+ },
+ {
+  "no": "356",
+  "name": "Elley-Meiten = Eleja-Meitene/Lettland",
+  "parent": "riga-kaiserwald",
+  "start": "1943-10-01",
+  "end": "1944-06-30"
+ },
+ {
+  "no": "357",
+  "name": "Ellrich, Kreis Nordhausen (Mittelbau II)",
+  "parent": "buchenwald",
+  "start": "1944-11-01",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "358",
+  "name": "Ellwangen, Kreis Aalen",
+  "parent": "dachau",
+  "start": "1941-07-03",
+  "end": "1942-10-17"
+ },
+ {
+  "no": "359",
+  "name": "Ellwangen, Kreis Aalen",
+  "parent": "natzweiler",
+  "start": "1943-06-28",
+  "end": "1945-04-07"
+ },
+ {
+  "no": "360",
+  "name": "Elsnig, Kreis Torgau",
+  "parent": "buchenwald",
+  "end": "1945-04-20"
+ },
+ {
+  "no": "361",
+  "name": "Emden"
+ },
+ {
+  "no": "362",
+  "name": "Enns, Kreis Linz/Oberösterreich",
+  "parent": "mauthausen",
+  "end": "1945-04-19"
+ },
+ {
+  "no": "363",
+  "name": "Ennsdorf/Niederösterreich",
+  "parent": "mauthausen",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "369",
+  "name": "Erides = Ereda/Estland",
+  "parent": "vaivara",
+  "start": "1943-09-15",
+  "end": "1944-09-20"
+ },
+ {
+  "no": "370",
+  "name": "Erlenbusch, Kreis Waldenburg/Niederschlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "start": "1944-05-01",
+  "end": "1945-05-04"
+ },
+ {
+  "no": "373",
+  "name": "Erzingen, Kreis Balingen",
+  "parent": "natzweiler",
+  "start": "1944-03-01",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "374",
+  "name": "Eschershausen, Kreis Holzminden",
+  "parent": "buchenwald",
+  "end": "1945-04-03"
+ },
+ {
+  "no": "375",
+  "name": "Espeland/Norwegen",
+  "start": "1942-01-01"
+ },
+ {
+  "no": "376",
+  "name": "Espenthor/Tschech.",
+  "start": "1938-11-09",
+  "end": "1939-06-30"
+ },
+ {
+  "no": "377",
+  "name": "Essen",
+  "parent": "buchenwald",
+  "start": "1943-12-13"
+ },
+ {
+  "no": "379",
+  "name": "Esterwegen, ab 4.3.1933, mit Unterkommandos Bad Zwischenahn, Edewechterdamm, Einbeck, Emden, Oldenburg, Plantlünne, Preußisch-Oldendorf und Rastdorf (siehe alle dort)"
+ },
+ {
+  "no": "381",
+  "name": "Eule, Kreis Neurode (früher: Kreis Glatz)/Niederschlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "start": "1944-04-01",
+  "end": "1945-01-13"
+ },
+ {
+  "no": "381a",
+  "name": "Eutin/Oldenburg (Männer)",
+  "start": "1933-07-01"
+ },
+ {
+  "no": "382",
+  "name": "Falkenau = Falknov bei Karlsbad/Tschech., Kdo. v. Zwodau",
+  "parent": "flossenburg",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "383",
+  "name": "Falkenberg, Kreis Neurode (früher: Kreis Glatz)/Niederschlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "start": "1944-04-15",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "385",
+  "name": "Falkensee/Brandenburg",
+  "parent": "sachsenhausen",
+  "start": "1943-03-08",
+  "end": "1945-04-25"
+ },
+ {
+  "no": "387",
+  "name": "Fallersleben",
+  "parent": "neuengamme",
+  "end": "1945-04-08"
+ },
+ {
+  "no": "388",
+  "name": "Falstad i. Ekne/Norwegen",
+  "start": "1941-12-01"
+ },
+ {
+  "no": "390",
+  "name": "Farschweiler über Hermeskeil, Kreis Trier",
+  "parent": "hinzert",
+  "end": "1945-03-05"
+ },
+ {
+  "no": "391",
+  "name": "Faulbrück, Kreis Reichenbach/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-06-16"
+ },
+ {
+  "no": "393",
+  "name": "Feldafing, Kreis Starnberg",
+  "parent": "dachau",
+  "start": "1942-04-06",
+  "end": "1945-04-23"
+ },
+ {
+  "no": "394",
+  "name": "Feldberg, Kreis Neustrelitz",
+  "parent": "ravensbruck"
+ },
+ {
+  "no": "395",
+  "name": "Feldmoching/Bayern",
+  "parent": "dachau"
+ },
+ {
+  "no": "398",
+  "name": "Finow/Brandenburg",
+  "parent": "ravensbruck",
+  "end": "1945-03-02"
+ },
+ {
+  "no": "399",
+  "name": "Finthen",
+  "parent": "hinzert"
+ },
+ {
+  "no": "400",
+  "name": "Fischbachau, Kreis Miesbach",
+  "parent": "dachau",
+  "start": "1944-09-12",
+  "end": "1945-01-21"
+ },
+ {
+  "no": "401",
+  "name": "Fischen, Kreis Sonthofen, Kdo. v. Kottern",
+  "parent": "dachau",
+  "start": "1944-11-06"
+ },
+ {
+  "no": "402",
+  "name": "Fischhorn/Pinzgau, Kreis Zell a. See",
+  "parent": "dachau"
+ },
+ {
+  "no": "403",
+  "name": "Flöha bei Chemnitz",
+  "parent": "flossenburg",
+  "start": "1944-03-18",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "405",
+  "name": "Flössberg bei Leipzig",
+  "parent": "buchenwald",
+  "start": "1944-12-28",
+  "end": "1945-04-17"
+ },
+ {
+  "no": "406",
+  "name": "Flossenbürg",
+  "start": "1938-05-03",
+  "end": "1945-04-23"
+ },
+ {
+  "no": "409",
+  "name": "Fort de Romainville/Frankreich",
+  "start": "1941-06-12"
+ },
+ {
+  "no": "410",
+  "name": "Fossoli di Carpi/Italien",
+  "start": "1943-09-08",
+  "end": "1944-10-01"
+ },
+ {
+  "no": "411",
+  "name": "Frankfurt a. M., Adlerwerke AG.",
+  "parent": "natzweiler",
+  "start": "1944-08-22",
+  "end": "1945-03-25"
+ },
+ {
+  "no": "412",
+  "name": "Frauenburg",
+  "start": "1941-12-16",
+  "end": "1942-02-28"
+ },
+ {
+  "no": "413",
+  "name": "Freiberg/Sachsen",
+  "parent": "flossenburg",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "414",
+  "name": "Freiburg/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1945-01-12",
+  "end": "1945-02-26"
+ },
+ {
+  "no": "417",
+  "name": "Freising/Bayern",
+  "parent": "dachau"
+ },
+ {
+  "no": "418",
+  "name": "Freudendorf/Westpreußen",
+  "parent": "stutthof",
+  "end": "1945-01-28"
+ },
+ {
+  "no": "419",
+  "name": "Freudenthal = Bruntal bei Troppau/Tschech.",
+  "parent": "auschwitz",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "420",
+  "name": "Friedenthal/Brandenburg, nur Arbeitseinsatzstelle v. Sachsenhausen"
+ },
+ {
+  "no": "421",
+  "name": "Friedland/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-09-08",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "422",
+  "name": "Friedolfing, Kreis Laufen",
+  "parent": "dachau",
+  "end": "1944-05-30"
+ },
+ {
+  "no": "423",
+  "name": "Friedrichshafen, Kreis Tettnang",
+  "parent": "dachau",
+  "start": "1943-06-22",
+  "end": "1944-09-26"
+ },
+ {
+  "no": "425",
+  "name": "Frommern, Kreis Balingen",
+  "parent": "natzweiler",
+  "start": "1944-03-01",
+  "end": "1945-04-17"
+ },
+ {
+  "no": "426",
+  "name": "Froslev/Dänemark",
+  "start": "1944-08-13",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "429",
+  "name": "Fünfbrunnen = Cinq Fontaines/Luxemburg",
+  "start": "1941-08-01",
+  "end": "1943-09-28"
+ },
+ {
+  "no": "430",
+  "name": "Fünfteichen/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1943-10-15",
+  "end": "1945-01-23"
+ },
+ {
+  "no": "431",
+  "name": "Fürstenberg, Kreis Neustrelitz",
+  "parent": "ravensbruck"
+ },
+ {
+  "no": "432",
+  "name": "Fürstenberg (Oder)/Brandenburg",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "433",
+  "name": "Fürstengrube = Kopalnia Fürsten, Gemeinde Wesola/Schlesien",
+  "parent": "auschwitz",
+  "start": "1943-09-02",
+  "end": "1945-01-29"
+ },
+ {
+  "no": "436",
+  "name": "Fürstenstein, Kreis Waldenburg/Niederschlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "437",
+  "name": "Fürstenwalde/Brandenburg",
+  "parent": "sachsenhausen",
+  "start": "1943-01-02",
+  "end": "1944-07-31"
+ },
+ {
+  "no": "439",
+  "name": "Gabersdorf, Kreis Trautenau/Tschech.",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "440",
+  "name": "Gablingen, Kreis Augsburg",
+  "parent": "dachau"
+ },
+ {
+  "no": "441",
+  "name": "Gablonz = Jablonec nad Nisou/Tschech.",
+  "parent": "gross-rosen",
+  "start": "1944-11-01",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "442",
+  "name": "Gaggenau/Baden"
+ },
+ {
+  "no": "443",
+  "name": "Ganacker bei Landau",
+  "parent": "flossenburg",
+  "start": "1945-02-21",
+  "end": "1945-04-24"
+ },
+ {
+  "no": "445",
+  "name": "Gans/Pommern",
+  "parent": "stutthof"
+ },
+ {
+  "no": "447",
+  "name": "Garmisch-Partenkirchen",
+  "parent": "dachau"
+ },
+ {
+  "no": "448",
+  "name": "Gartschin = Garczyn, Kreis Koscierzyna",
+  "parent": "stutthof",
+  "start": "1939-09-01",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "449",
+  "name": "Gassen, Kreis Sorau",
+  "parent": "gross-rosen",
+  "start": "1944-07-01",
+  "end": "1945-02-11"
+ },
+ {
+  "no": "451",
+  "name": "Gebhardsdorf, Kreis Lauban/Niederschlesien",
+  "parent": "gross-rosen",
+  "end": "1945-03-01"
+ },
+ {
+  "no": "453",
+  "name": "Geisenheim/Rheingaukreis",
+  "parent": "natzweiler",
+  "end": "1945-03-22"
+ },
+ {
+  "no": "454",
+  "name": "Geislingen an der Steige, Kreis Göppingen",
+  "parent": "natzweiler",
+  "start": "1944-07-25",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "455",
+  "name": "Gelnhausen, Kreis Gelnhausen",
+  "parent": "hinzert"
+ },
+ {
+  "no": "456",
+  "name": "Gelsenkirchen-Horst",
+  "parent": "buchenwald",
+  "start": "1944-07-04",
+  "end": "1944-09-15"
+ },
+ {
+  "no": "457",
+  "name": "Gendorf, Gemeinde Emmerting",
+  "parent": "dachau",
+  "end": "1945-04-05"
+ },
+ {
+  "no": "458",
+  "name": "Genshagen, Kreis Zossen (früher: Kreis Teltow)",
+  "parent": "sachsenhausen",
+  "start": "1944-09-01",
+  "end": "1945-04-20"
+ },
+ {
+  "no": "459",
+  "name": "Genthin bei Magdeburg",
+  "parent": "ravensbruck",
+  "start": "1943-06-18"
+ },
+ {
+  "no": "460",
+  "name": "Geppersdorf",
+  "parent": "gross-rosen",
+  "start": "1945-01-01"
+ },
+ {
+  "no": "461",
+  "name": "Gerdauen/Ostpreußen",
+  "parent": "stutthof",
+  "start": "1944-09-21",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "462",
+  "name": "Germering bei Puchheim, Kreis Fürstenfeldbruck",
+  "parent": "dachau"
+ },
+ {
+  "no": "463",
+  "name": "Giebelstadt/Bayern",
+  "parent": "flossenburg",
+  "end": "1945-04-01"
+ },
+ {
+  "no": "464",
+  "name": "Gießen",
+  "parent": "buchenwald",
+  "end": "1945-03-26"
+ },
+ {
+  "no": "465",
+  "name": "Gilze Rijen/Holland",
+  "parent": "herzogenbusch",
+  "start": "1943-08-30"
+ },
+ {
+  "no": "466",
+  "name": "Glasau bei Sarau, Kreis Segeberg",
+  "parent": "neuengamme",
+  "start": "1945-03-29",
+  "end": "1945-05-02"
+ },
+ {
+  "no": "467",
+  "name": "Glau-Trebbin, Kreis Luckenwalde (früher: Kreis Jüterbog-Luckenwalde)",
+  "parent": "sachsenhausen",
+  "start": "1942-10-23"
+ },
+ {
+  "no": "469",
+  "name": "Gleiwitz I, III, IV",
+  "parent": "auschwitz",
+  "end": "1945-01-21"
+ },
+ {
+  "no": "470",
+  "name": "Gleiwitz II/Gemeinde Gleiwitz-Steigern",
+  "parent": "auschwitz",
+  "start": "1944-05-03",
+  "end": "1945-01-22"
+ },
+ {
+  "no": "472",
+  "name": "Glöwen/Brandenburg",
+  "parent": "sachsenhausen",
+  "start": "1944-08-17",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "473",
+  "name": "Gmund a. Tegernsee",
+  "parent": "dachau"
+ },
+ {
+  "no": "474a",
+  "name": "Gnojau (Männer)/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "end": "1940-02-16"
+ },
+ {
+  "no": "476",
+  "name": "Goddentow/Pommern",
+  "parent": "stutthof",
+  "end": "1945-03-09"
+ },
+ {
+  "no": "478",
+  "name": "Goldfields, Kreisgebiet Wesenberg/Estland",
+  "parent": "vaivara",
+  "start": "1943-09-15"
+ },
+ {
+  "no": "479",
+  "name": "Golleschau = Goleszow, Kreis Cieszyn",
+  "parent": "auschwitz",
+  "start": "1942-07-15",
+  "end": "1945-01-21"
+ },
+ {
+  "no": "480",
+  "name": "Gollnow/Pommern",
+  "start": "1933-05-27"
+ },
+ {
+  "no": "481",
+  "name": "Görlitz/Niederschlesien, Fa. Wumag",
+  "parent": "gross-rosen",
+  "start": "1944-08-08",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "483",
+  "name": "Goslar",
+  "parent": "buchenwald",
+  "start": "1940-11-25",
+  "end": "1942-12-07"
+ },
+ {
+  "no": "484",
+  "name": "Goslar",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "485",
+  "name": "Gotenhafen = Gdynia",
+  "parent": "stutthof",
+  "start": "1939-09-14",
+  "end": "1941-12-03"
+ },
+ {
+  "no": "486",
+  "name": "Gotenhafen, Deutsche Werke",
+  "parent": "stutthof",
+  "start": "1944-10-16",
+  "end": "1945-03-20"
+ },
+ {
+  "no": "487",
+  "name": "Göttingen",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "488",
+  "name": "Gräben, Kreis Schweidnitz/Niederschlesien",
+  "parent": "gross-rosen",
+  "end": "1945-02-01"
+ },
+ {
+  "no": "489",
+  "name": "Gräflich Röhrsdorf",
+  "parent": "gross-rosen",
+  "start": "1944-03-01",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "491",
+  "name": "Grafenort, Kreis Habelschwert/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1945-03-01",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "492",
+  "name": "Grafenreuth/Opf.",
+  "parent": "flossenburg",
+  "start": "1943-06-21",
+  "end": "1945-04-21"
+ },
+ {
+  "no": "494",
+  "name": "Graslitz = Kraslice/Eger bei Karlsbad/Tschech.",
+  "parent": "flossenburg",
+  "start": "1944-08-06",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "495",
+  "name": "Graudenz = Grudziadz bei Danzig",
+  "parent": "stutthof",
+  "start": "1939-09-01",
+  "end": "1943-08-28"
+ },
+ {
+  "no": "496",
+  "name": "Gravenhage/Holland",
+  "parent": "herzogenbusch",
+  "start": "1943-09-01"
+ },
+ {
+  "no": "497",
+  "name": "Graz/Steiermark",
+  "parent": "mauthausen",
+  "end": "1945-04-18"
+ },
+ {
+  "no": "497a",
+  "name": "Grebinerfeld (Männer)/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "end": "1939-12-21"
+ },
+ {
+  "no": "498",
+  "name": "Grein/Oberösterreich",
+  "parent": "mauthausen",
+  "end": "1945-02-20"
+ },
+ {
+  "no": "499",
+  "name": "Grenzdorf bei Danzig",
+  "parent": "stutthof",
+  "start": "1939-09-27",
+  "end": "1941-11-05"
+ },
+ {
+  "no": "500",
+  "name": "Grini/Norwegen",
+  "start": "1941-06-14",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "501",
+  "name": "Groden = Grodno, Gemeinde Merch",
+  "parent": "stutthof",
+  "start": "1944-01-01",
+  "end": "1945-01-15"
+ },
+ {
+  "no": "502",
+  "name": "Gröditz, Kreis Großenhain/Sachsen",
+  "parent": "flossenburg",
+  "start": "1944-10-01",
+  "end": "1945-04-18"
+ },
+ {
+  "no": "504",
+  "name": "Groß Hesepe, Kreis Meppen, Kdo. v. Meppen-Versen",
+  "parent": "neuengamme",
+  "end": "1945-03-25"
+ },
+ {
+  "no": "505",
+  "name": "Groß Koschen/Brandenburg",
+  "parent": "gross-rosen",
+  "start": "1944-10-01",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "506",
+  "name": "Groß-Lesewitz/Danzig-Westpreußen",
+  "parent": "stutthof"
+ },
+ {
+  "no": "506a",
+  "name": "Groß Mausdorf (Männer)/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1940-04-22",
+  "end": "1940-06-24"
+ },
+ {
+  "no": "506b",
+  "name": "Groß-Montau (Männer)/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1941-08-11",
+  "end": "1941-08-22"
+ },
+ {
+  "no": "507",
+  "name": "Großraming, Kreis Steyr/Österreich",
+  "parent": "mauthausen",
+  "start": "1943-01-14",
+  "end": "1944-08-29"
+ },
+ {
+  "no": "508",
+  "name": "Groß Rosen/Niederschlesien",
+  "parent": "sachsenhausen",
+  "start": "1940-08-02",
+  "end": "1945-02-13"
+ },
+ {
+  "no": "508a",
+  "name": "Groß Saalau (Männer)/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1939-10-31",
+  "end": "1939-11-18"
+ },
+ {
+  "no": "510",
+  "name": "Großwerther, Kreis Nordhausen (früher: Kreis Grafschaft Hohenstein)",
+  "parent": "mittelbau-dora",
+  "start": "1945-02-01"
+ },
+ {
+  "no": "512",
+  "name": "Grulich = Kraliky/Tschech.",
+  "parent": "gross-rosen",
+  "start": "1944-11-01",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "513",
+  "name": "Grünberg in Schlesien I/Niederschlesien, Deutsche Wollwaren-Manufaktur",
+  "parent": "gross-rosen",
+  "start": "1944-07-01",
+  "end": "1945-02-10"
+ },
+ {
+  "no": "513a",
+  "name": "Grünberg in Schlesien II (Männer)/Niederschlesien",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "514",
+  "name": "Grüneberg/Brandenburg, Kreis Gransee (früher: Kreis Ruppin)",
+  "parent": "ravensbruck",
+  "end": "1945-01-01"
+ },
+ {
+  "no": "517",
+  "name": "Guben/Brandenburg",
+  "parent": "gross-rosen",
+  "start": "1944-09-01"
+ },
+ {
+  "no": "518",
+  "name": "Gundelsdorf bei Kronach",
+  "parent": "flossenburg",
+  "start": "1944-11-04",
+  "end": "1945-01-27"
+ },
+ {
+  "no": "519",
+  "name": "Gunskirchen, Kreis Wels, Waldwerke I",
+  "parent": "mauthausen",
+  "start": "1944-12-27",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "520",
+  "name": "Gunskirchen, Sammellager",
+  "parent": "mauthausen",
+  "start": "1945-03-12",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "521",
+  "name": "Günthergrube, Gemeinde Lendzin, Kreis Kattowitz",
+  "parent": "auschwitz",
+  "start": "1944-02-01",
+  "end": "1945-01-19"
+ },
+ {
+  "no": "522",
+  "name": "Gurske = Gorsk/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1945-01-01"
+ },
+ {
+  "no": "523",
+  "name": "Gusen, Kreis Perg",
+  "parent": "mauthausen",
+  "start": "1940-05-25",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "524",
+  "name": "Gusterath, nur Arbeitseinsatzstelle v. Hinzert"
+ },
+ {
+  "no": "526",
+  "name": "Guttau = Gutowo, Kreis Thorn-Land/Westpreußen",
+  "parent": "stutthof",
+  "start": "1944-09-01",
+  "end": "1945-01-15"
+ },
+ {
+  "no": "529",
+  "name": "Haaren bei Tilburg/Holland",
+  "parent": "herzogenbusch",
+  "start": "1943-01-01"
+ },
+ {
+  "no": "530",
+  "name": "Hadmersleben, Kreis Wansleben",
+  "parent": "buchenwald",
+  "start": "1944-03-13",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "531",
+  "name": "Haidari, Athen/Griechenland",
+  "start": "1942-07-01",
+  "end": "1944-09-24"
+ },
+ {
+  "no": "533",
+  "name": "Hailfingen, Kreis Tübingen",
+  "parent": "natzweiler",
+  "start": "1944-11-17"
+ },
+ {
+  "no": "533a",
+  "name": "Hainewalde/Sachsen (Männer)",
+  "start": "1933-03-31",
+  "end": "1938-03-31"
+ },
+ {
+  "no": "534",
+  "name": "Hainichen, Kreis Döbeln/Sachsen",
+  "end": "1933-05-31"
+ },
+ {
+  "no": "535",
+  "name": "Hainichen, Kreis Döbeln/Sachsen",
+  "parent": "flossenburg",
+  "start": "1944-09-02",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "538",
+  "name": "Halbau/Niederschlesien",
+  "parent": "gross-rosen",
+  "end": "1945-02-15"
+ },
+ {
+  "no": "539",
+  "name": "Halberstadt, Junkerswerke/Prov. Sachsen",
+  "parent": "buchenwald",
+  "start": "1944-07-26",
+  "end": "1945-04-08"
+ },
+ {
+  "no": "540",
+  "name": "Halberstadt \"Malachit\"",
+  "parent": "buchenwald",
+  "start": "1944-04-21",
+  "end": "1945-04-11"
+ },
+ {
+  "no": "541",
+  "name": "Halberstadt-Zwieberge \"Malachit AG\"",
+  "parent": "buchenwald",
+  "end": "1945-04-11"
+ },
+ {
+  "no": "542",
+  "name": "Halberstadt-Zwieberge, Maifisch",
+  "parent": "buchenwald",
+  "start": "1944-10-07",
+  "end": "1945-01-29"
+ },
+ {
+  "no": "543",
+  "name": "Halbstadt = Mezimesti/Tschech.",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "545",
+  "name": "Halfing, Kreis Rosenheim",
+  "parent": "dachau",
+  "start": "1942-11-19",
+  "end": "1942-12-18"
+ },
+ {
+  "no": "546",
+  "name": "Halfing, Kreis Rosenheim, Brüningsau",
+  "parent": "dachau"
+ },
+ {
+  "no": "547",
+  "name": "Halle/S.",
+  "parent": "buchenwald",
+  "start": "1944-08-01"
+ },
+ {
+  "no": "548",
+  "name": "Hallein/Österreich",
+  "parent": "dachau",
+  "start": "1943-09-01",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "549",
+  "name": "Hambühren/Provinz Hannover"
+ },
+ {
+  "no": "550",
+  "name": "Hamburg, Blohm und Voss",
+  "parent": "neuengamme",
+  "start": "1944-07-01",
+  "end": "1945-04-21"
+ },
+ {
+  "no": "551",
+  "name": "Hamburg, Bombensuchkommando (Männer)",
+  "parent": "neuengamme",
+  "start": "1940-12-01"
+ },
+ {
+  "no": "552",
+  "name": "Hamburg, Bullenhuserdamm",
+  "parent": "neuengamme",
+  "start": "1944-10-01",
+  "end": "1945-04-21"
+ },
+ {
+  "no": "553",
+  "name": "Hamburg-Eidelstedt",
+  "parent": "neuengamme",
+  "start": "1944-03-01",
+  "end": "1945-05-01"
+ },
+ {
+  "no": "554",
+  "name": "Hamburg-Finkenwerder",
+  "parent": "neuengamme",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "555",
+  "name": "Hamburg-Fuhlsbüttel, ohne Strafvollzugseinrichtungen",
+  "start": "1933-03-04",
+  "end": "1945-05-03"
+ },
+ {
+  "no": "556",
+  "name": "Hamburg-Fuhlsbüttel, Am Hasenberge",
+  "parent": "neuengamme",
+  "start": "1943-01-01",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "557",
+  "name": "Hamburg-Geilenberg, Dessauer Ufer",
+  "parent": "neuengamme",
+  "start": "1944-06-20",
+  "end": "1944-09-30"
+ },
+ {
+  "no": "558",
+  "name": "Hamburg, Howaldtwerke",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "559",
+  "name": "Hamburg-Langenhorn",
+  "parent": "neuengamme",
+  "start": "1944-09-12",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "560",
+  "name": "Hamburg-Neugraben",
+  "parent": "neuengamme",
+  "start": "1944-09-01",
+  "end": "1945-02-08"
+ },
+ {
+  "no": "561",
+  "name": "Hamburg-Sasel",
+  "parent": "neuengamme",
+  "start": "1944-08-01",
+  "end": "1945-05-04"
+ },
+ {
+  "no": "562",
+  "name": "Hamburg, Spaldingstraße",
+  "parent": "neuengamme",
+  "start": "1944-09-01",
+  "end": "1945-04-22"
+ },
+ {
+  "no": "563",
+  "name": "Hamburg, Stülckenwerft",
+  "parent": "neuengamme",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "564",
+  "name": "Hamburg-Tiefstack",
+  "parent": "neuengamme",
+  "start": "1945-02-08",
+  "end": "1945-04-05"
+ },
+ {
+  "no": "565",
+  "name": "Hamburg-Wandsbek",
+  "parent": "neuengamme",
+  "start": "1944-05-02",
+  "end": "1945-05-03"
+ },
+ {
+  "no": "566",
+  "name": "Hamburg-Wilhelmsburg, Jung-Ölindustrie",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "567",
+  "name": "Hammerstein, Kreis Schlochau",
+  "start": "1933-08-01",
+  "end": "1935-03-31"
+ },
+ {
+  "no": "568",
+  "name": "Hannover-Ahlem",
+  "parent": "neuengamme",
+  "start": "1944-11-30",
+  "end": "1945-04-11"
+ },
+ {
+  "no": "570",
+  "name": "Hannover-Limmer",
+  "parent": "neuengamme",
+  "end": "1945-04-07"
+ },
+ {
+  "no": "571",
+  "name": "Hannover-Linden",
+  "parent": "neuengamme",
+  "end": "1945-04-07"
+ },
+ {
+  "no": "572",
+  "name": "Hannover-Misburg",
+  "parent": "neuengamme",
+  "end": "1945-04-07"
+ },
+ {
+  "no": "573",
+  "name": "Hannover-Stöcken, Accumulatorenwerk",
+  "parent": "neuengamme",
+  "start": "1943-07-19",
+  "end": "1945-04-08"
+ },
+ {
+  "no": "574",
+  "name": "Hannover-Stöcken, Continental-Werke",
+  "parent": "neuengamme",
+  "start": "1944-09-07",
+  "end": "1944-11-30"
+ },
+ {
+  "no": "575",
+  "name": "Hardehausen",
+  "parent": "buchenwald",
+  "start": "1945-02-22",
+  "end": "1945-04-02"
+ },
+ {
+  "no": "576",
+  "name": "Hark/Estland",
+  "start": "1942-10-27"
+ },
+ {
+  "no": "577",
+  "name": "Harmense = Harmeze, Gemeinde Auschwitz",
+  "parent": "auschwitz",
+  "start": "1941-12-08",
+  "end": "1945-01-18"
+ },
+ {
+  "no": "579",
+  "name": "Hartmannsdorf, Kreis Lauban/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-01-01",
+  "end": "1945-02-28"
+ },
+ {
+  "no": "580",
+  "name": "Harzungen (Mittelbau II und III), Kreis Nordhausen (früher: Kreis Grafschaft Hohenstein)",
+  "parent": "buchenwald",
+  "start": "1944-04-01",
+  "end": "1945-04-09"
+ },
+ {
+  "no": "581",
+  "name": "Haslach, Kreis Wolfach",
+  "start": "1944-11-01",
+  "end": "1945-03-28"
+ },
+ {
+  "no": "582",
+  "name": "Haslach, Kreis Wolfach",
+  "parent": "natzweiler",
+  "start": "1944-09-16",
+  "end": "1945-02-28"
+ },
+ {
+  "no": "584",
+  "name": "Haunstetten/Bayern",
+  "parent": "dachau",
+  "start": "1943-02-09"
+ },
+ {
+  "no": "585",
+  "name": "Hausberge a. d. Porta",
+  "parent": "neuengamme",
+  "start": "1945-02-01",
+  "end": "1945-04-01"
+ },
+ {
+  "no": "586",
+  "name": "Hausdorf/Niederschlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "start": "1944-01-01",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "587",
+  "name": "Hausham, Kreis Miesbach",
+  "parent": "ravensbruck",
+  "start": "1942-07-09",
+  "end": "1945-04-25"
+ },
+ {
+  "no": "589",
+  "name": "Hayingen, Gau Westmark",
+  "parent": "natzweiler",
+  "start": "1944-08-24",
+  "end": "1944-09-11"
+ },
+ {
+  "no": "590",
+  "name": "Hecklingen/Sachsen-Anhalt, Kdo. v. Halberstadt",
+  "parent": "buchenwald",
+  "start": "1944-10-12",
+  "end": "1944-11-10"
+ },
+ {
+  "no": "591",
+  "name": "Heidenau, Kreis Pirna",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "592",
+  "name": "Heidenheim/Württemberg",
+  "parent": "dachau",
+  "start": "1941-10-20",
+  "end": "1942-11-26"
+ },
+ {
+  "no": "594",
+  "name": "Heiligenbeil/Ostpreußen",
+  "parent": "stutthof",
+  "start": "1944-09-21",
+  "end": "1945-01-15"
+ },
+ {
+  "no": "594a",
+  "name": "Heinersdorf (Männer), Niederschlesien",
+  "start": "1933-04-05"
+ },
+ {
+  "no": "595",
+  "name": "Helmbrechts bei Hof, Kreis Münchberg",
+  "parent": "ravensbruck",
+  "start": "1944-09-01",
+  "end": "1945-04-13"
+ },
+ {
+  "no": "596",
+  "name": "Helmstedt-Beendorf",
+  "parent": "neuengamme",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "597",
+  "name": "Hennigsdorf/Brandenburg",
+  "parent": "sachsenhausen",
+  "end": "1945-04-24"
+ },
+ {
+  "no": "598",
+  "name": "Heppenheim, Kreis Bergstraße (früher: Kreis Heppenheim)",
+  "parent": "dachau",
+  "start": "1942-05-28",
+  "end": "1942-12-18"
+ },
+ {
+  "no": "600",
+  "name": "Hermeskeil, Kreis Trier",
+  "parent": "hinzert",
+  "start": "1940-03-23"
+ },
+ {
+  "no": "601",
+  "name": "Hersbruck bei Nürnberg",
+  "parent": "flossenburg",
+  "start": "1944-05-17",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "602",
+  "name": "Hertine = Rtyne, bei Teplitz-Schönau/Tschech.",
+  "parent": "flossenburg",
+  "start": "1944-10-10",
+  "end": "1945-04-22"
+ },
+ {
+  "no": "603",
+  "name": "Herzogenbusch = Hertogenbosch, Gemeinde Vught/Holland",
+  "start": "1943-01-05",
+  "end": "1944-09-06"
+ },
+ {
+  "no": "605",
+  "name": "Hessental, Kreis Schwäbisch-Hall",
+  "parent": "natzweiler",
+  "start": "1944-10-15",
+  "end": "1945-04-06"
+ },
+ {
+  "no": "606",
+  "name": "Hessisch-Lichtenau/Fürstenhagen, Kreis Witzenhausen",
+  "parent": "buchenwald",
+  "start": "1944-08-01",
+  "end": "1945-03-29"
+ },
+ {
+  "no": "607",
+  "name": "Heuberg, Kreis Stockach",
+  "start": "1933-03-05",
+  "end": "1933-12-21"
+ },
+ {
+  "no": "608",
+  "name": "Hildesheim",
+  "parent": "neuengamme",
+  "end": "1945-04-06"
+ },
+ {
+  "no": "609",
+  "name": "Hindenburg/Oberschlesien",
+  "parent": "auschwitz",
+  "start": "1944-08-01",
+  "end": "1945-01-19"
+ },
+ {
+  "no": "611",
+  "name": "Hinzert, Kreis Trier, SS-Sonderlager",
+  "parent": "buchenwald",
+  "start": "1939-10-01",
+  "end": "1945-03-03"
+ },
+ {
+  "no": "612",
+  "name": "Hirschberg im Riesengebirge (Männer)/ Niederschlesien, Askaniawerke, Phrix-Werke",
+  "parent": "gross-rosen",
+  "start": "1943-04-01",
+  "end": "1945-02-28"
+ },
+ {
+  "no": "613",
+  "name": "Hirtenberg/Niederösterreich",
+  "parent": "mauthausen",
+  "end": "1945-04-16"
+ },
+ {
+  "no": "614",
+  "name": "Hochweiler, Kreis Militsch/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-10-20"
+ },
+ {
+  "no": "615",
+  "name": "Hof-Moschendorf",
+  "parent": "dachau",
+  "start": "1944-09-03",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "615a",
+  "name": "Hohenbruch (Männer)/Ostpreußen",
+  "start": "1939-10-19",
+  "end": "1942-09-30"
+ },
+ {
+  "no": "616",
+  "name": "Hoheneck = Jajkowo, Kdo. Elbing-OT",
+  "parent": "stutthof"
+ },
+ {
+  "no": "618",
+  "name": "Hohenlinde = Lagiewniki Slaskie, Kreis Kattowitz",
+  "parent": "auschwitz",
+  "start": "1944-12-20",
+  "end": "1945-01-19"
+ },
+ {
+  "no": "619",
+  "name": "Hohenlychen, Kreis Templin",
+  "parent": "ravensbruck"
+ },
+ {
+  "no": "620",
+  "name": "Hohenlychen, Kreis Templin",
+  "parent": "sachsenhausen",
+  "start": "1941-08-01",
+  "end": "1941-09-02"
+ },
+ {
+  "no": "621",
+  "name": "Hohenstein-Ernstthal, Kreis Glauchau",
+  "parent": "flossenburg",
+  "start": "1945-01-01",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "622",
+  "name": "Hohenthan/Bayern",
+  "parent": "flossenburg",
+  "end": "1945-04-20"
+ },
+ {
+  "no": "624",
+  "name": "Hohlstedt, Kreis Sangerhausen",
+  "parent": "mittelbau-dora"
+ },
+ {
+  "no": "625",
+  "name": "Hohnstein/Sachsen (Männer)",
+  "start": "1933-07-01",
+  "end": "1935-04-30"
+ },
+ {
+  "no": "627",
+  "name": "Holleischen = Holysov bei Pilsen/Tschech.",
+  "parent": "ravensbruck",
+  "start": "1944-04-17",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "628",
+  "name": "Hollenstein a. d. Ybbs, Bez. Amstetten/ Niederösterreich",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "629a",
+  "name": "Holstendorf/Oldenburg (Männer)",
+  "start": "1933-10-01",
+  "end": "1933-12-15"
+ },
+ {
+  "no": "632",
+  "name": "Hopehill, Gemeinde Groß Steinort/Ostpreußen",
+  "parent": "stutthof",
+  "start": "1942-08-01",
+  "end": "1945-01-03"
+ },
+ {
+  "no": "633",
+  "name": "Hoppstädten, Kreis Birkenfeld",
+  "parent": "hinzert",
+  "start": "1945-01-22",
+  "end": "1945-03-18"
+ },
+ {
+  "no": "635",
+  "name": "Horgau, Kdo. v. Augsburg/Pfersee",
+  "parent": "dachau",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "636",
+  "name": "Horneburg, Kreis Stade",
+  "parent": "neuengamme",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "637",
+  "name": "Horserod/Dänemark",
+  "start": "1943-08-29",
+  "end": "1944-08-13"
+ },
+ {
+  "no": "639",
+  "name": "Hradischko a. d. Moldau = Hradistko/Tschech.",
+  "parent": "flossenburg",
+  "start": "1943-11-17",
+  "end": "1945-04-25"
+ },
+ {
+  "no": "643",
+  "name": "Husum-Schwesing, Kreis Husum",
+  "parent": "neuengamme",
+  "start": "1944-09-25",
+  "end": "1944-12-22"
+ },
+ {
+  "no": "646",
+  "name": "Iffezheim, Kreis Rastatt",
+  "parent": "natzweiler",
+  "start": "1943-10-14"
+ },
+ {
+  "no": "647",
+  "name": "Ilfeld, Kreis Nordhausen (früher: Kreis Grafschaft Hohenstein)",
+  "parent": "mittelbau-dora",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "648",
+  "name": "Ilsenburg, Kreis Wernigerode",
+  "parent": "mittelbau-dora"
+ },
+ {
+  "no": "650",
+  "name": "Ingolstadt, Bahnbetriebswerk",
+  "parent": "dachau"
+ },
+ {
+  "no": "651",
+  "name": "Ingolstadt, Landrat",
+  "parent": "dachau",
+  "start": "1945-01-01"
+ },
+ {
+  "no": "652",
+  "name": "Innsbruck, SS-Sonderlager",
+  "parent": "dachau"
+ },
+ {
+  "no": "653",
+  "name": "Innsbruck II (Neustift)",
+  "parent": "dachau",
+  "start": "1942-10-10"
+ },
+ {
+  "no": "654",
+  "name": "Innsbruck, Reichsstraßenbauamt",
+  "parent": "dachau",
+  "start": "1942-10-13"
+ },
+ {
+  "no": "659",
+  "name": "Jamlitz/Brandenburg",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "661",
+  "name": "Janinagrube, Gemeinde Libiaz Maly",
+  "parent": "auschwitz",
+  "start": "1943-09-04",
+  "end": "1945-01-18"
+ },
+ {
+  "no": "662",
+  "name": "Janowitz = Janowice (früher: Vrchotovy-Janowice) bei Beneschau/Tschech.",
+  "parent": "flossenburg",
+  "start": "1944-07-24",
+  "end": "1945-04-26"
+ },
+ {
+  "no": "664",
+  "name": "Jarak, Serbien",
+  "start": "1941-09-27",
+  "end": "1941-09-30"
+ },
+ {
+  "no": "665",
+  "name": "Jawischowitz = Jawiszowice, Kreis Biala bei Krakau",
+  "parent": "auschwitz",
+  "start": "1942-08-15",
+  "end": "1945-01-19"
+ },
+ {
+  "no": "668",
+  "name": "Jena/Thüringen, Reichsbahn-Ausbesserungswerk",
+  "parent": "buchenwald",
+  "start": "1944-10-04"
+ },
+ {
+  "no": "669",
+  "name": "Jena/Thüringen",
+  "parent": "buchenwald",
+  "start": "1943-06-07"
+ },
+ {
+  "no": "670",
+  "name": "Jesau/Ostpreußen",
+  "parent": "stutthof",
+  "start": "1944-09-21",
+  "end": "1945-01-15"
+ },
+ {
+  "no": "671",
+  "name": "Jewe = Johvi/Estland",
+  "parent": "vaivara",
+  "start": "1943-10-01",
+  "end": "1944-02-29"
+ },
+ {
+  "no": "674",
+  "name": "Johanngeorgenstadt, Kreis Schwarzenberg/Sachsen",
+  "parent": "flossenburg",
+  "start": "1943-12-01",
+  "end": "1945-04-16"
+ },
+ {
+  "no": "676",
+  "name": "Jörstadmoen/Norwegen",
+  "start": "1942-03-30",
+  "end": "1942-04-12"
+ },
+ {
+  "no": "677",
+  "name": "Jugendschutzlager Berlin-Weißensee, Kdo. v. Jugendschutzlager Moringen",
+  "start": "1943-09-14"
+ },
+ {
+  "no": "678",
+  "name": "Jugendschutzlager Dallgow/Döberitz, Kdo. v. Uckermark",
+  "start": "1944-06-01"
+ },
+ {
+  "no": "679",
+  "name": "Jugendschutzlager Litzmannstadt = Lodz",
+  "start": "1942-12-01"
+ },
+ {
+  "no": "680",
+  "name": "Jugendschutzlager Litzmannstadt, Kdo. Gut Dzierzazna",
+  "start": "1943-01-12"
+ },
+ {
+  "no": "681",
+  "name": "Jugendschutzlager Litzmannstadt, Kdo. Tuchingen = Konstantynow",
+  "start": "1943-08-16"
+ },
+ {
+  "no": "682",
+  "name": "Jugendschutzlager Moringen",
+  "start": "1940-08-15",
+  "end": "1945-04-09"
+ },
+ {
+  "no": "683",
+  "name": "Jugendschutzlager Volpriehausen, Kdo. v. Jugendschutzlager Moringen",
+  "start": "1944-07-01",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "684",
+  "name": "Jugendschutzlager Uckermark bei Ravensbrück",
+  "start": "1942-06-01",
+  "end": "1945-04-20"
+ },
+ {
+  "no": "686",
+  "name": "Jungfern Breschan = Panenske Brezany bei Prag/Tschech.",
+  "parent": "flossenburg",
+  "start": "1944-02-11"
+ },
+ {
+  "no": "687",
+  "name": "Jungfern Breschan",
+  "start": "1942-07-01"
+ },
+ {
+  "no": "688",
+  "name": "Jungfernhof = Jumpravmuiza bei Riga",
+  "start": "1941-12-03",
+  "end": "1942-12-31"
+ },
+ {
+  "no": "691",
+  "name": "Kallies/Pommern",
+  "parent": "ravensbruck",
+  "start": "1944-07-01",
+  "end": "1945-01-01"
+ },
+ {
+  "no": "692",
+  "name": "Kaltenbrunn/Niederschlesien, Kdo v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "693",
+  "name": "Kaltenkirchen, Kreis Segeberg",
+  "parent": "neuengamme",
+  "end": "1945-04-17"
+ },
+ {
+  "no": "694",
+  "name": "Kalthof/Danzig-Westpreußen",
+  "parent": "stutthof"
+ },
+ {
+  "no": "695",
+  "name": "Kaltwasser, Kreis Waldenburg/ Niederschlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "start": "1944-08-01",
+  "end": "1945-02-28"
+ },
+ {
+  "no": "697",
+  "name": "Kamenz/Niederschlesien",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "698",
+  "name": "Karlsfeld, Kreis Dachau",
+  "parent": "dachau",
+  "start": "1944-07-11"
+ },
+ {
+  "no": "699",
+  "name": "Karlshagen, Kreis Usedom-Wollin",
+  "parent": "ravensbruck",
+  "start": "1943-05-22"
+ },
+ {
+  "no": "701",
+  "name": "Käsemark/Westpreußen",
+  "parent": "stutthof",
+  "start": "1939-10-21",
+  "end": "1941-10-21"
+ },
+ {
+  "no": "702",
+  "name": "Kassel-Druseltal",
+  "parent": "buchenwald",
+  "start": "1943-07-05"
+ },
+ {
+  "no": "703",
+  "name": "Kassel",
+  "parent": "buchenwald",
+  "start": "1941-01-20",
+  "end": "1941-01-25"
+ },
+ {
+  "no": "704",
+  "name": "Kattowitz = Katowice",
+  "parent": "auschwitz",
+  "start": "1944-01-20",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "705",
+  "name": "Kauen = Kaunas/Litauen",
+  "start": "1943-09-15",
+  "end": "1944-08-18"
+ },
+ {
+  "no": "706",
+  "name": "Kauen-Alexoten = Kaunas-Aleksotas",
+  "parent": "kauen",
+  "end": "1944-07-15"
+ },
+ {
+  "no": "707",
+  "name": "Kauen-Schanzen = Kaunas-Sanciai",
+  "parent": "kauen",
+  "start": "1943-12-16",
+  "end": "1944-07-12"
+ },
+ {
+  "no": "708",
+  "name": "Kaufbeuren/Bayern",
+  "parent": "dachau",
+  "start": "1944-05-23"
+ },
+ {
+  "no": "709",
+  "name": "Kaufering (Frauen), Kreis Landsberg, Lager I, Landsberg",
+  "parent": "dachau",
+  "start": "1944-07-29",
+  "end": "1945-04-27"
+ },
+ {
+  "no": "710",
+  "name": "Kaufering, Kreis Landsberg, Lager II",
+  "parent": "dachau"
+ },
+ {
+  "no": "711",
+  "name": "Kaufering, Kreis Landsberg, Lager III",
+  "parent": "dachau",
+  "start": "1944-05-01"
+ },
+ {
+  "no": "712",
+  "name": "Kaufering, Kreis Landsberg, Lager IV, Hurlach",
+  "parent": "dachau",
+  "end": "1945-04-25"
+ },
+ {
+  "no": "713",
+  "name": "Kaufering, Kreis Landsberg, Lager V, Utting",
+  "parent": "dachau"
+ },
+ {
+  "no": "714",
+  "name": "Kaufering, Kreis Landsberg, Lager VII, Erpfting",
+  "parent": "dachau",
+  "start": "1944-09-01"
+ },
+ {
+  "no": "715",
+  "name": "Kaufering, Kreis Landsberg, Lager VIII",
+  "parent": "dachau"
+ },
+ {
+  "no": "716",
+  "name": "Kaufering, Kreis Landsberg, Lager IX",
+  "parent": "dachau"
+ },
+ {
+  "no": "717",
+  "name": "Kaufering, Kreis Landsberg, Lager X, Utting",
+  "parent": "dachau",
+  "end": "1945-04-26"
+ },
+ {
+  "no": "718",
+  "name": "Kaufering, Kreis Landsberg, Lager XI",
+  "parent": "dachau",
+  "start": "1944-10-01",
+  "end": "1945-04-27"
+ },
+ {
+  "no": "719",
+  "name": "Kaufering, Kreis Landsberg, Lager Türkheim",
+  "parent": "dachau",
+  "end": "1945-04-27"
+ },
+ {
+  "no": "721",
+  "name": "Kazlu Ruda/Litauen",
+  "parent": "kauen",
+  "end": "1944-07-31"
+ },
+ {
+  "no": "722",
+  "name": "Kedahnen = Kedainiai/Litauen",
+  "parent": "kauen",
+  "end": "1944-07-31"
+ },
+ {
+  "no": "723",
+  "name": "Kelbra, Kreis Sangerhausen (Kyffhäuser)",
+  "parent": "mittelbau-dora"
+ },
+ {
+  "no": "724",
+  "name": "Kemna bei Wuppertal-Beyenburg",
+  "start": "1933-07-05",
+  "end": "1934-01-19"
+ },
+ {
+  "no": "725",
+  "name": "Kempten/Allgäu",
+  "parent": "dachau",
+  "start": "1944-06-18",
+  "end": "1944-12-01"
+ },
+ {
+  "no": "726",
+  "name": "Kempten/Allgäu, Sachse KG.",
+  "parent": "dachau",
+  "start": "1943-09-15"
+ },
+ {
+  "no": "726a",
+  "name": "Kerestowo/Estland",
+  "parent": "vaivara",
+  "start": "1943-09-15"
+ },
+ {
+  "no": "727",
+  "name": "Kiel/Schleswig-Holstein",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "728",
+  "name": "Kiew/Ukraine",
+  "parent": "sachsenhausen",
+  "start": "1942-07-01",
+  "end": "1943-04-01"
+ },
+ {
+  "no": "729",
+  "name": "Kirchham bei Pocking, Kreis Griesbach",
+  "parent": "flossenburg",
+  "start": "1945-03-06",
+  "end": "1945-05-02"
+ },
+ {
+  "no": "730",
+  "name": "Kirkenes/Norwegen",
+  "start": "1942-04-28",
+  "end": "1942-11-10"
+ },
+ {
+  "no": "731",
+  "name": "Kislau, Gemeinde Mingolsheim/Baden",
+  "start": "1933-04-01",
+  "end": "1936-05-31"
+ },
+ {
+  "no": "732",
+  "name": "Kittlitztreben, Kreis Bunzlau/ Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-02-01",
+  "end": "1945-02-11"
+ },
+ {
+  "no": "733",
+  "name": "Kiviöli/Estland",
+  "parent": "vaivara",
+  "start": "1943-09-15"
+ },
+ {
+  "no": "734",
+  "name": "Klagenfurt/Österreich",
+  "parent": "mauthausen",
+  "start": "1943-11-19",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "735",
+  "name": "Kladno/Tschech.",
+  "start": "1942-02-26",
+  "end": "1943-06-22"
+ },
+ {
+  "no": "736",
+  "name": "Kleefelde = Koniczynka/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1945-01-01"
+ },
+ {
+  "no": "737",
+  "name": "Kleinbodungen, Kreis Nordhausen (früher: Kreis Grafschaft Hohenstein)",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "738",
+  "name": "Klein Machnow",
+  "parent": "sachsenhausen",
+  "start": "1942-12-01",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "740",
+  "name": "Klein Radisch/Niederschlesien, Kdo. v. Niesky",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "741",
+  "name": "Klooga/Estland",
+  "parent": "vaivara",
+  "start": "1943-09-15",
+  "end": "1944-09-19"
+ },
+ {
+  "no": "742",
+  "name": "Klützow bei Stargard",
+  "parent": "ravensbruck",
+  "start": "1943-03-18"
+ },
+ {
+  "no": "743",
+  "name": "Knellendorf, Kreis Kronach",
+  "parent": "flossenburg",
+  "start": "1944-12-11",
+  "end": "1945-04-12"
+ },
+ {
+  "no": "744",
+  "name": "Kobier = Kobior, Kreis Pleß",
+  "parent": "auschwitz",
+  "start": "1942-10-01",
+  "end": "1943-09-30"
+ },
+ {
+  "no": "747",
+  "name": "Kochendorf, Kreis Heilbronn",
+  "parent": "natzweiler",
+  "start": "1944-09-03",
+  "end": "1945-04-09"
+ },
+ {
+  "no": "747a",
+  "name": "Kohling (Männer)/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1939-09-28",
+  "end": "1939-11-18"
+ },
+ {
+  "no": "749",
+  "name": "Kolkau, Kreis Lauenburg/Pommern",
+  "parent": "stutthof",
+  "start": "1945-02-01",
+  "end": "1945-05-04"
+ },
+ {
+  "no": "750",
+  "name": "Köln-Deutz, Westwaggon",
+  "parent": "buchenwald",
+  "end": "1945-03-15"
+ },
+ {
+  "no": "751",
+  "name": "Köln-Niehl, Fordwerke",
+  "parent": "buchenwald",
+  "start": "1944-08-10"
+ },
+ {
+  "no": "752",
+  "name": "Köln-Stadt",
+  "parent": "buchenwald",
+  "start": "1944-08-15",
+  "end": "1944-10-25"
+ },
+ {
+  "no": "753",
+  "name": "Kolpin, Kreis Fürstenwalde",
+  "parent": "sachsenhausen",
+  "end": "1945-02-15"
+ },
+ {
+  "no": "755",
+  "name": "Königsberg/Ostpreußen",
+  "parent": "stutthof",
+  "start": "1944-08-19",
+  "end": "1945-01-15"
+ },
+ {
+  "no": "756",
+  "name": "Königsberg/Neumark",
+  "parent": "ravensbruck"
+ },
+ {
+  "no": "757",
+  "name": "Königssee, Kreis Berchtesgaden",
+  "parent": "dachau",
+  "end": "1944-09-19"
+ },
+ {
+  "no": "758",
+  "name": "Königstein/Elbe, Kreis Pirna/Sachsen",
+  "parent": "flossenburg",
+  "end": "1945-03-17"
+ },
+ {
+  "no": "759",
+  "name": "Königs Wusterhausen",
+  "parent": "sachsenhausen",
+  "start": "1943-02-09",
+  "end": "1945-04-26"
+ },
+ {
+  "no": "760",
+  "name": "Königszelt",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "764",
+  "name": "Korben = Chorabie/Danzig-Westpreußen, Kdo. v. Thorn OT",
+  "parent": "stutthof",
+  "end": "1945-01-18"
+ },
+ {
+  "no": "765",
+  "name": "Koschedaren = Kaisiadorys/Litauen",
+  "parent": "kauen",
+  "end": "1944-07-31"
+ },
+ {
+  "no": "766",
+  "name": "Kottern, Gemeinde Sankt Mang",
+  "parent": "dachau",
+  "start": "1943-10-01",
+  "end": "1945-04-27"
+ },
+ {
+  "no": "767",
+  "name": "Krakau-Plaszow",
+  "start": "1944-01-11",
+  "end": "1945-01-15"
+ },
+ {
+  "no": "767a",
+  "name": "Krakau-Plaszow (Außenkommando)",
+  "parent": "plaszow",
+  "end": "1944-08-07"
+ },
+ {
+  "no": "769",
+  "name": "Kranichfeld, Kreis Weimar",
+  "parent": "buchenwald",
+  "start": "1941-05-24",
+  "end": "1942-12-31"
+ },
+ {
+  "no": "771",
+  "name": "Kratzau I und II, Kreis Reichenberg = Chrastava/Tschech.",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "777",
+  "name": "Krondorf, Kreis Kaaden/Tschech.",
+  "parent": "flossenburg",
+  "start": "1942-08-19",
+  "end": "1944-07-15"
+ },
+ {
+  "no": "778",
+  "name": "Krottingen = Kretinga/Litauen",
+  "parent": "riga-kaiserwald"
+ },
+ {
+  "no": "780",
+  "name": "Krumau = Krzemieniewo, Kreis Neumark/ Westpreußen",
+  "parent": "stutthof",
+  "start": "1944-09-15",
+  "end": "1945-01-18"
+ },
+ {
+  "no": "781",
+  "name": "Krusevac/Serbien",
+  "start": "1941-12-01",
+  "end": "1943-12-31"
+ },
+ {
+  "no": "783",
+  "name": "Kschepenitz/Tschech., Kdo. v. Janowitz",
+  "parent": "flossenburg",
+  "start": "1945-03-18"
+ },
+ {
+  "no": "786a",
+  "name": "Kuhlen (Männer), Gemeinde Rickling/ Schleswig-Holstein",
+  "start": "1933-07-01",
+  "end": "1933-11-30"
+ },
+ {
+  "no": "787",
+  "name": "Kulmhof a. d. Neer = Chelmno/Warthegau",
+  "start": "1941-12-08",
+  "end": "1945-01-18"
+ },
+ {
+  "no": "788",
+  "name": "Kunda/Estland",
+  "parent": "vaivara",
+  "start": "1943-09-15"
+ },
+ {
+  "no": "789",
+  "name": "Kurben = Kurbe/Lettland",
+  "parent": "riga-kaiserwald"
+ },
+ {
+  "no": "790",
+  "name": "Kuremaa/Estland",
+  "parent": "vaivara",
+  "start": "1943-09-15"
+ },
+ {
+  "no": "791",
+  "name": "Kurzbach bei Oppeln/Oberschlesien",
+  "parent": "gross-rosen",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "792",
+  "name": "Küstrin",
+  "parent": "sachsenhausen",
+  "start": "1943-05-16",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "796",
+  "name": "Ladelund bei Flensburg",
+  "parent": "neuengamme",
+  "end": "1944-12-16"
+ },
+ {
+  "no": "797",
+  "name": "Lagedi/Estland",
+  "parent": "vaivara",
+  "start": "1944-07-29",
+  "end": "1944-09-19"
+ },
+ {
+  "no": "799",
+  "name": "Lagischa = Lagisza Cementownia, Kreis Bedzin",
+  "parent": "auschwitz",
+  "start": "1943-06-15",
+  "end": "1944-09-06"
+ },
+ {
+  "no": "801",
+  "name": "Landeshut/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-07-16",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "802",
+  "name": "Landsberg/Lech",
+  "parent": "dachau"
+ },
+ {
+  "no": "804",
+  "name": "Landshut/Bayern",
+  "parent": "dachau",
+  "end": "1945-02-06"
+ },
+ {
+  "no": "806",
+  "name": "Langenbielau, Kreis Reichenbach/ Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-01-01",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "807",
+  "name": "Langendiebach, Kreis Hanau",
+  "parent": "hinzert",
+  "start": "1942-01-01",
+  "end": "1945-03-28"
+ },
+ {
+  "no": "808",
+  "name": "Langenhagen/Provinz Hannover",
+  "parent": "neuengamme",
+  "start": "1944-10-02",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "810",
+  "name": "Langensalza (früher: Kreis Langensalza/Prov. Sachsen)",
+  "parent": "buchenwald",
+  "end": "1945-04-11"
+ },
+ {
+  "no": "815",
+  "name": "Lärche bei Lehmwasser, Kreis Waldenburg/ Niederschlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "816",
+  "name": "La Risiera/Triest, Italien",
+  "start": "1943-10-01",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "817",
+  "name": "Lathen",
+  "start": "1940-04-04",
+  "end": "1940-04-12"
+ },
+ {
+  "no": "818",
+  "name": "Lauenburg in Pommern",
+  "parent": "buchenwald",
+  "start": "1941-11-11"
+ },
+ {
+  "no": "819",
+  "name": "Lauingen II, Kreis Dillingen",
+  "parent": "dachau"
+ },
+ {
+  "no": "820",
+  "name": "Laurahütte = Siemianowice Slaskie, Kreis Kattowitz/Oberschlesien",
+  "parent": "auschwitz",
+  "start": "1944-04-01",
+  "end": "1945-01-24"
+ },
+ {
+  "no": "823",
+  "name": "Leeuwarden/Holland",
+  "parent": "herzogenbusch"
+ },
+ {
+  "no": "825",
+  "name": "Leibisch = Lubicz/Danzig-Westpreußen",
+  "parent": "stutthof"
+ },
+ {
+  "no": "828",
+  "name": "Leipzig-Schönefeld, Hasag",
+  "parent": "ravensbruck",
+  "start": "1944-09-01",
+  "end": "1945-04-19"
+ },
+ {
+  "no": "829",
+  "name": "Leipzig, Firma Mansfeld",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "830",
+  "name": "Leipzig-Schönau",
+  "parent": "buchenwald",
+  "start": "1944-08-20",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "831",
+  "name": "Leipzig-Thekla",
+  "parent": "buchenwald",
+  "start": "1943-03-06"
+ },
+ {
+  "no": "832",
+  "name": "Leitmeritz-Elsabe a. d. Elbe = Litomerice/ Tschech.",
+  "parent": "flossenburg",
+  "start": "1944-11-22",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "833",
+  "name": "Leitmeritz a. d. Elbe, Richard II = Litomerice/Tschech.",
+  "parent": "flossenburg",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "834",
+  "name": "Leitmeritz a. d. Elbe = Litomerice/Tschech., SS-Kdo B 5",
+  "parent": "flossenburg",
+  "start": "1944-03-27",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "835",
+  "name": "Lemberg/Galizien = Lwow, Deutsche Ausrüstungs GmbH.",
+  "parent": "majdanek",
+  "start": "1944-01-13",
+  "end": "1944-06-30"
+ },
+ {
+  "no": "837",
+  "name": "Lengenfeld",
+  "parent": "flossenburg",
+  "start": "1944-10-11",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "838",
+  "name": "Lengerich, Kreis Tecklenburg",
+  "parent": "neuengamme",
+  "end": "1945-04-01"
+ },
+ {
+  "no": "840",
+  "name": "Lenzing, Gemeinde Oberachmann/Oberösterreich",
+  "parent": "mauthausen",
+  "start": "1944-11-03",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "841",
+  "name": "Leonberg",
+  "parent": "natzweiler",
+  "end": "1945-03-30"
+ },
+ {
+  "no": "842",
+  "name": "Leopoldshall, Kreis Bernburg",
+  "parent": "buchenwald",
+  "start": "1944-12-28"
+ },
+ {
+  "no": "843",
+  "name": "Lerbeck/Westfalen",
+  "parent": "neuengamme",
+  "start": "1944-10-01",
+  "end": "1945-04-01"
+ },
+ {
+  "no": "843a",
+  "name": "Leske (Männer)/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1939-09-30"
+ },
+ {
+  "no": "844",
+  "name": "Libau = Liepaja/Kurland",
+  "start": "1941-07-05",
+  "end": "1941-12-16"
+ },
+ {
+  "no": "846",
+  "name": "Lichtenburg/Sachsen",
+  "start": "1933-03-28",
+  "end": "1937-08-09"
+ },
+ {
+  "no": "847",
+  "name": "Lichtenburg/Sachsen",
+  "parent": "buchenwald",
+  "start": "1940-09-11",
+  "end": "1940-09-27"
+ },
+ {
+  "no": "850",
+  "name": "Lichtewerden = Lichtvard/Tschech.",
+  "parent": "auschwitz",
+  "start": "1944-11-11",
+  "end": "1945-05-06"
+ },
+ {
+  "no": "851",
+  "name": "Liebau/Niederschlesien",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "852",
+  "name": "Lieberose, Kreis Beeskow (früher: Kreis Lübben)",
+  "parent": "sachsenhausen",
+  "start": "1943-12-01",
+  "end": "1945-02-02"
+ },
+ {
+  "no": "853",
+  "name": "Liebhof, Kreis Viechtach",
+  "parent": "dachau",
+  "start": "1943-06-03"
+ },
+ {
+  "no": "857",
+  "name": "Lindau/Bodensee, Kdo. v. Passau",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "859",
+  "name": "Lindloh",
+  "start": "1940-04-19",
+  "end": "1940-05-08"
+ },
+ {
+  "no": "860",
+  "name": "Lingen",
+  "start": "1940-07-09",
+  "end": "1940-07-17"
+ },
+ {
+  "no": "861",
+  "name": "Linz/Oberösterreich, Aufräumungskommando",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "862",
+  "name": "Linz I/Oberösterreich",
+  "parent": "mauthausen",
+  "start": "1943-01-11",
+  "end": "1944-08-03"
+ },
+ {
+  "no": "863",
+  "name": "Linz II/Oberösterreich, Bockgasse",
+  "parent": "mauthausen",
+  "start": "1944-02-27",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "864",
+  "name": "Linz III/Oberösterreich, Kleinmünchen-Ebelsberg",
+  "parent": "mauthausen",
+  "start": "1944-05-22",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "865",
+  "name": "Lippstadt, Lippstädter Eisen- und Metallwerke",
+  "parent": "buchenwald",
+  "start": "1944-07-31",
+  "end": "1945-04-02"
+ },
+ {
+  "no": "866",
+  "name": "Lippstadt, Westfälische Metall-Industrie AG",
+  "parent": "buchenwald",
+  "start": "1944-11-20",
+  "end": "1945-04-02"
+ },
+ {
+  "no": "870",
+  "name": "Lobositz = Lovosice, Kreis Leitmeritz = Litomerice/Tschech.",
+  "parent": "flossenburg",
+  "start": "1944-05-20"
+ },
+ {
+  "no": "871",
+  "name": "Lochau, Bezirk Bregenz",
+  "parent": "dachau",
+  "start": "1945-04-07"
+ },
+ {
+  "no": "873",
+  "name": "Lodensee = Laoküla/Estland Unterkdo. v. Klooga",
+  "parent": "vaivara",
+  "end": "1944-09-19"
+ },
+ {
+  "no": "877",
+  "name": "Loibl-Paß, Kreis Klagenfurt",
+  "parent": "mauthausen",
+  "start": "1943-06-02",
+  "end": "1945-05-07"
+ },
+ {
+  "no": "878",
+  "name": "Longwy-Thil/Frankreich",
+  "parent": "natzweiler",
+  "start": "1944-06-19",
+  "end": "1944-09-04"
+ },
+ {
+  "no": "881",
+  "name": "Lowitz/Pommern",
+  "parent": "stutthof"
+ },
+ {
+  "no": "882",
+  "name": "Lübben, Kreis Lübben/Spreewald",
+  "parent": "sachsenhausen",
+  "start": "1944-07-01",
+  "end": "1945-04-23"
+ },
+ {
+  "no": "883",
+  "name": "Lübberstedt, Kreis Wesermünde",
+  "parent": "neuengamme",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "885",
+  "name": "Lublin/Polen, Gartenstraße 12",
+  "start": "1941-10-01",
+  "end": "1944-07-24"
+ },
+ {
+  "no": "886",
+  "name": "Lublin/Polen, Alter Flughafen",
+  "start": "1943-10-22",
+  "end": "1944-07-24"
+ },
+ {
+  "no": "887",
+  "name": "Lublin/Polen, Deutsche Ausrüstungswerke",
+  "start": "1943-10-22",
+  "end": "1944-07-24"
+ },
+ {
+  "no": "888",
+  "name": "Ludwigsdorf, Kreis Glatz/Schlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "890",
+  "name": "Lulkau = Lulkowo/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1945-01-01"
+ },
+ {
+  "no": "892",
+  "name": "Lungitz (Gusen III), Kdo. v. Gusen",
+  "parent": "mauthausen",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "893",
+  "name": "Lütjenburg, Kreis Plön/Schleswig-Holstein",
+  "parent": "neuengamme",
+  "end": "1945-03-30"
+ },
+ {
+  "no": "894",
+  "name": "Lützelhöhe, Amtshauptmannschaft Flöha, Innenkdo. des KL Sachsenburg",
+  "start": "1934-04-19",
+  "end": "1934-08-16"
+ },
+ {
+  "no": "895",
+  "name": "Lützkendorf, Gemeinde Krumpa, Kreis Querfurt",
+  "parent": "buchenwald",
+  "start": "1944-07-14",
+  "end": "1945-01-21"
+ },
+ {
+  "no": "895a",
+  "name": "Luxemburg (Frauen)",
+  "parent": "ravensbruck"
+ },
+ {
+  "no": "897",
+  "name": "Magdeburg",
+  "parent": "buchenwald",
+  "start": "1945-03-19"
+ },
+ {
+  "no": "898",
+  "name": "Magdeburg, Brabag",
+  "parent": "buchenwald",
+  "end": "1945-02-16"
+ },
+ {
+  "no": "899",
+  "name": "Magdeburg, Ferngasversorgung",
+  "parent": "buchenwald",
+  "start": "1943-05-31",
+  "end": "1943-10-17"
+ },
+ {
+  "no": "900",
+  "name": "Magdeburg-Polte",
+  "parent": "ravensbruck",
+  "start": "1944-11-03",
+  "end": "1945-04-13"
+ },
+ {
+  "no": "902",
+  "name": "Mainz-Weisenau",
+  "parent": "hinzert",
+  "start": "1942-01-01"
+ },
+ {
+  "no": "904",
+  "name": "Malchow bei Neu-Strelitz, Kreis Waren",
+  "parent": "ravensbruck",
+  "start": "1943-01-01",
+  "end": "1945-05-01"
+ },
+ {
+  "no": "906",
+  "name": "Malken = Malki, Kreis Brodnica",
+  "parent": "stutthof",
+  "start": "1944-04-01",
+  "end": "1945-01-28"
+ },
+ {
+  "no": "907",
+  "name": "Maly-Trostinec bei Minsk",
+  "end": "1944-06-30"
+ },
+ {
+  "no": "908",
+  "name": "Mannheim-Sandhofen (Waldhof)",
+  "parent": "natzweiler",
+  "start": "1944-09-27",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "909",
+  "name": "Mannheim-Sandhofen",
+  "parent": "hinzert"
+ },
+ {
+  "no": "911",
+  "name": "Mariahütte, nur Innenkdo. v. Hinzert"
+ },
+ {
+  "no": "913",
+  "name": "Marienwerder/Ostpreußen",
+  "parent": "stutthof",
+  "start": "1941-10-02",
+  "end": "1941-10-31"
+ },
+ {
+  "no": "914",
+  "name": "Markirch = Sainte-Marie-aux-Mines/Elsaß",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "915",
+  "name": "Markkleeberg, Kreis Leipzig",
+  "parent": "buchenwald",
+  "start": "1944-08-31",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "916",
+  "name": "Markt Schwaben, Kreis Ebersberg",
+  "parent": "dachau",
+  "end": "1945-04-23"
+ },
+ {
+  "no": "918",
+  "name": "Märzbachtal, Kreis Waldenburg/Niederschlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "920",
+  "name": "Matzkau, Freie Stadt Danzig",
+  "parent": "stutthof",
+  "start": "1939-11-28",
+  "end": "1942-11-02"
+ },
+ {
+  "no": "921",
+  "name": "Mauthausen, Bezirk Perg/Oberösterreich",
+  "start": "1938-08-08",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "922",
+  "name": "Mechelen = Malines/Belgien",
+  "start": "1942-06-17",
+  "end": "1944-09-04"
+ },
+ {
+  "no": "923",
+  "name": "Mehltheuer, Kreis Plauen/Sachsen",
+  "parent": "flossenburg",
+  "start": "1944-12-02",
+  "end": "1945-04-16"
+ },
+ {
+  "no": "924",
+  "name": "Meißen/Sachsen",
+  "parent": "flossenburg",
+  "start": "1945-01-01"
+ },
+ {
+  "no": "925",
+  "name": "Melk/Niederösterreich",
+  "parent": "mauthausen",
+  "start": "1944-04-20",
+  "end": "1945-04-19"
+ },
+ {
+  "no": "926",
+  "name": "Meppen",
+  "start": "1940-04-02",
+  "end": "1940-07-07"
+ },
+ {
+  "no": "927",
+  "name": "Meppen-Versen",
+  "parent": "neuengamme",
+  "end": "1945-04-01"
+ },
+ {
+  "no": "929",
+  "name": "Merzdorf (Riesengebirge), Niederschlesien",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "930",
+  "name": "Merzen = Mierzynek Kreis Lipa/Westpreußen",
+  "parent": "stutthof",
+  "end": "1945-01-14"
+ },
+ {
+  "no": "931",
+  "name": "Merzhausen",
+  "parent": "hinzert"
+ },
+ {
+  "no": "933",
+  "name": "Metz/Frankreich, mit Fort Göben, Kasematte I",
+  "parent": "natzweiler",
+  "start": "1943-08-06"
+ },
+ {
+  "no": "934",
+  "name": "Metz, SS-Sonderlager",
+  "start": "1943-11-01",
+  "end": "1944-08-17"
+ },
+ {
+  "no": "935",
+  "name": "Meuselwitz, Kreis Altenburg/Thüringen",
+  "parent": "buchenwald",
+  "start": "1944-10-05",
+  "end": "1945-04-12"
+ },
+ {
+  "no": "937",
+  "name": "Michelbach",
+  "parent": "hinzert",
+  "start": "1940-08-12"
+ },
+ {
+  "no": "938",
+  "name": "Mielec bei Tarnow/Polen",
+  "parent": "plaszow",
+  "start": "1944-06-12",
+  "end": "1944-07-22"
+ },
+ {
+  "no": "939",
+  "name": "Mielenz/Danzig-Westpreußen",
+  "parent": "stutthof"
+ },
+ {
+  "no": "941",
+  "name": "Mildenberg, Brandenburg",
+  "parent": "ravensbruck"
+ },
+ {
+  "no": "944",
+  "name": "Mistelbach a. d. Zaya/Niederösterreich",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "946",
+  "name": "Mittelsteine, Kreis Glatz/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-08-23",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "947",
+  "name": "Mittergars, Kreis Wasserburg, Kdo. v. Mühldorf",
+  "parent": "dachau",
+  "start": "1944-10-01",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "949",
+  "name": "Mittweida/Sachsen",
+  "parent": "flossenburg",
+  "start": "1944-10-09"
+ },
+ {
+  "no": "950",
+  "name": "Mockethal-Zatzschke bei Pirna/Sachsen",
+  "parent": "flossenburg",
+  "start": "1945-01-10",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "952",
+  "name": "Moerdijk/Holland",
+  "parent": "herzogenbusch",
+  "start": "1943-03-26"
+ },
+ {
+  "no": "953",
+  "name": "Mölln, Kreis Lauenburg",
+  "parent": "neuengamme",
+  "start": "1944-12-01",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "954",
+  "name": "Monowitz = Monowice (Auschwitz III), Kreis Biala bei Krakau",
+  "parent": "auschwitz",
+  "start": "1942-05-31",
+  "end": "1945-01-27"
+ },
+ {
+  "no": "956",
+  "name": "Morchenstern/Sudetenland",
+  "parent": "gross-rosen",
+  "end": "1945-03-15"
+ },
+ {
+  "no": "957",
+  "name": "Moringen-Solling",
+  "start": "1933-04-10",
+  "end": "1933-11-29"
+ },
+ {
+  "no": "961",
+  "name": "Motischin = Motycin/Tschech.",
+  "start": "1942-03-01",
+  "end": "1942-10-01"
+ },
+ {
+  "no": "963",
+  "name": "Müggenhahl/Pommern, Firma Dirksen",
+  "parent": "stutthof",
+  "start": "1939-10-21",
+  "end": "1940-08-19"
+ },
+ {
+  "no": "965",
+  "name": "Mühldorf, Kreis Mühldorf",
+  "parent": "dachau",
+  "start": "1944-07-24",
+  "end": "1945-05-02"
+ },
+ {
+  "no": "966",
+  "name": "Mühlhausen/Elsaß",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "967",
+  "name": "Mühlhausen, Kreis Mühlhausen i. Th.",
+  "parent": "buchenwald",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "968",
+  "name": "Mülsen St. Micheln, Kreis Glauchau",
+  "parent": "flossenburg",
+  "start": "1944-01-27",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "969",
+  "name": "München-Allach, Krankenlager",
+  "parent": "dachau"
+ },
+ {
+  "no": "970",
+  "name": "München-Allach, OT-Bau",
+  "parent": "dachau"
+ },
+ {
+  "no": "971",
+  "name": "München-Allach, Porzellan-Manufaktur",
+  "parent": "dachau",
+  "start": "1941-06-02"
+ },
+ {
+  "no": "972",
+  "name": "München-Allach, BMW",
+  "parent": "dachau",
+  "start": "1943-02-22"
+ },
+ {
+  "no": "973",
+  "name": "München, Bartolith-Werke",
+  "parent": "dachau",
+  "start": "1942-11-12",
+  "end": "1942-12-18"
+ },
+ {
+  "no": "974",
+  "name": "München, Bergmannschule",
+  "parent": "dachau",
+  "start": "1945-01-22"
+ },
+ {
+  "no": "975",
+  "name": "München, Bombensuchkommando",
+  "parent": "dachau"
+ },
+ {
+  "no": "976",
+  "name": "München, Chemische Werke",
+  "parent": "dachau"
+ },
+ {
+  "no": "977",
+  "name": "München, Ehrengut",
+  "parent": "dachau",
+  "start": "1942-04-07",
+  "end": "1942-09-11"
+ },
+ {
+  "no": "978",
+  "name": "München-Freimann, Dykerhoff & Widmann",
+  "parent": "dachau",
+  "start": "1942-09-19",
+  "end": "1942-12-10"
+ },
+ {
+  "no": "979",
+  "name": "München-Freimann, Ausbesserungswerk",
+  "parent": "dachau"
+ },
+ {
+  "no": "980",
+  "name": "München-Freimann, SS-Standortverwaltung",
+  "parent": "dachau",
+  "start": "1941-11-10"
+ },
+ {
+  "no": "981",
+  "name": "München, Gartenbaubetrieb Nützl",
+  "parent": "dachau",
+  "start": "1943-09-01"
+ },
+ {
+  "no": "982",
+  "name": "München, Gestapo",
+  "parent": "dachau"
+ },
+ {
+  "no": "983",
+  "name": "München-Giesing, Kamerawerk",
+  "parent": "dachau"
+ },
+ {
+  "no": "984",
+  "name": "München, Höchlstraße",
+  "parent": "dachau"
+ },
+ {
+  "no": "985",
+  "name": "München, Katastropheneinsatz",
+  "parent": "dachau"
+ },
+ {
+  "no": "986",
+  "name": "München, Königinstraße",
+  "parent": "dachau"
+ },
+ {
+  "no": "987",
+  "name": "München, Lebensborn",
+  "parent": "dachau",
+  "start": "1942-06-15"
+ },
+ {
+  "no": "988",
+  "name": "München, Leopoldstraße",
+  "parent": "dachau"
+ },
+ {
+  "no": "989",
+  "name": "München, Loden-Frey",
+  "parent": "dachau",
+  "start": "1944-06-13"
+ },
+ {
+  "no": "990",
+  "name": "München, Mannschaftshäuser",
+  "parent": "dachau",
+  "start": "1942-11-05",
+  "end": "1942-11-18"
+ },
+ {
+  "no": "991",
+  "name": "München, Oberbürgermeister",
+  "parent": "dachau"
+ },
+ {
+  "no": "992",
+  "name": "München-Oberföhring, Bauleitung der Waffen-SS",
+  "parent": "dachau"
+ },
+ {
+  "no": "993",
+  "name": "München, Parteikanzlei",
+  "parent": "dachau",
+  "end": "1945-04-22"
+ },
+ {
+  "no": "994",
+  "name": "München, Reichsbahn",
+  "parent": "dachau"
+ },
+ {
+  "no": "995",
+  "name": "München, Reichsführer SS",
+  "parent": "dachau"
+ },
+ {
+  "no": "996",
+  "name": "München, Reichsführer, SS-Adjutantur",
+  "parent": "dachau"
+ },
+ {
+  "no": "997",
+  "name": "München, Reichsführer, SS-Hauptkasse",
+  "parent": "dachau",
+  "end": "1945-03-03"
+ },
+ {
+  "no": "998",
+  "name": "München, Reichskriminalpolizeiamt",
+  "parent": "dachau"
+ },
+ {
+  "no": "999",
+  "name": "München-Riem, OT",
+  "parent": "dachau"
+ },
+ {
+  "no": "1000",
+  "name": "München-Riem, SS-Reit- und Fahrschule",
+  "parent": "dachau"
+ },
+ {
+  "no": "1001",
+  "name": "München, Schuhhaus Meier",
+  "parent": "dachau"
+ },
+ {
+  "no": "1002",
+  "name": "München-Schwabing, Schwester Pia",
+  "parent": "dachau",
+  "start": "1937-01-19",
+  "end": "1942-12-18"
+ },
+ {
+  "no": "1003",
+  "name": "München-Sendling",
+  "parent": "dachau",
+  "start": "1942-03-16",
+  "end": "1942-12-01"
+ },
+ {
+  "no": "1004",
+  "name": "München, Sprengkommando",
+  "parent": "dachau"
+ },
+ {
+  "no": "1005",
+  "name": "München, SS-Oberabschnitt Süd, Möhlstraße",
+  "parent": "dachau"
+ },
+ {
+  "no": "1006",
+  "name": "München, SS-Standortkommandantur, Bunkerbau",
+  "parent": "dachau"
+ },
+ {
+  "no": "1007",
+  "name": "München, SS-Standortkommandantur, Kabelbau",
+  "parent": "dachau"
+ },
+ {
+  "no": "1008",
+  "name": "München, Thomae, Großschlachterei",
+  "parent": "dachau",
+  "start": "1942-08-21",
+  "end": "1942-11-01"
+ },
+ {
+  "no": "1010",
+  "name": "Murru/Estland"
+ },
+ {
+  "no": "1011",
+  "name": "Mysen/Norwegen"
+ },
+ {
+  "no": "1013",
+  "name": "Nachhammer/Schlesien",
+  "parent": "auschwitz"
+ },
+ {
+  "no": "1014",
+  "name": "Nagelstal = Naguszewo, Kdo. v. Thorn OT",
+  "parent": "stutthof",
+  "end": "1944-11-30"
+ },
+ {
+  "no": "1015",
+  "name": "Namslau/Niederschlesien",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1016",
+  "name": "Narwa = Narva/Estland",
+  "parent": "vaivara",
+  "start": "1943-09-15",
+  "end": "1944-02-29"
+ },
+ {
+  "no": "1016a",
+  "name": "Narwa-Hungerburg = Narva-Joesuu/Estland",
+  "parent": "vaivara",
+  "start": "1943-10-01",
+  "end": "1943-12-31"
+ },
+ {
+  "no": "1017",
+  "name": "Natzweiler",
+  "start": "1941-05-01",
+  "end": "1944-09-30"
+ },
+ {
+  "no": "1018",
+  "name": "Nawitz, Kreis Lauenburg/Pommern",
+  "parent": "stutthof",
+  "end": "1945-03-09"
+ },
+ {
+  "no": "1019",
+  "name": "Neckarbischofsheim, Kreis Sinsheim, Kdo. v. Neckarelz I und II",
+  "parent": "natzweiler",
+  "start": "1944-09-01",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "1020",
+  "name": "Neckarelz I und II, Kreis Mosbach",
+  "parent": "natzweiler",
+  "start": "1944-03-21",
+  "end": "1945-03-30"
+ },
+ {
+  "no": "1021",
+  "name": "Neckargartach-Heilbronn",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1022",
+  "name": "Neckargerach, Kreis Mosbach, Kdo. v. Neckarelz I und II",
+  "parent": "natzweiler",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "1024",
+  "name": "Neesen, Kreis Minden, nur Arbeitseinsatzstelle v. Porta Westfalica"
+ },
+ {
+  "no": "1025",
+  "name": "Neisse (a. d. Glatzer Neisse)/Oberschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-01-01"
+ },
+ {
+  "no": "1026",
+  "name": "Netzkater, Kreis Grafschaft Hohenstein/Harz, Kdo. v. Harzungen",
+  "parent": "mittelbau-dora"
+ },
+ {
+  "no": "1028",
+  "name": "Neubrandenburg bei Neustrelitz",
+  "parent": "ravensbruck",
+  "start": "1943-03-01",
+  "end": "1945-04-29"
+ },
+ {
+  "no": "1029",
+  "name": "Neubrücke, Gemeinde Hoppstädten-Weiersbach, Kreis Kreuznach",
+  "parent": "hinzert",
+  "end": "1945-03-18"
+ },
+ {
+  "no": "1030",
+  "name": "Neuburg/Donau",
+  "parent": "dachau"
+ },
+ {
+  "no": "1031",
+  "name": "Neudachs = Jaworzno/Schlesien",
+  "parent": "auschwitz",
+  "start": "1943-06-15",
+  "end": "1945-01-19"
+ },
+ {
+  "no": "1032",
+  "name": "Neudamm",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "1034",
+  "name": "Neuengamme",
+  "start": "1938-09-01",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "1036",
+  "name": "Neufahrn/Bayern",
+  "parent": "dachau"
+ },
+ {
+  "no": "1039",
+  "name": "Neuhammer/Niederschlesien",
+  "parent": "gross-rosen",
+  "end": "1945-03-01"
+ },
+ {
+  "no": "1042",
+  "name": "Neunkirchen, Kreis Mosbach",
+  "parent": "natzweiler",
+  "start": "1944-11-01"
+ },
+ {
+  "no": "1043",
+  "name": "Neu Rohlau = Nova Role bei Karlsbad/Tschech.",
+  "parent": "ravensbruck",
+  "start": "1942-12-07",
+  "end": "1945-04-18"
+ },
+ {
+  "no": "1044",
+  "name": "Neusalz/Oder, Kreis Freystadt/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-07-01",
+  "end": "1945-02-28"
+ },
+ {
+  "no": "1046",
+  "name": "Neustadt/Coburg",
+  "parent": "buchenwald",
+  "start": "1944-09-07",
+  "end": "1945-04-06"
+ },
+ {
+  "no": "1047",
+  "name": "Neustadt-Glewe/Mecklenburg",
+  "parent": "ravensbruck",
+  "start": "1944-09-01",
+  "end": "1945-05-02"
+ },
+ {
+  "no": "1048",
+  "name": "Neustadt, Kreis Neustadt/Oberschlesien",
+  "parent": "auschwitz",
+  "start": "1944-09-26",
+  "end": "1945-01-19"
+ },
+ {
+  "no": "1049",
+  "name": "Neustadt in Holstein/Schleswig-Holstein",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "1052",
+  "name": "Neustrelitz-Fürstensee",
+  "parent": "ravensbruck",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1053",
+  "name": "Neusustrum, mit Unterkommandos Arenberg, Dörpen, Lathen, Lindloh, Lingen, Meppen und Werlte (siehe alle dort)",
+  "start": "1933-02-01"
+ },
+ {
+  "no": "1054",
+  "name": "Neu-Ulm",
+  "parent": "dachau",
+  "start": "1943-07-05"
+ },
+ {
+  "no": "1054a",
+  "name": "Nickelswalde/Reichsgau Danzig-Westpreußen",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1055",
+  "name": "Niederfuhr = Niskie Brodno/Westpreußen",
+  "parent": "stutthof",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "1056",
+  "name": "Niedergebra, Kreis Grafschaft Hohenstein, Kdo. v. Kleinbodungen",
+  "parent": "mittelbau-dora"
+ },
+ {
+  "no": "1057",
+  "name": "Niederhagen in Wewelsburg/Westfalen, Kreis Büren",
+  "start": "1941-09-01",
+  "end": "1943-04-30"
+ },
+ {
+  "no": "1059",
+  "name": "Niederoderwitz/Sachsen",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1060",
+  "name": "Niederorschel, Kreis Worbis/Provinz Sachsen",
+  "parent": "buchenwald",
+  "end": "1945-04-01"
+ },
+ {
+  "no": "1061",
+  "name": "Niedersachswerfen, Mittelbau III, Kreis Grafschaft Hohenstein",
+  "parent": "buchenwald",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1064",
+  "name": "Niemegk/Brandenburg",
+  "parent": "sachsenhausen",
+  "start": "1944-04-01",
+  "end": "1945-04-28"
+ },
+ {
+  "no": "1065",
+  "name": "Niesky, Kreis Rothenburg/Niederschlesien",
+  "parent": "gross-rosen",
+  "end": "1945-04-18"
+ },
+ {
+  "no": "1066",
+  "name": "Nimptsch/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1945-01-08",
+  "end": "1945-01-27"
+ },
+ {
+  "no": "1067",
+  "name": "Nis (Nisch)/Serbien",
+  "start": "1941-09-01",
+  "end": "1944-09-15"
+ },
+ {
+  "no": "1069",
+  "name": "Nonnweiler, nur Arbeitseinsatzstelle von Hinzert"
+ },
+ {
+  "no": "1070",
+  "name": "Nordhausen/Sachsen-Anhalt",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1071",
+  "name": "Nordhausen/Sachsen-Anhalt, Boelcke-Kaserne",
+  "parent": "mittelbau-dora",
+  "start": "1945-01-08",
+  "end": "1945-04-11"
+ },
+ {
+  "no": "1072",
+  "name": "Nossen bei Dresden",
+  "parent": "flossenburg",
+  "start": "1944-11-05"
+ },
+ {
+  "no": "1074",
+  "name": "Nürnberg",
+  "parent": "dachau",
+  "start": "1941-05-12"
+ },
+ {
+  "no": "1075",
+  "name": "Nürnberg, Siemens-Schuckert-Werke",
+  "parent": "flossenburg",
+  "start": "1944-10-18",
+  "end": "1945-03-09"
+ },
+ {
+  "no": "1076",
+  "name": "Nürnberg, Chillingworth Werke",
+  "parent": "flossenburg",
+  "start": "1943-09-05"
+ },
+ {
+  "no": "1077",
+  "name": "Ober Altstadt = Horejsi Stare Mesto, Kreis Trautenau/Tschech.",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1079",
+  "name": "Oberehnheim = Obernai/Elsaß",
+  "parent": "natzweiler",
+  "start": "1942-12-15"
+ },
+ {
+  "no": "1081",
+  "name": "Ober-Hohenelbe",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1084",
+  "name": "Oberndorf bei Hermsdorf/Thüringen",
+  "parent": "buchenwald",
+  "start": "1944-11-16"
+ },
+ {
+  "no": "1085",
+  "name": "Obernheide/Oldenburg",
+  "parent": "neuengamme",
+  "end": "1945-04-06"
+ },
+ {
+  "no": "1086",
+  "name": "Obersitz = Obrzycko/Wartheland",
+  "parent": "stutthof",
+  "start": "1942-03-15"
+ },
+ {
+  "no": "1087",
+  "name": "Oberstdorf/Birgsau, Kreis Sonthofen",
+  "parent": "dachau",
+  "start": "1943-08-01"
+ },
+ {
+  "no": "1089",
+  "name": "Obertraubling bei Regensburg",
+  "parent": "flossenburg",
+  "start": "1945-02-20"
+ },
+ {
+  "no": "1090",
+  "name": "Ober Wüstegiersdorf, Kreis Waldenburg/Niederschlesien, Kdo. v. Wüstegiersdorf",
+  "parent": "gross-rosen",
+  "start": "1944-05-15",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1092",
+  "name": "Obrzycko siehe Obersitz"
+ },
+ {
+  "no": "1094",
+  "name": "Oederan, Kreis Flöha/Sachsen",
+  "parent": "flossenburg",
+  "start": "1944-09-12",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "1096",
+  "name": "Oetztal/Österreich",
+  "parent": "dachau"
+ },
+ {
+  "no": "1096a",
+  "name": "Offenburg (Männer)/Baden",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1097",
+  "name": "Ohrdruf S III, Kreis Gotha/Thüringen",
+  "parent": "buchenwald",
+  "start": "1944-11-06",
+  "end": "1945-04-01"
+ },
+ {
+  "no": "1098",
+  "name": "Oldenburg",
+  "start": "1942-12-19"
+ },
+ {
+  "no": "1101",
+  "name": "Ommen/Holland",
+  "start": "1943-05-01",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "1102",
+  "name": "Oranienburg",
+  "start": "1933-03-21",
+  "end": "1935-03-31"
+ },
+ {
+  "no": "1103",
+  "name": "Oranienburg",
+  "parent": "sachsenhausen",
+  "start": "1943-07-01",
+  "end": "1945-04-21"
+ },
+ {
+  "no": "1105",
+  "name": "Oslawan = Oslavany/Tschech.",
+  "start": "1942-04-04",
+  "end": "1943-08-30"
+ },
+ {
+  "no": "1105a",
+  "name": "Osnabrück (Männer)",
+  "start": "1933-06-03",
+  "end": "1933-08-31"
+ },
+ {
+  "no": "1106",
+  "name": "Osterode/Harz, \"Heber\"",
+  "parent": "buchenwald",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "1107",
+  "name": "Osterode/Harz, \"Dachs 4\", Kdo. v. Niedersachswerfen",
+  "parent": "mittelbau-dora"
+ },
+ {
+  "no": "1109",
+  "name": "Osthofen/Hessen",
+  "start": "1933-04-15",
+  "end": "1934-05-24"
+ },
+ {
+  "no": "1111",
+  "name": "Ostrovacka Ada",
+  "start": "1942-08-25",
+  "end": "1942-11-11"
+ },
+ {
+  "no": "1113",
+  "name": "Ottobrunn, Gemeinde Unterhaching",
+  "parent": "dachau",
+  "start": "1944-03-01"
+ },
+ {
+  "no": "1115",
+  "name": "Pabenschwand/Österreich",
+  "parent": "dachau",
+  "start": "1943-03-01"
+ },
+ {
+  "no": "1116",
+  "name": "Palemonas/Litauen",
+  "parent": "kauen",
+  "end": "1944-07-07"
+ },
+ {
+  "no": "1117",
+  "name": "Pancevo",
+  "start": "1941-07-22",
+  "end": "1941-09-30"
+ },
+ {
+  "no": "1119",
+  "name": "Papenburg, Kdo. v. Aschendorfermoor (Höveler und Dieckhaus)",
+  "start": "1942-01-01",
+  "end": "1945-04-21"
+ },
+ {
+  "no": "1121",
+  "name": "Paris, Bahnhof Austerlitz",
+  "start": "1943-10-30",
+  "end": "1944-08-12"
+ },
+ {
+  "no": "1122",
+  "name": "Paris, Camp du Quai de Berey"
+ },
+ {
+  "no": "1123",
+  "name": "Paris, Hotel de Cahen d'Anvers, rue Bassano",
+  "start": "1943-10-01",
+  "end": "1944-08-12"
+ },
+ {
+  "no": "1124",
+  "name": "Paris, Lager Ost, rue du Faubourg St. Martin 85-87",
+  "start": "1943-08-06"
+ },
+ {
+  "no": "1125",
+  "name": "Paris, Magazin de Meubles Levitan",
+  "start": "1943-07-18",
+  "end": "1944-08-12"
+ },
+ {
+  "no": "1126",
+  "name": "Parschnitz = Porici, Kreis Trautenau/Tschech.",
+  "parent": "gross-rosen",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1127",
+  "name": "Passau I, Oberilzmühle",
+  "parent": "dachau",
+  "start": "1942-10-16",
+  "end": "1945-05-02"
+ },
+ {
+  "no": "1128",
+  "name": "Passau II, Waldwerke Passau-Ilzstadt",
+  "parent": "mauthausen",
+  "end": "1944-11-07"
+ },
+ {
+  "no": "1129",
+  "name": "Passau III, Gemeinde Jandelsbrunn, Kdo. v. Passau I",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1131",
+  "name": "Peggau bei Graz/Österreich",
+  "parent": "mauthausen",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "1132",
+  "name": "Pelplin = Pomorskie/Westpreußen",
+  "parent": "stutthof",
+  "start": "1940-05-15",
+  "end": "1940-06-30"
+ },
+ {
+  "no": "1133",
+  "name": "Pelters = Peltre bei Metz",
+  "parent": "natzweiler",
+  "start": "1942-03-31"
+ },
+ {
+  "no": "1134",
+  "name": "Penig, Kreis Rochlitz/Sachsen",
+  "parent": "buchenwald",
+  "start": "1945-01-15",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "1135",
+  "name": "Perg/Oberösterreich, nur Arbeitseinsatzstelle v. Mauthausen"
+ },
+ {
+  "no": "1136",
+  "name": "Petershagen, nur Arbeitseinsatzstelle v. Stutthof"
+ },
+ {
+  "no": "1137",
+  "name": "Peterswaldau, Kreis Reichenbach/Niederschlesien",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1138",
+  "name": "Petrovgrad = Groß Betschkerek = Veliki Beckerek",
+  "start": "1942-07-20",
+  "end": "1944-10-02"
+ },
+ {
+  "no": "1139",
+  "name": "Pfaffenhofen/Bayern",
+  "parent": "dachau"
+ },
+ {
+  "no": "1141",
+  "name": "Pithiviers/Frankreich",
+  "start": "1941-05-14",
+  "end": "1942-09-30"
+ },
+ {
+  "no": "1142",
+  "name": "Plansee, Gemeinde Breitenwang/Tirol, Österreich",
+  "parent": "dachau",
+  "start": "1944-09-26",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "1143",
+  "name": "Plantlünne"
+ },
+ {
+  "no": "1146",
+  "name": "Plattling bei Deggendorf",
+  "parent": "flossenburg",
+  "start": "1945-02-20",
+  "end": "1945-04-24"
+ },
+ {
+  "no": "1147",
+  "name": "Plauen/Sachsen, Horn GmbH",
+  "parent": "flossenburg",
+  "start": "1944-11-09",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "1148",
+  "name": "Plauen/Sachsen, Industriewerke AG",
+  "parent": "flossenburg",
+  "start": "1944-09-23",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "1149",
+  "name": "Plauen/Sachsen, Plauener Baumwollspinnerei AG",
+  "parent": "flossenburg",
+  "start": "1944-09-18",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "1150",
+  "name": "Plawy, Kreis Bielitz-Land/Oberschlesien",
+  "parent": "auschwitz",
+  "start": "1944-12-20",
+  "end": "1945-01-18"
+ },
+ {
+  "no": "1151",
+  "name": "Plömnitz, Kreis Bernburg/Anhalt, Bahnstation Baalberg",
+  "parent": "buchenwald",
+  "start": "1944-08-22"
+ },
+ {
+  "no": "1152",
+  "name": "Pluwig, nur Arbeitseinsatzstelle v. Hinzert"
+ },
+ {
+  "no": "1154",
+  "name": "Pölitz/Pommern",
+  "parent": "stutthof",
+  "start": "1944-06-27",
+  "end": "1945-04-18"
+ },
+ {
+  "no": "1155",
+  "name": "Pöllert, nur Arbeitseinsatzstelle von Hinzert"
+ },
+ {
+  "no": "1159",
+  "name": "Poniatowa, Kreishauptmannschaft Pulawy/Polen",
+  "parent": "majdanek",
+  "start": "1943-10-22",
+  "end": "1944-07-31"
+ },
+ {
+  "no": "1160",
+  "name": "Poperwahlen = Popervale/Lettland",
+  "parent": "riga-kaiserwald",
+  "end": "1944-12-31"
+ },
+ {
+  "no": "1163",
+  "name": "Porschdorf über Bad Schandau/Sachsen",
+  "parent": "flossenburg",
+  "start": "1945-02-03",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1165",
+  "name": "Poschetzau = Bozicany, Kreis Elbogen/Tschech.",
+  "parent": "flossenburg",
+  "start": "1944-08-19"
+ },
+ {
+  "no": "1166",
+  "name": "Potsdam-Babelsberg",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "1167",
+  "name": "Pottenstein/Oberfranken",
+  "parent": "flossenburg",
+  "start": "1942-10-12",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "1168",
+  "name": "Pottenstein/Oberfranken, Kdo. v. Nürnberg",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "1170",
+  "name": "Praust bei Danzig",
+  "parent": "stutthof",
+  "start": "1944-07-07",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "1171",
+  "name": "Prawienischken = Pravieniskis/Litauen",
+  "parent": "kauen",
+  "start": "1943-11-01"
+ },
+ {
+  "no": "1173",
+  "name": "Prenzlau/Brandenburg",
+  "parent": "ravensbruck",
+  "end": "1945-04-27"
+ },
+ {
+  "no": "1174",
+  "name": "Prettin, Kreis Torgau",
+  "parent": "sachsenhausen",
+  "start": "1941-10-03"
+ },
+ {
+  "no": "1175",
+  "name": "Preußisch Oldendorf"
+ },
+ {
+  "no": "1176",
+  "name": "Preußisch Stargard = Starogard bei Dirschau/Marienburg",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1177",
+  "name": "Primstal, nur Arbeitseinsatzstelle v. Hinzert"
+ },
+ {
+  "no": "1178",
+  "name": "Pröbbernau/Ostpreußen",
+  "parent": "stutthof",
+  "start": "1939-10-31",
+  "end": "1941-03-27"
+ },
+ {
+  "no": "1180",
+  "name": "Pulawy, Lublin",
+  "parent": "majdanek",
+  "start": "1944-06-13",
+  "end": "1944-07-22"
+ },
+ {
+  "no": "1181",
+  "name": "Pürglitz = Krivoklat/Tschech.",
+  "start": "1942-04-10",
+  "end": "1942-06-06"
+ },
+ {
+  "no": "1182",
+  "name": "Pürschkau/Niederschlesien",
+  "parent": "gross-rosen",
+  "start": "1944-10-22",
+  "end": "1945-01-22"
+ },
+ {
+  "no": "1183",
+  "name": "Pustkow, Kreis Debica/Polen"
+ },
+ {
+  "no": "1183a",
+  "name": "Putki/Estland",
+  "parent": "vaivara",
+  "start": "1943-09-15"
+ },
+ {
+  "no": "1184",
+  "name": "Putzig = Puck/Westpreußen",
+  "parent": "stutthof",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "1185",
+  "name": "Quedlinburg",
+  "parent": "buchenwald",
+  "start": "1942-04-20",
+  "end": "1943-01-07"
+ },
+ {
+  "no": "1186",
+  "name": "Quedlinburg",
+  "parent": "buchenwald",
+  "end": "1945-04-13"
+ },
+ {
+  "no": "1187",
+  "name": "Quednau",
+  "start": "1933-06-01"
+ },
+ {
+  "no": "1188",
+  "name": "Quesendorf = Gwizdziny, Kreis Neumark/Westpreußen",
+  "parent": "stutthof",
+  "end": "1945-01-15"
+ },
+ {
+  "no": "1189",
+  "name": "Rabenstein (Rabstein) = Rabstejn bei Kamnitz/Tschech.",
+  "parent": "flossenburg",
+  "start": "1944-08-26",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1190",
+  "name": "Radolfzell, Kreis Konstanz",
+  "parent": "dachau",
+  "start": "1941-05-19",
+  "end": "1945-01-16"
+ },
+ {
+  "no": "1191",
+  "name": "Radom/Polen",
+  "parent": "majdanek",
+  "start": "1944-01-17",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "1192",
+  "name": "Raguhn/Anhalt",
+  "parent": "buchenwald",
+  "start": "1945-02-07",
+  "end": "1945-04-13"
+ },
+ {
+  "no": "1193",
+  "name": "Rajsko, Kreis Biala bei Krakau",
+  "parent": "auschwitz"
+ },
+ {
+  "no": "1193a",
+  "name": "Rambau (Männer), Gemeinde Schüddelkau/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1939-10-07",
+  "end": "1939-10-18"
+ },
+ {
+  "no": "1195",
+  "name": "Rastatt/Baden",
+  "end": "1944-12-02"
+ },
+ {
+  "no": "1196",
+  "name": "Rastatt/Baden",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1197",
+  "name": "Rastdorf",
+  "start": "1938-12-13",
+  "end": "1944-02-29"
+ },
+ {
+  "no": "1199",
+  "name": "Rathenow bei Stendal",
+  "parent": "sachsenhausen",
+  "end": "1945-04-27"
+ },
+ {
+  "no": "1201",
+  "name": "Rauscha, Kreis Görlitz, Kdo. v. Bunzlau I",
+  "parent": "gross-rosen",
+  "end": "1945-02-16"
+ },
+ {
+  "no": "1202",
+  "name": "Ravensbrück",
+  "start": "1939-05-15",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1203",
+  "name": "Rechlin, Kreis Waren bei Neustrelitz",
+  "parent": "ravensbruck",
+  "start": "1943-01-01",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1205",
+  "name": "Regensburg/Bayern",
+  "parent": "flossenburg",
+  "start": "1945-03-19",
+  "end": "1945-04-23"
+ },
+ {
+  "no": "1206",
+  "name": "Regenstein, Forst, Kdo. v. Blankenburg/Harz",
+  "parent": "mittelbau-dora",
+  "start": "1945-02-01",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1208",
+  "name": "Reichenau = Rychnov u Jablonce nad Nisou/Tschech.",
+  "parent": "gross-rosen",
+  "start": "1944-03-13",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1210",
+  "name": "Reinsfeld I und II, nur Arbeitseinsatzstelle v. Hinzert"
+ },
+ {
+  "no": "1213",
+  "name": "Reuth bei Erbendorf",
+  "parent": "flossenburg",
+  "start": "1945-01-12",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1214",
+  "name": "Reval = Tallin/Estland",
+  "parent": "vaivara",
+  "end": "1944-09-22"
+ },
+ {
+  "no": "1215",
+  "name": "Rheinsberg/Brandenburg",
+  "parent": "ravensbruck"
+ },
+ {
+  "no": "1216",
+  "name": "Rieben/Pommern",
+  "parent": "stutthof",
+  "start": "1945-02-03",
+  "end": "1945-03-10"
+ },
+ {
+  "no": "1217",
+  "name": "Ried im Innkreis/Oberösterreich",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1218",
+  "name": "Riederloh, Kdo. v. Kaufbeuren",
+  "parent": "dachau",
+  "start": "1944-09-20",
+  "end": "1945-01-08"
+ },
+ {
+  "no": "1220",
+  "name": "Riga-\"Kaiserwald\" = Riga \"Meza Parks\"",
+  "start": "1943-03-15",
+  "end": "1944-10-01"
+ },
+ {
+  "no": "1221",
+  "name": "Riga, Balastdamm",
+  "parent": "riga-kaiserwald",
+  "start": "1943-08-18",
+  "end": "1944-08-07"
+ },
+ {
+  "no": "1222",
+  "name": "Riga, Dünawerke",
+  "parent": "riga-kaiserwald",
+  "start": "1943-08-18",
+  "end": "1944-07-01"
+ },
+ {
+  "no": "1223",
+  "name": "Riga, Heereskraftfahrzeugpark",
+  "parent": "riga-kaiserwald",
+  "start": "1943-08-18",
+  "end": "1944-08-06"
+ },
+ {
+  "no": "1224",
+  "name": "Riga, Heereskraftfahrzeugpark, Park Hirtenstraße, Kdo. v. Riga, Heeres-kraftfahrzeugpark",
+  "parent": "riga-kaiserwald",
+  "start": "1944-01-31",
+  "end": "1944-08-06"
+ },
+ {
+  "no": "1225",
+  "name": "Riga, Lenta",
+  "parent": "riga-kaiserwald",
+  "start": "1943-08-18"
+ },
+ {
+  "no": "1227",
+  "name": "Riga, Mühlgraben",
+  "parent": "riga-kaiserwald",
+  "start": "1943-08-18"
+ },
+ {
+  "no": "1228",
+  "name": "Riga, Reichsbahn",
+  "parent": "riga-kaiserwald",
+  "start": "1943-08-18"
+ },
+ {
+  "no": "1229",
+  "name": "Riga, Spilwe",
+  "parent": "riga-kaiserwald",
+  "start": "1943-07-05"
+ },
+ {
+  "no": "1230",
+  "name": "Riga-Strasdenhof, Anodenwerkstatt, Kdo. v. Riga-Strasdenhof, Widzemer Chaussee, AEG",
+  "parent": "riga-kaiserwald",
+  "start": "1944-06-01",
+  "end": "1944-08-30"
+ },
+ {
+  "no": "1231",
+  "name": "Riga, Truppenwirtschaftslager",
+  "parent": "riga-kaiserwald",
+  "start": "1943-03-18"
+ },
+ {
+  "no": "1232",
+  "name": "Riga-Strasdenhof, Widzemer Chaussee, AEG",
+  "parent": "riga-kaiserwald",
+  "start": "1943-08-01",
+  "end": "1944-09-25"
+ },
+ {
+  "no": "1233",
+  "name": "Riga-Strasdenhof, Widzemer Chaussee, Fabrikarbeiten",
+  "parent": "riga-kaiserwald",
+  "start": "1943-08-18",
+  "end": "1944-08-06"
+ },
+ {
+  "no": "1236",
+  "name": "Rochlitz/Sachsen",
+  "parent": "flossenburg",
+  "start": "1944-09-14",
+  "end": "1945-03-28"
+ },
+ {
+  "no": "1238",
+  "name": "Röhrigshof/Hessen",
+  "start": "1944-11-01",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "1241",
+  "name": "Roosendaal/Holland",
+  "parent": "herzogenbusch"
+ },
+ {
+  "no": "1242",
+  "name": "Rosenheim/Bayern",
+  "parent": "dachau"
+ },
+ {
+  "no": "1243",
+  "name": "Rosenberg i. Westpr./Ostpreußen",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1244",
+  "name": "Rosenberg = Rozankowo/Danzig-Westpreußen",
+  "parent": "stutthof",
+  "start": "1945-01-01"
+ },
+ {
+  "no": "1245",
+  "name": "Rossla, Kreis Sangerhausen (früher: Kreis Merseburg)",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1246",
+  "name": "Rosslau, Anhalt",
+  "start": "1934-02-19"
+ },
+ {
+  "no": "1247",
+  "name": "Rostock-Schwarzenforst",
+  "parent": "ravensbruck",
+  "start": "1943-07-01",
+  "end": "1945-05-01"
+ },
+ {
+  "no": "1248",
+  "name": "Rothenburg, Kreis Merseburg/Thüringen",
+  "parent": "buchenwald",
+  "start": "1944-10-24"
+ },
+ {
+  "no": "1249",
+  "name": "Rothschwaige, Gemeinde Karlsfeld, Kdo. v. Karlsfeld",
+  "parent": "dachau",
+  "end": "1944-07-31"
+ },
+ {
+  "no": "1250",
+  "name": "Rottleberode, Kreis Merseburg, Bauleitung A 5 und Mittelwerke GmbH",
+  "parent": "buchenwald",
+  "start": "1944-03-13",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "1251",
+  "name": "Rottleberode, Kreis Merseburg, Maschinenbaukommando B 4 und Mittelwerke GmbH, bis 4.4.1945",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1252",
+  "name": "Rottleberode, Kreis Merseburg, Thyrawerke und Mittelwerke GmbH, bis 4.4.1945",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1254a",
+  "name": "Rückenau (Männer)/Danzig-Westpreußen, 25.9.1939 bis 28.12.1939",
+  "parent": "stutthof",
+  "start": "1939-09-25",
+  "end": "1939-12-28"
+ },
+ {
+  "no": "1254b",
+  "name": "Rudau (Männer)/Ostpreußen"
+ },
+ {
+  "no": "1255",
+  "name": "Russenschin = Russoschin/Westpreußen, 13.9.1944 bis 31.1.1945",
+  "parent": "stutthof",
+  "start": "1944-09-13",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "1259",
+  "name": "Saal a.d. Donau, Kreis Kelheim, bis 15.4.1945",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "1260",
+  "name": "Saalfeld/Thüringen, 7.9.1943 bis 19.4.1945",
+  "parent": "buchenwald",
+  "start": "1943-09-07",
+  "end": "1945-04-19"
+ },
+ {
+  "no": "1261",
+  "name": "Saarburg I und II, nur Arbeitseinsatzstellen v. Hinzert"
+ },
+ {
+  "no": "1263",
+  "name": "Sabac = Schabatz/Serbien, 20.7.1941 bis 30.9.1944",
+  "start": "1941-07-20",
+  "end": "1944-09-30"
+ },
+ {
+  "no": "1264",
+  "name": "Sabac-Senjak = Schabatz-Senjak, 30.9.1941 bis 31.3.1942",
+  "start": "1941-09-30",
+  "end": "1942-03-31"
+ },
+ {
+  "no": "1265",
+  "name": "Sachsenburg, Kreis Flöha/Sachsen, 3.5.1933 bis 9.9.1937",
+  "start": "1933-05-03",
+  "end": "1937-09-09"
+ },
+ {
+  "no": "1266",
+  "name": "Sachsenhausen",
+  "start": "1936-08-01",
+  "end": "1945-04-22"
+ },
+ {
+  "no": "1267",
+  "name": "Sackisch/Niederschlesien, bis 8.5.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1269",
+  "name": "Saloniki, \"Baron Hirsch\", 6.2.1943 bis 7.8.1943",
+  "start": "1943-02-06",
+  "end": "1943-08-07"
+ },
+ {
+  "no": "1272",
+  "name": "Salzburg, bis 4.5.1945",
+  "parent": "dachau"
+ },
+ {
+  "no": "1273",
+  "name": "Salzburg, Bombensuchkommando, 27.11.1944 bis 4.5.1945",
+  "parent": "dachau",
+  "start": "1944-11-27",
+  "end": "1945-05-04"
+ },
+ {
+  "no": "1274",
+  "name": "Salzburg, Hellbrunner Allee, ab 1.12.1944",
+  "parent": "dachau"
+ },
+ {
+  "no": "1275",
+  "name": "Salzburg, Kapitelplatz",
+  "parent": "dachau"
+ },
+ {
+  "no": "1276",
+  "name": "Salzburg-Schürich, 11.12.1942 bis 28.12.1942",
+  "parent": "dachau",
+  "start": "1942-12-11",
+  "end": "1942-12-28"
+ },
+ {
+  "no": "1277",
+  "name": "Salzburg, Sprengkommando, 12.1.1945 bis 4.5.1945",
+  "parent": "dachau",
+  "start": "1945-01-12",
+  "end": "1945-05-04"
+ },
+ {
+  "no": "1278",
+  "name": "Salzgitter, ab 1.8.1943",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "1282",
+  "name": "Salzwedel/Prov. Sachsen, 10.7.1944 bis 15.4.1945",
+  "parent": "neuengamme",
+  "start": "1944-07-10",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "1285",
+  "name": "Sandbostel, ab 15.4.1945",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "1288a",
+  "name": "Saskoschin (Männer)/Danzig-Westpreußen, 26.9.1940 bis 25.11.1940",
+  "parent": "stutthof",
+  "start": "1940-09-26",
+  "end": "1940-11-25"
+ },
+ {
+  "no": "1289",
+  "name": "Säuferwassergraben/Niederschlesien, Kdo. v. Wüstegiersdorf, bis 8.5.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1290",
+  "name": "Saulgau/Württemberg, ab 13.9.1943",
+  "parent": "dachau"
+ },
+ {
+  "no": "1292",
+  "name": "Schandelah, Kreis Braunschweig, 8.5.1944 bis 12.4.1945",
+  "parent": "neuengamme",
+  "start": "1944-05-08",
+  "end": "1945-04-12"
+ },
+ {
+  "no": "1294",
+  "name": "Schatzlar = Zacler/Tschech., bis 8.5.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1295",
+  "name": "Schaulen = Siauliai/Litauen, 17.9.1943 bis 21.7.1944",
+  "parent": "kauen",
+  "start": "1943-09-17",
+  "end": "1944-07-21"
+ },
+ {
+  "no": "1298",
+  "name": "Schertendorf/Niederschlesien, bis 28.2.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1299",
+  "name": "Schippenbeil/Ostpreußen, ab 21.9.1944",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1300",
+  "name": "Schirkenpaß (Scherokopas) = Szerokopas, Kreis Thorn, 1.8.1944 bis 31.1.1945",
+  "parent": "stutthof",
+  "start": "1944-08-01",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "1301",
+  "name": "Schirmeck-Vorbruck = Labroque/Baden-Elsaß, ab 15.7.1940"
+ },
+ {
+  "no": "1302",
+  "name": "Schlachters, Kreis Lindau, Gemeinde Sigmarszell, bis 7.4.1945",
+  "parent": "dachau"
+ },
+ {
+  "no": "1303",
+  "name": "Schlackenwerth = Ostrov, Bez. Karlsbad/Tschech., ab 17.5.1943",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "1304",
+  "name": "Schleissheim, Kreis München, ab 5.10.1941",
+  "parent": "dachau"
+ },
+ {
+  "no": "1305",
+  "name": "Schlieben, Kreis Schweinitz,16.8.1944 bis 30.4.1945 (Männerlager)bis 8.5.1945 (Frauenlager)",
+  "parent": "ravensbruck",
+  "start": "1944-08-16",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1306",
+  "name": "\"Schlier Redl-Zipf\", Gemeinde Vöcklamarkt und Pfaffing/Oberösterreich, 10.10.1943 bis 3.5.1945",
+  "parent": "mauthausen",
+  "start": "1943-10-10",
+  "end": "1945-05-03"
+ },
+ {
+  "no": "1310",
+  "name": "Schloß Hartheim/Oberösterreich",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1311",
+  "name": "Schloß Itter/Tirol, 7.2.1943 bis 5.5.1945",
+  "parent": "dachau",
+  "start": "1943-02-07",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "1313",
+  "name": "Schloß Lannach/Steiermark, Kdo. v. Schloß Mittersill, bis 8.5.1945",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1314",
+  "name": "Schloß Lind/Steiermark, 22.6.1942 bis 3.5.1945",
+  "parent": "dachau",
+  "start": "1942-06-22",
+  "end": "1945-05-03"
+ },
+ {
+  "no": "1315",
+  "name": "Schloß Mittersill, Kreis Zell am See, bis 8.5.1945",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1316",
+  "name": "Schloß Neuhirschstein, Kdo. v. Dresden N 23, Bauleitung der Waffen-SS und Polizei, ab 7.10.1943",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "1317",
+  "name": "Schnarchenreuth/Bayern, 13.3.1945 bis 22.4.1945",
+  "start": "1945-03-13",
+  "end": "1945-04-22"
+ },
+ {
+  "no": "1318",
+  "name": "Schömberg, Kreis Balingen, ab 16.12.1943",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1321",
+  "name": "Schönebeck, Kreis Calbe, Junkerswerke, 19.3.1943 bis 12.4.1945",
+  "parent": "buchenwald",
+  "start": "1943-03-19",
+  "end": "1945-04-12"
+ },
+ {
+  "no": "1322",
+  "name": "Schönebeck, Kreis Calbe, Radiatorenwerk, 3.3.1945 bis 12.4.1945",
+  "parent": "buchenwald",
+  "start": "1945-03-03",
+  "end": "1945-04-12"
+ },
+ {
+  "no": "1323",
+  "name": "Schönefeld/Brandenburg, bis 20.4.1945",
+  "parent": "ravensbruck"
+ },
+ {
+  "no": "1325",
+  "name": "Schönheide, Kreis Schwarzenberg/Sachsen, 21.2.1945 bis 15.4.1945",
+  "parent": "flossenburg",
+  "start": "1945-02-21",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "1325a",
+  "name": "Schönhorst (Männer)/Danzig-Westpreußen, 24.8.1941 bis 29.9.1941",
+  "parent": "stutthof",
+  "start": "1941-08-24",
+  "end": "1941-09-29"
+ },
+ {
+  "no": "1325b",
+  "name": "Schönsee (Männer)/Danzig-Westpreußen, 23.11.1939 bis 17.1.1942",
+  "parent": "stutthof",
+  "start": "1939-11-23",
+  "end": "1942-01-17"
+ },
+ {
+  "no": "1327",
+  "name": "Schönwarling/Westpreußen, 8.3.1940 bis 11.6.1941 und ab 7.11.1943",
+  "parent": "stutthof",
+  "start": "1940-03-08",
+  "end": "1941-06-11"
+ },
+ {
+  "no": "1328",
+  "name": "Schoorl/Holland, 1.2.1941 bis 30.9.1941",
+  "start": "1941-02-01",
+  "end": "1941-09-30"
+ },
+ {
+  "no": "1329",
+  "name": "Schörzingen, Kreis Rottweil, 20.2.1944 bis 19.4.1945",
+  "parent": "natzweiler",
+  "start": "1944-02-20",
+  "end": "1945-04-19"
+ },
+ {
+  "no": "1330",
+  "name": "Schoten (Schooten)/Belgien, Kdo. v. Mechelen, 1.7.1942 bis 30.6.1944",
+  "start": "1942-07-01",
+  "end": "1944-06-30"
+ },
+ {
+  "no": "1334",
+  "name": "Schwarzenfelde/Westpreußen, 23.10.1941 bis 10.11.1941",
+  "parent": "stutthof",
+  "start": "1941-10-23",
+  "end": "1941-11-10"
+ },
+ {
+  "no": "1336",
+  "name": "Schwarzheide/Brandenburg, 5.7.1944 bis 16.4.1945",
+  "parent": "sachsenhausen",
+  "start": "1944-07-05",
+  "end": "1945-04-16"
+ },
+ {
+  "no": "1337",
+  "name": "Schwechat, Gemeinde Wien-Schwechat, 30.8.1943 bis 13.7.1944",
+  "parent": "mauthausen",
+  "start": "1943-08-30",
+  "end": "1944-07-13"
+ },
+ {
+  "no": "1340",
+  "name": "Schweidnitz/Niederschlesien, ab 1.1.1944",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1341",
+  "name": "Schwerte/Ruhr, Kreis Iserlohn, ab 6.4.1944",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1344",
+  "name": "Schwindratzheim/Baden-Elsaß, bis 31.10.1944",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1345",
+  "name": "Seehausen, Kreis Weilheim",
+  "parent": "dachau"
+ },
+ {
+  "no": "1346",
+  "name": "Seerappen/Ostpreußen, 21.9.1944 bis 15.1.1945",
+  "parent": "stutthof",
+  "start": "1944-09-21",
+  "end": "1945-01-15"
+ },
+ {
+  "no": "1346a",
+  "name": "Seestadtl = Ervenice (Männer)/Reichsgau Sudetenland, 1.9.1944 bis 7.10.1944",
+  "parent": "flossenburg",
+  "start": "1944-09-01",
+  "end": "1944-10-07"
+ },
+ {
+  "no": "1347",
+  "name": "Seifhennersdorf, Kreis Zittau, 17.1.1944 bis 16.3.1945",
+  "parent": "flossenburg",
+  "start": "1944-01-17",
+  "end": "1945-03-16"
+ },
+ {
+  "no": "1348",
+  "name": "Semlin = Zemun, Messeplatz von Belgrad, 28.10.1941 bis 31.5.1944",
+  "start": "1941-10-28",
+  "end": "1944-05-31"
+ },
+ {
+  "no": "1351",
+  "name": "Sennelager, Gemeinde Augustdorf, Lippe, 20.11.1944 bis 5.4.1945",
+  "parent": "buchenwald",
+  "start": "1944-11-20",
+  "end": "1945-04-05"
+ },
+ {
+  "no": "1352",
+  "name": "Sennheim = Cernay, ab 1.1.1943",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1355",
+  "name": "Siblin, Gemeinde Ahrensböck/Oldenburg, UKdo. v. Glasau"
+ },
+ {
+  "no": "1357",
+  "name": "Siegmar-Schönau bei Chemnitz/Sachsen, 10.9.1944 bis 31.1.1945",
+  "parent": "flossenburg",
+  "start": "1944-09-10",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "1359a",
+  "name": "Skrochowitz = Skrochovice/Sudetenland, 15.9.1939 bis 31.12.1939",
+  "start": "1939-09-15",
+  "end": "1939-12-31"
+ },
+ {
+  "no": "1361",
+  "name": "Sobibor, Kreis Wlodawa/Polen, 7.5.1942 bis 30.11.1943",
+  "start": "1942-05-07",
+  "end": "1943-11-30"
+ },
+ {
+  "no": "1362",
+  "name": "Sömmerda, Kreis Weißensee/Thüringen, 20.9.1944 bis 30.4.1945",
+  "parent": "buchenwald",
+  "start": "1944-09-20",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1362a",
+  "name": "Sonda/Estland",
+  "parent": "vaivara"
+ },
+ {
+  "no": "1363",
+  "name": "Sonneberg-West/Thüringen, 14.9.1944 bis 8.5.1945",
+  "parent": "buchenwald",
+  "start": "1944-09-14",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1364",
+  "name": "Sonnenburg/Neumark, 20.3.1933 bis 23.4.1934",
+  "start": "1933-03-20",
+  "end": "1934-04-23"
+ },
+ {
+  "no": "1365",
+  "name": "Sonthofen/Bayern",
+  "parent": "dachau"
+ },
+ {
+  "no": "1367",
+  "name": "Sorau/Niederlausitz, ab 20.12.1943",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "1368",
+  "name": "Soski/Estland, ab 15.9.1943",
+  "parent": "vaivara"
+ },
+ {
+  "no": "1369",
+  "name": "Sosnowitz = Sosnowice/Oberschlesien, 31.8.1943 bis 17.1.1945",
+  "parent": "auschwitz",
+  "start": "1943-08-31",
+  "end": "1945-01-17"
+ },
+ {
+  "no": "1370",
+  "name": "Spaichingen, Kreis Tuttlingen, bis 18.4.1945",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1373",
+  "name": "Spitzingsee, Kreis Miesbach, 1.10.1941 bis 21.12.1941",
+  "parent": "dachau",
+  "start": "1941-10-01",
+  "end": "1941-12-21"
+ },
+ {
+  "no": "1377",
+  "name": "Stargard/Pommern, 1.7.1943 bis 31.1.1945",
+  "parent": "ravensbruck",
+  "start": "1943-07-01",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "1378",
+  "name": "Stari Trg/Serbien, 1.5.1942 bis 26.5.1943",
+  "start": "1942-05-01",
+  "end": "1943-05-26"
+ },
+ {
+  "no": "1379",
+  "name": "Starnberg/Bayern",
+  "parent": "dachau"
+ },
+ {
+  "no": "1381",
+  "name": "Staßfurt, Kreis Calbe, 13.9.1944 bis 11.4.1945",
+  "parent": "buchenwald",
+  "start": "1944-09-13",
+  "end": "1945-04-11"
+ },
+ {
+  "no": "1382",
+  "name": "Staßfurt, Kreis Calbe, Wälzer & Co., bis 11.4.1945",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1383",
+  "name": "Stavern/Norwegen, ab 1.11.1943"
+ },
+ {
+  "no": "1384",
+  "name": "Steegen, Oberforstamt, ab 1.10.1942",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1385",
+  "name": "Steegen, Unterdeichverband, 1.6.1943 bis 30.9.1943",
+  "parent": "stutthof",
+  "start": "1943-06-01",
+  "end": "1943-09-30"
+ },
+ {
+  "no": "1386",
+  "name": "Stefanau bei Olmütz, 15.3.1939 bis 28.9.1939",
+  "start": "1939-03-15",
+  "end": "1939-09-28"
+ },
+ {
+  "no": "1387",
+  "name": "Steinhöring/Bayern, bis 28.4.1945",
+  "parent": "dachau"
+ },
+ {
+  "no": "1388",
+  "name": "Steinhöring/Bayern, 1.8.1943 bis 2.5.1945",
+  "parent": "ravensbruck",
+  "start": "1943-08-01",
+  "end": "1945-05-02"
+ },
+ {
+  "no": "1389",
+  "name": "Steinort, Gemeinde Groß-Steinort/Ostpreußen",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1390",
+  "name": "Stein-Schönau = Kamenicky-Senov bei Tetschen/Tschech., 22.9.1944 bis 22.1.1945",
+  "parent": "flossenburg",
+  "start": "1944-09-22",
+  "end": "1945-01-22"
+ },
+ {
+  "no": "1391",
+  "name": "Stempeda, Kreis Sangershausen, Kdo. v. Rottleberode, bis 31.3.1945",
+  "parent": "mittelbau-dora"
+ },
+ {
+  "no": "1392",
+  "name": "Stephanskirchen, Kreis Rosenheim",
+  "parent": "dachau"
+ },
+ {
+  "no": "1393",
+  "name": "Stettin",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1394",
+  "name": "Stettin-Bredow, 1.10.1933 bis 14.3.1934",
+  "start": "1933-10-01",
+  "end": "1934-03-14"
+ },
+ {
+  "no": "1395",
+  "name": "Steyr-Münichholz/Oberösterreich, 14.3.1942 bis 5.5.1945",
+  "parent": "mauthausen",
+  "start": "1942-03-14",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "1396",
+  "name": "St. Aegyd am Neuwalde, 2.11.1944 bis 4.4.1945",
+  "parent": "mauthausen",
+  "start": "1944-11-02",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "1397",
+  "name": "St. Georgen (Gusen II), 9.3.1944 bis 5.5.1945",
+  "parent": "mauthausen",
+  "start": "1944-03-09",
+  "end": "1945-05-05"
+ },
+ {
+  "no": "1398",
+  "name": "St. Georgenthal/Sudetenland, bis 8.5.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1399",
+  "name": "St. Georgenthal = Jiretin, Bez. Warnsdorf bei Rumburg/Tschech., 15.10.1944 bis 28.2.1945",
+  "parent": "flossenburg",
+  "start": "1944-10-15",
+  "end": "1945-02-28"
+ },
+ {
+  "no": "1400",
+  "name": "St. Gilgen am Wolfgangsee, Bez. Salzburg, 1.1.1938 bis 18.12.1942",
+  "parent": "dachau",
+  "start": "1938-01-01",
+  "end": "1942-12-18"
+ },
+ {
+  "no": "1401",
+  "name": "St. Johann/Tirol, 20.8.1940 bis 30.6.1941",
+  "parent": "dachau",
+  "start": "1940-08-20",
+  "end": "1941-06-30"
+ },
+ {
+  "no": "1402",
+  "name": "St. Lambrecht, Bez. Murnau, ab 13.5.1942"
+ },
+ {
+  "no": "1405",
+  "name": "St. Michielsgestel/Holland, ab 1.1.1943",
+  "parent": "herzogenbusch"
+ },
+ {
+  "no": "1406",
+  "name": "St. Oetzen, Kreis Neustadt a.d. Waldnaab, nur Arbeitseinsatzstelle von Flossenbürg"
+ },
+ {
+  "no": "1407",
+  "name": "St. Valentin, Bez. Amstetten, bis 21.4.1945",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1408",
+  "name": "St. Wolfgang, 1.6.1938 bis 31.8.1938",
+  "parent": "dachau",
+  "start": "1938-06-01",
+  "end": "1938-08-31"
+ },
+ {
+  "no": "1410",
+  "name": "Stoboi = Stoboy/Ostpreußen",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1411",
+  "name": "Stolp/Pommern, 26.8.1944 bis 31.3.1945",
+  "parent": "stutthof",
+  "start": "1944-08-26",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "1413",
+  "name": "Strasburg = Brodnica/Danzig-Westpreußen, ab 30.11.1944",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1415",
+  "name": "Strausberg, Brandenburg",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "1416",
+  "name": "Strellentin/Pommern",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1418",
+  "name": "Stulln/Bayern, 1.2.1942 bis 17.10.1942",
+  "parent": "flossenburg",
+  "start": "1942-02-01",
+  "end": "1942-10-17"
+ },
+ {
+  "no": "1419",
+  "name": "Stutthof, 1.9.1939 bis 30.4.1945",
+  "start": "1939-09-01",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1420",
+  "name": "Sudelfeld, Kreis Miesbach, ab 22.6.1940",
+  "parent": "dachau"
+ },
+ {
+  "no": "1421",
+  "name": "Südspitze = Sydspissen/Norwegen, ab 26.4.1942"
+ },
+ {
+  "no": "1422",
+  "name": "Suhl/Thüringen, ab 15.7.1943",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1429",
+  "name": "Tannenwald, Gemeinde Dornholzhausen/Obertaunuskreis, 7.12.1944 bis 31.3.1945",
+  "parent": "buchenwald",
+  "start": "1944-12-07",
+  "end": "1945-03-31"
+ },
+ {
+  "no": "1430",
+  "name": "Tannhausen, Kreis Waldenburg/Niederschlesien, Kdo. v. Wüstegiersdorf, bis 8.5.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1431",
+  "name": "Tannroda, Kreis Weimar/Thüringen, 12.6.1942 bis 4.11.1942",
+  "parent": "buchenwald",
+  "start": "1942-06-12",
+  "end": "1942-11-04"
+ },
+ {
+  "no": "1433",
+  "name": "Taucha, Kreis Leipzig,10.10.1944 bis 6.4.1945 (Männerlager)bis 6.4.1945 (Frauenlager)",
+  "parent": "buchenwald",
+  "start": "1944-10-10",
+  "end": "1945-04-06"
+ },
+ {
+  "no": "1435",
+  "name": "Teichwolframsdorf/Thüringen",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "1438",
+  "name": "Ternberg, Bez. Steyr/Oberösterreich, 14.5.1942 bis 19.9.1944",
+  "parent": "mauthausen",
+  "start": "1942-05-14",
+  "end": "1944-09-19"
+ },
+ {
+  "no": "1439",
+  "name": "Terningmoen/Norwegen"
+ },
+ {
+  "no": "1440",
+  "name": "Terranowa/Ostpreußen, 20.3.1940 bis 31.3.1941",
+  "parent": "stutthof",
+  "start": "1940-03-20",
+  "end": "1941-03-31"
+ },
+ {
+  "no": "1441",
+  "name": "Thalfang",
+  "parent": "hinzert"
+ },
+ {
+  "no": "1442",
+  "name": "Thalheim, Gemeinde Obertaufkirchen, Kdo. v. Mühldorf, bis 30.4.1945",
+  "parent": "dachau"
+ },
+ {
+  "no": "1443",
+  "name": "Thansau, Gemeinde Rohrdorf, Kreis Rosenheim, bis 17.1.1945",
+  "parent": "dachau"
+ },
+ {
+  "no": "1445",
+  "name": "Theresienstadt = Terezin, ab 24.11.1941"
+ },
+ {
+  "no": "1447",
+  "name": "Thorn = Torun/Danzig-Westpreußen, SS-Neubauleitung und Truppenwirtschaftslager, 23.7.1940 bis 12.4.1941",
+  "parent": "stutthof",
+  "start": "1940-07-23",
+  "end": "1941-04-12"
+ },
+ {
+  "no": "1448",
+  "name": "Thorn = Torun/Danzig-Westpreußen, AEG-Kabel, 1.7.1944 bis 26.1.1945",
+  "parent": "stutthof",
+  "start": "1944-07-01",
+  "end": "1945-01-26"
+ },
+ {
+  "no": "1449",
+  "name": "Thorn = Torun/Danzig-Westpreußen, Frontreparaturbetrieb, ab 30.10.1944",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1450",
+  "name": "Thorn = Torun/Danzig-Westpreußen, OT, 26.8.1944 bis 21.1.1945",
+  "parent": "stutthof",
+  "start": "1944-08-26",
+  "end": "1945-01-21"
+ },
+ {
+  "no": "1452",
+  "name": "Tiegenhagen/Westpreußen, nur Arbeitseinsatzstelle v. Stutthof"
+ },
+ {
+  "no": "1453",
+  "name": "Tiegenhof/Westpreußen, nur Arbeitseinsatzstelle v. Stutthof"
+ },
+ {
+  "no": "1455",
+  "name": "Tonndorf, Kreis Weimar/Thüringen, ab 2.1.1939",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1456",
+  "name": "Topolica bei Bar, 17.9.1943 bis 19.10.1943",
+  "start": "1943-09-17",
+  "end": "1943-10-19"
+ },
+ {
+  "no": "1457",
+  "name": "Torgau/Elbe, Prov. Sachsen, 4.9.1944 bis 26.4.1945",
+  "parent": "buchenwald",
+  "start": "1944-09-04",
+  "end": "1945-04-26"
+ },
+ {
+  "no": "1460",
+  "name": "Traunstein/Bayern, 8.10.1942 bis 10.12.1942",
+  "parent": "dachau",
+  "start": "1942-10-08",
+  "end": "1942-12-10"
+ },
+ {
+  "no": "1461",
+  "name": "Trautenstein, Kreis Blankenburg",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1462",
+  "name": "Trawniki, Kreis Lublin/Polen, ab 22.10.1943",
+  "parent": "majdanek"
+ },
+ {
+  "no": "1464",
+  "name": "Treblinka II, Kreis Sokolow bei Warschau, 1.6.1942 bis 30.11.1943",
+  "start": "1942-06-01",
+  "end": "1943-11-30"
+ },
+ {
+  "no": "1465",
+  "name": "Trebnitz/Brandenburg",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "1466",
+  "name": "Treis, Kreis Cochem, Kdo. v. Cochem-Bruttig",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1467",
+  "name": "Trepca, 29.8.1942 bis 22.11.1944",
+  "start": "1942-08-29",
+  "end": "1944-11-22"
+ },
+ {
+  "no": "1468",
+  "name": "Treskau = Owinska/Wartheland, 30.8.1943 bis 20.1.1945",
+  "parent": "gross-rosen",
+  "start": "1943-08-30",
+  "end": "1945-01-20"
+ },
+ {
+  "no": "1470",
+  "name": "Trier, Festungs-Dienststelle",
+  "parent": "hinzert"
+ },
+ {
+  "no": "1471",
+  "name": "Trier, Oberbauleitung, ab 26.3.1940",
+  "parent": "hinzert"
+ },
+ {
+  "no": "1472",
+  "name": "Trier, Sicherungsstab, ab 2.6.1940",
+  "parent": "hinzert"
+ },
+ {
+  "no": "1474",
+  "name": "Tröglitz, Gemeinde Rehmsdorf, Kreis Zeitz/Thüringen, ab 5.6.1944",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1476",
+  "name": "Tromsdalen/Norwegen, ab 4.6.1943"
+ },
+ {
+  "no": "1477",
+  "name": "Trostberg, Kreis Traunstein, bis 3.5.1945",
+  "parent": "dachau"
+ },
+ {
+  "no": "1480",
+  "name": "Trunz/Ostpreußen",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1481",
+  "name": "Trutenau, Ortsteil Grebinerwald, 21.11.1939 bis 19.7.1940",
+  "parent": "stutthof",
+  "start": "1939-11-21",
+  "end": "1940-07-19"
+ },
+ {
+  "no": "1483",
+  "name": "Trzebinia, Kreis Krenau/Schlesien, 1.7.1944 bis 31.1.1945",
+  "parent": "auschwitz",
+  "start": "1944-07-01",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "1484",
+  "name": "Tschechowitz/Schlesien, bis 31.12.1944",
+  "parent": "auschwitz"
+ },
+ {
+  "no": "1485",
+  "name": "Tschechowitz-Dziedzitz, Kreis Bielsko, 1.8.1944 bis 31.1.1945",
+  "parent": "auschwitz",
+  "start": "1944-08-01",
+  "end": "1945-01-31"
+ },
+ {
+  "no": "1488",
+  "name": "Tutzing, Kreis Starnberg",
+  "parent": "dachau"
+ },
+ {
+  "no": "1489",
+  "name": "Überlingen/Baden, 4.10.1944 bis 21.4.1945",
+  "parent": "dachau",
+  "start": "1944-10-04",
+  "end": "1945-04-21"
+ },
+ {
+  "no": "1491",
+  "name": "Uelzen, bis 17.4.1945",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "1492",
+  "name": "Uffing-Muck, nur Arbeitseinsatzstelle v. Seehausen"
+ },
+ {
+  "no": "1493",
+  "name": "Uffing-Seehausen, nur Arbeitseinsatzstelle v. Seehausen"
+ },
+ {
+  "no": "1493a",
+  "name": "Ülenurme/Estland, bis 24.3.1944",
+  "parent": "vaivara"
+ },
+ {
+  "no": "1494",
+  "name": "Ulm, 4.1.1945 bis 11.3.1945",
+  "parent": "dachau",
+  "start": "1945-01-04",
+  "end": "1945-03-11"
+ },
+ {
+  "no": "1495",
+  "name": "Ulm-Kuhberg, 1.11.1933 bis 31.7.1935",
+  "start": "1933-11-01",
+  "end": "1935-07-31"
+ },
+ {
+  "no": "1496",
+  "name": "Ulven/Norwegen, 1.6.1940 bis 1.1.1943",
+  "start": "1940-06-01",
+  "end": "1943-01-01"
+ },
+ {
+  "no": "1497",
+  "name": "Unna, 24.7.1943 bis 3.3.1944",
+  "parent": "buchenwald",
+  "start": "1943-07-24",
+  "end": "1944-03-03"
+ },
+ {
+  "no": "1498",
+  "name": "Unterlüß, Prov. Hannover, 15.8.1944 bis 30.4.1945",
+  "start": "1944-08-15",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1499",
+  "name": "Unterriexingen, Kreis Ludwigsburg, Kdo. v. Vaihingen, ab 16.11.1944",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1500",
+  "name": "Unterschleißheim, Kreis München, bis 31.10.1942",
+  "parent": "dachau"
+ },
+ {
+  "no": "1501",
+  "name": "Unterschwarzach, Kreis Mosbach",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1502",
+  "name": "Uphusen, bis 15.4.1945",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "1503",
+  "name": "Usedom/Pommern, bis 23.4.1945",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "1505",
+  "name": "Vaihingen/Enz, bis 7.4.1945",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1506",
+  "name": "Vaivara/Estland, 15.9.1943 bis 29.2.1944",
+  "start": "1943-09-15",
+  "end": "1944-02-29"
+ },
+ {
+  "no": "1507",
+  "name": "Valepp, Kreis Miesbach, ab 30.10.1944",
+  "parent": "dachau"
+ },
+ {
+  "no": "1508",
+  "name": "Valepp, Kreis Miesbach, Bauleitung, 1.11.1942 bis 30.11.1942 und ab 16.9.1944",
+  "parent": "dachau",
+  "start": "1942-11-01",
+  "end": "1942-11-30"
+ },
+ {
+  "no": "1509",
+  "name": "Vechelde, Braunschweig, Kdo. v. Braunschweig, Lager Büssing und Schilldenkmal",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "1512",
+  "name": "Velten, Kreis Osthavelland, 1.3.1943 bis 20.4.1945",
+  "parent": "ravensbruck",
+  "start": "1943-03-01",
+  "end": "1945-04-20"
+ },
+ {
+  "no": "1513",
+  "name": "Venlo/Holland, ab 1.9.1943",
+  "parent": "herzogenbusch"
+ },
+ {
+  "no": "1514",
+  "name": "Venusberg, Kreis Marienberg/Sachsen, 15.1.1945 bis 30.4.1945",
+  "parent": "flossenburg",
+  "start": "1945-01-15",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1515",
+  "name": "Verden/Aller",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "1517",
+  "name": "Villingendorf, Kdo. v. Gaggenau, 1.11.1944 bis 20.4.1945",
+  "start": "1944-11-01",
+  "end": "1945-04-20"
+ },
+ {
+  "no": "1519",
+  "name": "Vöcklabruck/Oberösterreich, 6.6.1941 bis 14.5.1942",
+  "parent": "mauthausen",
+  "start": "1941-06-06",
+  "end": "1942-05-14"
+ },
+ {
+  "no": "1520",
+  "name": "Vöcklabruck, Kdo. v. Schlier Redl-Zipf, ab 11.10.1943",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1527",
+  "name": "Wächtersbach, Kreis Gelnhausen",
+  "parent": "hinzert"
+ },
+ {
+  "no": "1529",
+  "name": "Waldenburg/Niederschlesien, 1.1.1944 bis 8.5.1945",
+  "parent": "gross-rosen",
+  "start": "1944-01-01",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1531",
+  "name": "Waldlager 1, 2 und 3/Niederschlesien, Kdo. v. Wüstegiersdorf, bis 8.5.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1532",
+  "name": "Walldorf/Hessen, 22.8.1944 bis 23.11.1944",
+  "parent": "natzweiler",
+  "start": "1944-08-22",
+  "end": "1944-11-23"
+ },
+ {
+  "no": "1534",
+  "name": "Wansleben, Mansfelder Seekreis, bis 14.4.1945",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1536",
+  "name": "Warschau = Warszawa/Polen (außer Getto), 15.8.1943 bis 31.7.1944",
+  "start": "1943-08-15",
+  "end": "1944-07-31"
+ },
+ {
+  "no": "1537",
+  "name": "Wartsch/Westpreußen, ab 1.11.1939",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1538",
+  "name": "Wasseralfingen, Kreis Aalen, ab 27.9.1944",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1540",
+  "name": "Watenstedt, Stahlwerke Braunschweig/Hermann-Göring-Werke,bis 30.4.1945 (Männerlager)7.7.1944 bis 30.4.1945 (Frauenlager)",
+  "parent": "neuengamme",
+  "start": "1944-07-07",
+  "end": "1945-04-30"
+ },
+ {
+  "no": "1541",
+  "name": "Wedel/Schleswig-Holstein,bis 30.4.1945 (Männerlager)bis 31.12.1944 (Frauenlager)",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "1542",
+  "name": "Weferlingen, Kreis Gardelegen, 22.8.1944 bis 14.4.1945",
+  "parent": "buchenwald",
+  "start": "1944-08-22",
+  "end": "1945-04-14"
+ },
+ {
+  "no": "1544",
+  "name": "Weilheim, Kreis Weilheim",
+  "parent": "dachau"
+ },
+ {
+  "no": "1545",
+  "name": "Weimar, 16.2.1942 bis 4.4.1945",
+  "parent": "buchenwald",
+  "start": "1942-02-16",
+  "end": "1945-04-04"
+ },
+ {
+  "no": "1546",
+  "name": "Weisenbach/Baden, Kdo. v. Gaggenau"
+ },
+ {
+  "no": "1547",
+  "name": "Weißsee/Österreich, Bez. Zell am See, bis 3.12.1944",
+  "parent": "dachau"
+ },
+ {
+  "no": "1548",
+  "name": "Weißwasser/Niederschlesien, bis 28.2.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1549",
+  "name": "Weißwasser = Bila Voda/Tschech., bis 8.5.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1550",
+  "name": "Wels II/Österreich, Kdo. v. Ebensee, bis 13.4.1945",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1551",
+  "name": "Werden (Essen-Werden), ab 1.6.1933"
+ },
+ {
+  "no": "1552",
+  "name": "Werder, Kreis Zauch-Belzig, ab 20.3.1943",
+  "parent": "sachsenhausen"
+ },
+ {
+  "no": "1553",
+  "name": "Werderhof, Gemeinde Fischerbabke, nur Arbeitseinsatzstelle v. Stutthof"
+ },
+ {
+  "no": "1554",
+  "name": "Werlte, 2.4.1940 bis 30.3.1941",
+  "start": "1940-04-02",
+  "end": "1941-03-30"
+ },
+ {
+  "no": "1555",
+  "name": "Wernigerode/Harz, 25.3.1943 bis 11.4.1945",
+  "parent": "buchenwald",
+  "start": "1943-03-25",
+  "end": "1945-04-11"
+ },
+ {
+  "no": "1556",
+  "name": "Wernigerode/Harz, Kdo. v. Halberstadt, 12.10.1944 bis 5.4.1945",
+  "parent": "buchenwald",
+  "start": "1944-10-12",
+  "end": "1945-04-05"
+ },
+ {
+  "no": "1558",
+  "name": "Wesserling/Elsaß",
+  "parent": "natzweiler"
+ },
+ {
+  "no": "1558a",
+  "name": "Wesslinken (Männer)/Danzig-Westpreußen, 29.5.1940 bis 14.10.1940",
+  "parent": "stutthof",
+  "start": "1940-05-29",
+  "end": "1940-10-14"
+ },
+ {
+  "no": "1559",
+  "name": "Westerbork/Holland, 1.6.1942 bis 12.4.1945",
+  "start": "1942-06-01",
+  "end": "1945-04-12"
+ },
+ {
+  "no": "1560",
+  "name": "Westeregeln, Kreis Wansleben, ab 17.10.1944",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1564",
+  "name": "Wickerode, Kreis Sangerhausen",
+  "parent": "mittelbau-dora"
+ },
+ {
+  "no": "1565",
+  "name": "Wieliczka, Kreis Krakau",
+  "parent": "plaszow"
+ },
+ {
+  "no": "1566",
+  "name": "Wien-Floridsdorf, 14.7.1944 bis 1.4.1945",
+  "parent": "mauthausen",
+  "start": "1944-07-14",
+  "end": "1945-04-01"
+ },
+ {
+  "no": "1567",
+  "name": "Wien-Floridsdorf II (Schwechat II), bis 1.4.1945",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1568",
+  "name": "Wien-Floridsdorf III (Schwechat III), bis 1.4.1945",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1569",
+  "name": "Wien - AFA-Werke, Kdo. v. Wien-Floridsdorf, bis 1.4.1945",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1570",
+  "name": "Wien-Hinterbrühl, See Grotte, auch \"Wien-Mödling\" genannt, Kdo. v. Wien-Floridsdorf, bis 1.4.1945",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1571",
+  "name": "Wien-Hinterbrühl, Arbeitslager Haidfeld, Kdo. v. Wien-Floridsdorf",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1572",
+  "name": "Wien-Jedlesee, Kdo. v. Wien-Floridsdorf, 13.7.1944 bis 1.4.1945",
+  "parent": "mauthausen",
+  "start": "1944-07-13",
+  "end": "1945-04-01"
+ },
+ {
+  "no": "1573",
+  "name": "Wien-Maria-Lanzendorf, bis 27.3.1945",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1574",
+  "name": "Wien-Schönbrunn, Kraftfahrtechnische Lehranstalt, Kdo. v. Wiener Neustadt",
+  "parent": "mauthausen"
+ },
+ {
+  "no": "1575",
+  "name": "Wien-West, Saurerwerke, 21.8.1944 bis 8.5.1945",
+  "parent": "mauthausen",
+  "start": "1944-08-21",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1577",
+  "name": "Wiener Neudorf, 2.8.1943 bis 2.4.1945",
+  "parent": "mauthausen",
+  "start": "1943-08-02",
+  "end": "1945-04-02"
+ },
+ {
+  "no": "1578",
+  "name": "Wiener Neustadt, Rax-Werk GmbH, 30.6.1943 bis 20.11.1943 und 5.7.1944 bis 2.4.1945",
+  "parent": "mauthausen",
+  "start": "1943-06-30",
+  "end": "1943-11-20"
+ },
+ {
+  "no": "1579",
+  "name": "Wiesbaden (Männer)",
+  "parent": "hinzert"
+ },
+ {
+  "no": "1579a",
+  "name": "Wiesbaden (Frauen), ab 21.6.1943",
+  "parent": "ravensbruck"
+ },
+ {
+  "no": "1580",
+  "name": "Wiesau/Niederschlesien",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1582",
+  "name": "Wilhelmshaven",
+  "parent": "neuengamme"
+ },
+ {
+  "no": "1583",
+  "name": "Wilischthal, Kreis Stollberg/Sachsen, bis 15.4.1945",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "1584a",
+  "name": "Windau = Ventspils (Frauen)/Lettland",
+  "parent": "riga-kaiserwald"
+ },
+ {
+  "no": "1585",
+  "name": "Witten-Annen, Kreis Witten, ab 16.9.1944",
+  "parent": "buchenwald"
+ },
+ {
+  "no": "1586",
+  "name": "Wittenberg bei Dessau/Sachsen, 8.9.1944 bis 24.4.1945",
+  "parent": "sachsenhausen",
+  "start": "1944-09-08",
+  "end": "1945-04-24"
+ },
+ {
+  "no": "1587",
+  "name": "Wittenberge, Kreis Wittenberge, 15.8.1942 bis 17.2.1945",
+  "parent": "neuengamme",
+  "start": "1942-08-15",
+  "end": "1945-02-17"
+ },
+ {
+  "no": "1588",
+  "name": "Wittlich a.d. Mosel, Kreis Wittlich, 29.4.1940 bis 28.2.1942",
+  "parent": "hinzert",
+  "start": "1940-04-29",
+  "end": "1942-02-28"
+ },
+ {
+  "no": "1589",
+  "name": "Wittmoor, 10.4.1933 bis 17.10.1933",
+  "start": "1933-04-10",
+  "end": "1933-10-17"
+ },
+ {
+  "no": "1590",
+  "name": "Wiwikond = Viivikonna/Estland,bis 29.2.1944 (Frauen)15.9.1943 bis 29.2.1944 (Männer)",
+  "parent": "vaivara",
+  "start": "1943-09-15",
+  "end": "1944-02-29"
+ },
+ {
+  "no": "1591",
+  "name": "Wöbbelin, Kreis Ludwigslust, Bez. Schwerin, 12.2.1945 bis 2.5.1945",
+  "parent": "neuengamme",
+  "start": "1945-02-12",
+  "end": "1945-05-02"
+ },
+ {
+  "no": "1592",
+  "name": "Woffleben, Kdo. v. Ellrich, 1.1.1945 bis 10.4.1945",
+  "parent": "mittelbau-dora",
+  "start": "1945-01-01",
+  "end": "1945-04-10"
+ },
+ {
+  "no": "1593",
+  "name": "Wolfen, Kreis Bitterfeld, 14.5.1943 bis 5.4.1945",
+  "parent": "ravensbruck",
+  "start": "1943-05-14",
+  "end": "1945-04-05"
+ },
+ {
+  "no": "1594",
+  "name": "Wolfsberg/Niederschlesien, Kdo. v. Wüstegiersdorf, 1.5.1944 bis 8.5.1945",
+  "parent": "gross-rosen",
+  "start": "1944-05-01",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1596",
+  "name": "Wolkenburg bei Rochlitz/Sachsen, 19.8.1944 bis 13.4.1945",
+  "parent": "flossenburg",
+  "start": "1944-08-19",
+  "end": "1945-04-13"
+ },
+ {
+  "no": "1596a",
+  "name": "Wotzlaff (Männer)/Danzig-Westpreußen, 8.1.1940 bis 5.3.1940",
+  "parent": "stutthof",
+  "start": "1940-01-08",
+  "end": "1940-03-05"
+ },
+ {
+  "no": "1597",
+  "name": "Woxfelde",
+  "parent": "dachau"
+ },
+ {
+  "no": "1599",
+  "name": "Wulkow bei Trebnitz/Brandenburg, 2.3.1944 bis 2.2.1945",
+  "start": "1944-03-02",
+  "end": "1945-02-02"
+ },
+ {
+  "no": "1600",
+  "name": "Wurach bei Wöhlhof, Kreis Miesbach",
+  "parent": "dachau"
+ },
+ {
+  "no": "1601",
+  "name": "Würzburg, 17.4.1943 bis 22.3.1945",
+  "parent": "flossenburg",
+  "start": "1943-04-17",
+  "end": "1945-03-22"
+ },
+ {
+  "no": "1603",
+  "name": "Wüstegiersdorf (mit Gruppe \"Riese\"), Kreis Waldenburg/Niederschlesien, 25.4.1944 bis 8.5.1945",
+  "parent": "gross-rosen",
+  "start": "1944-04-25",
+  "end": "1945-05-08"
+ },
+ {
+  "no": "1604",
+  "name": "Wüstewaltersdorf, Kreis Waldenburg/Nieder-schlesien, Kdo. v. Wüstegiersdorf, bis 8.5.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1605",
+  "name": "Zablocie/Polen, 11.1.1944 bis 1.7.1944",
+  "parent": "plaszow",
+  "start": "1944-01-11",
+  "end": "1944-07-01"
+ },
+ {
+  "no": "1606",
+  "name": "Zabjelo, 1.9.1943 bis 1.7.1944",
+  "start": "1943-09-01",
+  "end": "1944-07-01"
+ },
+ {
+  "no": "1608",
+  "name": "Zajecar/Serbien, 19.4.1943 bis 12.5.1943",
+  "start": "1943-04-19",
+  "end": "1943-05-12"
+ },
+ {
+  "no": "1609",
+  "name": "Zakopane, Kreis Nowy Targ/Polen",
+  "parent": "plaszow"
+ },
+ {
+  "no": "1610",
+  "name": "Zangberg, Kreis Mühldorf",
+  "parent": "dachau"
+ },
+ {
+  "no": "1611",
+  "name": "Zangberg, Kreis Mühldorf, Kdo. v. Mühldorf",
+  "parent": "dachau"
+ },
+ {
+  "no": "1612",
+  "name": "Zasavica/Serbien, ab 1.9.1941"
+ },
+ {
+  "no": "1618",
+  "name": "Zeyersniederkampen/Ostpreußen, 27.12.1939 bis 27.1.1941",
+  "parent": "stutthof",
+  "start": "1939-12-27",
+  "end": "1941-01-27"
+ },
+ {
+  "no": "1619",
+  "name": "Zeyersvorderkampen/Danzig-Westpreußen, bis 22.3.1940",
+  "parent": "stutthof"
+ },
+ {
+  "no": "1621",
+  "name": "Zillerthal-Erdmannsdorf/Niederschlesien, bis 17.2.1945",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1623",
+  "name": "Zittau i.d. Lausitz/Sachsen",
+  "parent": "auschwitz"
+ },
+ {
+  "no": "1624",
+  "name": "Zittau i.d. Lausitz/Sachsen,bis 8.5.1945 (Frauenlager)ab 27.1.1945 (Männerlager)",
+  "parent": "gross-rosen"
+ },
+ {
+  "no": "1626",
+  "name": "Zschachwitz, Kreis Pirna, ab 14.10.1944",
+  "parent": "flossenburg"
+ },
+ {
+  "no": "1627",
+  "name": "Zschopau bei Chemnitz/Sachsen, 21.11.1944 bis 15.4.1945",
+  "parent": "flossenburg",
+  "start": "1944-11-21",
+  "end": "1945-04-15"
+ },
+ {
+  "no": "1629",
+  "name": "Zweibrücken",
+  "parent": "hinzert"
+ },
+ {
+  "no": "1630",
+  "name": "Zwickau/Sachsen, 1.3.1933 bis 31.12.1933",
+  "start": "1933-03-01",
+  "end": "1933-12-31"
+ },
+ {
+  "no": "1631",
+  "name": "Zwickau/Sachsen, 30.8.1944 bis 13.4.1945",
+  "parent": "flossenburg",
+  "start": "1944-08-30",
+  "end": "1945-04-13"
+ },
+ {
+  "no": "1634",
+  "name": "Zwodau = Svatava bei Karlsbad/Tschech., 30.11.1943 bis 7.5.1945",
+  "parent": "ravensbruck",
+  "start": "1943-11-30",
+  "end": "1945-05-07"
+ }
+]

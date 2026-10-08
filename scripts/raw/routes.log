@@ -1,0 +1,38 @@
+prague-lodz                    577 km  150 points  (brouter)
+vienna-lodz                    575 km  135 points  (brouter)
+  frankfurt-minsk: brouter: rate limited; trying OSRM
+frankfurt-minsk: osrm 400
+  munich-kaunas: brouter: rate limited; trying OSRM
+munich-kaunas                 1662 km  288 points  (osrm)
+  cologne-riga: brouter: rate limited; trying OSRM
+cologne-riga                  1971 km  357 points  (osrm)
+theresienstadt-riga           1202 km  259 points  (brouter)
+theresienstadt-trostenets     1241 km  256 points  (brouter)
+theresienstadt-sobibor         906 km  217 points  (brouter)
+vienna-theresienstadt          435 km  157 points  (brouter)
+berlin-theresienstadt          301 km  77 points  (brouter)
+prague-theresienstadt          100 km  43 points  (brouter)
+radom-treblinka                361 km  82 points  (brouter)
+czestochowa-treblinka          317 km  42 points  (brouter)
+grodno-auschwitz               579 km  84 points  (brouter)
+  lwow-sobibor: brouter 400 no track found at pass=0; trying OSRM
+lwow-sobibor                   314 km  70 points  (osrm)
+bialystok-majdanek             304 km  55 points  (brouter)
+warsaw-majdanek                187 km  45 points  (brouter)
+  skopje-treblinka: brouter: rate limited; trying OSRM
+skopje-treblinka              1668 km  334 points  (osrm)
+oslo-auschwitz                 571 km  121 points  (brouter)
+westerbork-theresienstadt      794 km  163 points  (brouter)
+westerbork-bergen-belsen       303 km  64 points  (brouter)
+  drancy-kaunas: brouter: rate limited; trying OSRM
+drancy-kaunas                 2280 km  375 points  (osrm)
+  athens-auschwitz: brouter: rate limited; trying OSRM
+athens-auschwitz              1976 km  458 points  (osrm)
+trieste-auschwitz              905 km  222 points  (brouter)
+bolzano-auschwitz             1260 km  303 points  (brouter)
+budapest-strasshof             242 km  63 points  (brouter)
+budapest-bergen-belsen        1141 km  272 points  (brouter)
+  kaunas-stutthof: brouter 400 no track found at pass=0; trying OSRM
+kaunas-stutthof                373 km  60 points  (osrm)
+auschwitz-evacuation           700 km  127 points  (brouter)
+50/51 routes written

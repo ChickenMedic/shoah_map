@@ -1,0 +1,12 @@
+SELECT ?item ?itemLabel ?itemDescription ?class ?coord ?parent ?parentLabel ?org ?orgLabel ?countryLabel ?start ?end ?article WHERE {
+  VALUES ?class { wd:Q152081 wd:Q328468 wd:Q1719244 wd:Q153813 wd:Q15644358 wd:Q15806875 wd:Q678820 wd:Q55118208 }
+  ?item wdt:P31 ?class .
+  OPTIONAL { ?item wdt:P625 ?coord }
+  OPTIONAL { ?item wdt:P361 ?parent }
+  OPTIONAL { ?item wdt:P749 ?org }
+  OPTIONAL { ?item wdt:P17 ?country }
+  OPTIONAL { ?item wdt:P571 ?start }
+  OPTIONAL { ?item wdt:P576 ?end }
+  OPTIONAL { ?article schema:about ?item ; schema:isPartOf <https://en.wikipedia.org/> }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,de,pl,fr,cs,nl". }
+}

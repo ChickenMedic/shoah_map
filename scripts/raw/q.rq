@@ -1,0 +1,1 @@
+SELECT ?i ?d ?dp WHERE { ?i wdt:P2868 wd:Q5883980 . ?i p:P570 [ a wikibase:BestRank; psv:P570 [ wikibase:timeValue ?d; wikibase:timePrecision ?dp ] ] . } LIMIT 2000

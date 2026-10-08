@@ -1,0 +1,969 @@
+{
+  "sites": {
+    "auschwitz": {
+      "file": "File:Birkenau múzeum - panoramio (cropped).jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Birkenau_m%C3%BAzeum_-_panoramio_%28cropped%29.jpg/960px-Birkenau_m%C3%BAzeum_-_panoramio_%28cropped%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Birkenau_m%C3%BAzeum_-_panoramio_(cropped).jpg",
+      "author": "pzk net",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "The gatehouse of Auschwitz II, also known as Auschwitz II-Birkenau, a Nazi German extermination camp in occupied Poland during the Holocaust. The building is preserved by the Auschwitz-Birkenau museum. This image shows the tracks from outside the camp leading through the gate to the third unloading ramp and the gas chambers. The first ramp was built in 1940 next to Auschwitz I, the main camp. The "
+    },
+    "treblinka": {
+      "file": "File:Treblinka Memorial 2013 01.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Treblinka_Memorial_2013_01.JPG/960px-Treblinka_Memorial_2013_01.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Treblinka_Memorial_2013_01.JPG",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "description": "Monument at Treblinka II death camp"
+    },
+    "belzec": {
+      "file": "File:Belzec lubelskie oboz zaglady brama wejsciowa.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Belzec_lubelskie_oboz_zaglady_brama_wejsciowa.JPG/960px-Belzec_lubelskie_oboz_zaglady_brama_wejsciowa.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Belzec_lubelskie_oboz_zaglady_brama_wejsciowa.JPG",
+      "author": "No machine-readable author provided. Yarek shalom assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "autor: Yarek shalom 07:45, 25 October 2006 (UTC)yarek shalom"
+    },
+    "sobibor": {
+      "file": "File:Foto genomen vanuit een wachttoren van Sobibor, met gevangenen en bewakers.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Foto_genomen_vanuit_een_wachttoren_van_Sobibor%2C_met_gevangenen_en_bewakers.jpg/960px-Foto_genomen_vanuit_een_wachttoren_van_Sobibor%2C_met_gevangenen_en_bewakers.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Foto_genomen_vanuit_een_wachttoren_van_Sobibor,_met_gevangenen_en_bewakers.jpg",
+      "author": "Anonymous",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Foto genomen vanuit een wachttoren, met gevangenen en bewakers"
+    },
+    "chelmno": {
+      "file": "File:Chełmno - Pomnik 02.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Che%C5%82mno_-_Pomnik_02.JPG/960px-Che%C5%82mno_-_Pomnik_02.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Che%C5%82mno_-_Pomnik_02.JPG",
+      "author": "Lestat (Jan Mehlich)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Chelmno Nazi extermination camp."
+    },
+    "majdanek": {
+      "file": "File:Majdanek-krematorium.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Majdanek-krematorium.jpg/960px-Majdanek-krematorium.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Majdanek-krematorium.jpg",
+      "author": "Goku122",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Lublin (KL) - krematorium w obozie zagłady Majdanek."
+    },
+    "maly-trostenets": {
+      "file": "File:Trascianiec extermination camp 27.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Trascianiec_extermination_camp_27.jpg/960px-Trascianiec_extermination_camp_27.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Trascianiec_extermination_camp_27.jpg",
+      "author": "Aschroet",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Maly Trostenets extermination camp, Minsk"
+    },
+    "dachau": {
+      "file": "File:Prisoners liberation dachau.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Prisoners_liberation_dachau.jpg/960px-Prisoners_liberation_dachau.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Prisoners_liberation_dachau.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Young and old survivors in Dachau cheer approaching U.S. troops."
+    },
+    "sachsenhausen": {
+      "file": "File:Sachsenhausen 2 - Flickr - GregTheBusker.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg/960px-Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Sachsenhausen_2_-_Flickr_-_GregTheBusker.jpg",
+      "author": "Greg Schechter from San Francisco, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "description": "Sachsenhausen_2"
+    },
+    "buchenwald": {
+      "file": "File:Buchenwald Memorial.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Buchenwald_Memorial.JPG/960px-Buchenwald_Memorial.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Buchenwald_Memorial.JPG",
+      "author": "Friedrich K.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "The memorial at Buchenwald, October 2013."
+    },
+    "flossenburg": {
+      "file": "File:View of Flossenburg after liberation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/View_of_Flossenburg_after_liberation.jpg/960px-View_of_Flossenburg_after_liberation.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:View_of_Flossenburg_after_liberation.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "A view of Flossenburg concentration camp after liberation"
+    },
+    "mauthausen": {
+      "file": "File:Bundesarchiv Bild 192-269, KZ Mauthausen, Häftlinge im Steinbruch.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bundesarchiv_Bild_192-269%2C_KZ_Mauthausen%2C_H%C3%A4ftlinge_im_Steinbruch.jpg/960px-Bundesarchiv_Bild_192-269%2C_KZ_Mauthausen%2C_H%C3%A4ftlinge_im_Steinbruch.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_192-269,_KZ_Mauthausen,_H%C3%A4ftlinge_im_Steinbruch.jpg",
+      "author": "Unknown author",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Österreich.- Konzentrationslager Mauthausen, Häftlinge im Steinbruch (Todesstiege)"
+    },
+    "ravensbruck": {
+      "file": "File:Bundesarchiv Bild 183-1985-0417-15, Ravensbrück, Konzentrationslager.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bundesarchiv_Bild_183-1985-0417-15%2C_Ravensbr%C3%BCck%2C_Konzentrationslager.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1985-0417-15,_Ravensbr%C3%BCck,_Konzentrationslager.jpg",
+      "author": "Unknown",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Ravensbrück, Konzentrationslager ADN-ZB 17.4.85 [Herausgabedatum] Bez. Potsdam: Zum 40. Jahrestag der Befreiung des KZ Ravensbrück Wie die Frauen des KZ unter den extremsten Bedingungen die schwierigsten Arbeiten verrichten mußten, zeigen "
+    },
+    "neuengamme": {
+      "file": "File:KZ Neuengamme - Luftbild - 1945.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/KZ_Neuengamme_-_Luftbild_-_1945.jpg/960px-KZ_Neuengamme_-_Luftbild_-_1945.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:KZ_Neuengamme_-_Luftbild_-_1945.jpg",
+      "author": "Britisches Verteidigungsministerium, vgl. hauptsache.net",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Luftaufnahme der Britischen Armee vom KZ Neuengamme kurz vor dessen Räumung."
+    },
+    "stutthof": {
+      "file": "File:Barracks at Stutthof after liberation.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Barracks_at_Stutthof_after_liberation.jpg/960px-Barracks_at_Stutthof_after_liberation.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Barracks_at_Stutthof_after_liberation.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "See title"
+    },
+    "gross-rosen": {
+      "file": "File:Gross Rosen 3.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Gross_Rosen_3.JPG/960px-Gross_Rosen_3.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Gross_Rosen_3.JPG",
+      "author": "No machine-readable author provided. Lzur assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Concentration camp Gross-Rosen"
+    },
+    "natzweiler": {
+      "file": "File:Natzweiler-Struthof.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Natzweiler-Struthof.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Natzweiler-Struthof.jpg",
+      "author": "",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": ""
+    },
+    "bergen-belsen": {
+      "file": "File:Bergen Belsen Liberation 03.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Bergen_Belsen_Liberation_03.jpg/960px-Bergen_Belsen_Liberation_03.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bergen_Belsen_Liberation_03.jpg",
+      "author": "Oakes, H (Sgt), No 5 Army Film & Photographic Unit",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "The Liberation of Belsen Concentration Camp April 1945: A British Army bulldozer pushes bodies into a mass grave at Belsen. - 19 April 1945"
+    },
+    "mittelbau-dora": {
+      "file": "File:Mittelbau-Dora memorial site - approach 34.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Mittelbau-Dora_memorial_site_-_approach_34.jpg/960px-Mittelbau-Dora_memorial_site_-_approach_34.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Mittelbau-Dora_memorial_site_-_approach_34.jpg",
+      "author": "NiSaTi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Zufahrtsstraße zur KZ-Gedenkstätte Mittelbau-Dora von Nordhausen/Krimderode: Denkmal für die Opfer der Todesmärsche neben der Straße im Industriebereich des Lagergeländes."
+    },
+    "plaszow": {
+      "file": "File:PLASZOW-German concentration camp near Krakow PL.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/PLASZOW-German_concentration_camp_near_Krakow_PL.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:PLASZOW-German_concentration_camp_near_Krakow_PL.jpg",
+      "author": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": ""
+    },
+    "herzogenbusch": {
+      "file": "File:Kamp Vught 1945.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Kamp_Vught_1945.jpg/960px-Kamp_Vught_1945.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kamp_Vught_1945.jpg",
+      "author": "Apparently an official UK Army photograph",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "View of a section of the Vught transit camp in Vught, [North Brabant] The Netherlands. (KZ Herzogenbusch)"
+    },
+    "hinzert": {
+      "file": "File:KZ Hinzert Gedenkstätte 2018.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/KZ_Hinzert_Gedenkst%C3%A4tte_2018.jpg/960px-KZ_Hinzert_Gedenkst%C3%A4tte_2018.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:KZ_Hinzert_Gedenkst%C3%A4tte_2018.jpg",
+      "author": "Cayambe",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Hinzert concentration camp near Hinzert in the Hunsrück, Rhineland-Palatinate, Germany. Cemetery, monument in bronze by Lucien Wercollier (1908-2002) and Hinzert Cross."
+    },
+    "riga-kaiserwald": {
+      "file": "File:Kaiserwald piemineklis.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Kaiserwald_piemineklis.jpg/960px-Kaiserwald_piemineklis.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kaiserwald_piemineklis.jpg",
+      "author": "Dukurs",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Памятник узникам лагеря Кайзервальд"
+    },
+    "kauen": {
+      "file": "File:Kauno getas 2007-06-08.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kauno_getas_2007-06-08.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kauno_getas_2007-06-08.jpg",
+      "author": "Creative at Lithuanian Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Kauno getas, paminklas prie buvusių įėjimo vartų į getą."
+    },
+    "vaivara": {
+      "file": "File:Koonduslaagri vangide mälestuseks, Vaivara küla.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Koonduslaagri_vangide_m%C3%A4lestuseks%2C_Vaivara_k%C3%BCla.jpg/960px-Koonduslaagri_vangide_m%C3%A4lestuseks%2C_Vaivara_k%C3%BCla.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Koonduslaagri_vangide_m%C3%A4lestuseks,_Vaivara_k%C3%BCla.jpg",
+      "author": "Ilme Parik",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Vaivara küla"
+    },
+    "jasenovac": {
+      "file": "File:Jasenovac Memorial Park.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Jasenovac_Memorial_Park.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Jasenovac_Memorial_Park.JPG",
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Monument to Jasenovac concentration camp."
+    },
+    "grafeneck": {
+      "file": "File:Grafeneckklein2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Grafeneckklein2.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Grafeneckklein2.jpg",
+      "author": "Xocolatl",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Grafeneck"
+    },
+    "brandenburg": {
+      "file": "File:Gedenkstätte für die Opfer der „Euthanasie“-Morde 01.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Gedenkst%C3%A4tte_f%C3%BCr_die_Opfer_der_%E2%80%9EEuthanasie%E2%80%9C-Morde_01.jpg/960px-Gedenkst%C3%A4tte_f%C3%BCr_die_Opfer_der_%E2%80%9EEuthanasie%E2%80%9C-Morde_01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_f%C3%BCr_die_Opfer_der_%E2%80%9EEuthanasie%E2%80%9C-Morde_01.jpg",
+      "author": "Zartesbitter",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "description": "Die Gedenkstätte für die Opfer der „Euthanasie“-Morde in Brandenburg an der Havel"
+    },
+    "hartheim": {
+      "file": "File:Schloss Hartheim, Westseite.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Schloss_Hartheim%2C_Westseite.jpg/960px-Schloss_Hartheim%2C_Westseite.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Schloss_Hartheim,_Westseite.jpg",
+      "author": "Liberaler Humanist",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "The western side of Hartheim Castle."
+    },
+    "sonnenstein": {
+      "file": "File:Human rights memorial Castle-Fortress Sonnenstein 118149137.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg/960px-Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Human_rights_memorial_Castle-Fortress_Sonnenstein_118149137.jpg",
+      "author": "Kalispera Dell",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "The Human rights memorial Castle-Fortress Sonnenstein in Pirna's old-town."
+    },
+    "bernburg": {
+      "file": "File:Bernburg Toetungsgebaeude.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Bernburg_Toetungsgebaeude.jpg/960px-Bernburg_Toetungsgebaeude.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bernburg_Toetungsgebaeude.jpg",
+      "author": "The original uploader was Chricki at German Wikipedia.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Das Tötungsgebäude der Anstalt in Bernburg"
+    },
+    "hadamar": {
+      "file": "File:Hadamar 012.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hadamar_012.JPG/960px-Hadamar_012.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Hadamar_012.JPG",
+      "author": "Frank Winkelmann",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Gaskammer in Hadamar"
+    },
+    "westerbork": {
+      "file": "File:Westerbork-monument2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Westerbork-monument2.jpg/960px-Westerbork-monument2.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Westerbork-monument2.jpg",
+      "author": "Blacknight",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "A monument at former Nazi transition-camp Westerbork in the Netherlands. When the rails were still intact trains used to transport people to and from the camp on it."
+    },
+    "drancy": {
+      "file": "File:Bundesarchiv Bild 183-B10919, Frankreich, Internierungslager Drancy.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bundesarchiv_Bild_183-B10919%2C_Frankreich%2C_Internierungslager_Drancy.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-B10919,_Frankreich,_Internierungslager_Drancy.jpg",
+      "author": "Wisch",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Im besetzten Gebiet. (Frankreich) Festnahme von Juden in Paris. Eingang zum Lager. Aug. 41"
+    },
+    "mechelen": {
+      "file": "File:Binnenplaats kazerne dossin.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Binnenplaats_kazerne_dossin.jpg/960px-Binnenplaats_kazerne_dossin.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Binnenplaats_kazerne_dossin.jpg",
+      "author": "JMDV - Fonds Kummer",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Courtyard of Casern Dossin"
+    },
+    "theresienstadt": {
+      "file": "File:Czech-2013-Terezin-Theresienstadt-Arbeit macht frei.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Czech-2013-Terezin-Theresienstadt-Arbeit_macht_frei.JPG/960px-Czech-2013-Terezin-Theresienstadt-Arbeit_macht_frei.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Czech-2013-Terezin-Theresienstadt-Arbeit_macht_frei.JPG",
+      "author": "Godot13",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Theresienstadt concentration camp archway with the phrase Arbeit macht frei (work makes (you) free), placed over the entrance in a number of Nazi concentration camps."
+    },
+    "fossoli": {
+      "file": "File:Fossoli.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Fossoli.jpg/960px-Fossoli.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Fossoli.jpg",
+      "author": "Fondazione",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Campo Fossoli"
+    },
+    "warsaw-ghetto": {
+      "file": "File:Bundesarchiv Bild 101I-134-0791-29A, Polen, Ghetto Warschau, Ghettomauer.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bundesarchiv_Bild_101I-134-0791-29A%2C_Polen%2C_Ghetto_Warschau%2C_Ghettomauer.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-134-0791-29A,_Polen,_Ghetto_Warschau,_Ghettomauer.jpg",
+      "author": "Ludwig Knobloch",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Warsaw Ghetto: Zelaznej Bramy (Iron Gate) Square [1], ghetto wall and Lubomirski palace. Photo likely taken from Janasz Bazaar building at Rynkowa 11 street."
+    },
+    "lodz-ghetto": {
+      "file": "File:Ghetto entrance.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Ghetto_entrance.JPG/960px-Ghetto_entrance.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Ghetto_entrance.JPG",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Ghetto Litzmannstadt: German and Jewish police guard an entrance to the Łódź Ghetto."
+    },
+    "krakow-ghetto": {
+      "file": "File:Krakow Ghetto Gate 73170.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Krakow_Ghetto_Gate_73170.jpg/960px-Krakow_Ghetto_Gate_73170.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Krakow_Ghetto_Gate_73170.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "View of the gate at the Kraków Ghetto Limanowskiego street."
+    },
+    "vilna-ghetto": {
+      "file": "File:Memorial to the Jews victims of Nazi Germany in Vilnius2.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Memorial_to_the_Jews_victims_of_Nazi_Germany_in_Vilnius2.JPG/960px-Memorial_to_the_Jews_victims_of_Nazi_Germany_in_Vilnius2.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Memorial_to_the_Jews_victims_of_Nazi_Germany_in_Vilnius2.JPG",
+      "author": "Alma Pater",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Memorial to the Jews victims of Nazi Germany in Vilnius (Subačiaus g.): From generation to generation your heroism will be always remembered."
+    },
+    "minsk-ghetto": {
+      "file": "File:Belarus-Minsk-Memorial Pit-2.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Belarus-Minsk-Memorial_Pit-2.jpg/960px-Belarus-Minsk-Memorial_Pit-2.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Belarus-Minsk-Memorial_Pit-2.jpg",
+      "author": "Hanna Zelenko",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Memorial \"Pit\". Minsk, Belarus."
+    },
+    "riga-ghetto": {
+      "file": "File:Bundesarchiv Bild 183-N1212-326, Riga, Judenghetto.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bundesarchiv_Bild_183-N1212-326%2C_Riga%2C_Judenghetto.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N1212-326,_Riga,_Judenghetto.jpg",
+      "author": "Donath, Otto",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "ADN-ZB/Donath II. Weltkrieg 1939 - 1945 Judenverfolgung durch die faschistischen deutschen Besatzungstruppen in der Sowjetunion. Lettische SSR: Das Judenghetto in Riga. Aufn. 1942"
+    },
+    "bialystok-ghetto": {
+      "file": "File:Białystok Ghetto deportation Jurowiecka street.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Bia%C5%82ystok_Ghetto_deportation_Jurowiecka_street.jpg/960px-Bia%C5%82ystok_Ghetto_deportation_Jurowiecka_street.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bia%C5%82ystok_Ghetto_deportation_Jurowiecka_street.jpg",
+      "author": "Rakoon",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Białystok Ghetto deportation"
+    },
+    "lwow-ghetto": {
+      "file": "File:Lwow Ghetto (spring 1942).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Lwow_Ghetto_%28spring_1942%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Lwow_Ghetto_(spring_1942).jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Courtyard of prison on Łącki Street (now Iryny Kalynets Street). In the background, buildings #4 and #6 on Łącki Street are seen. The photo is mirrored. It was likely taken in early July 1941, when Germans who occupied the city on June 30 brought Jews to the prison courtyard to see the exhumation of NKVD victims, left behind by the retreating Soviet Army. This is NOT Lwow Ghetto, set up in late 19"
+    },
+    "budapest-ghetto": {
+      "file": "File:BudapestGhettowall.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/BudapestGhettowall.jpg/960px-BudapestGhettowall.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:BudapestGhettowall.jpg",
+      "author": "w:en:User:Zello",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Wall of the Budapest Ghetto"
+    },
+    "babyn-yar": {
+      "file": "File:Babyn Yar. General view of the place of massacres.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Babyn_Yar._General_view_of_the_place_of_massacres.jpg/960px-Babyn_Yar._General_view_of_the_place_of_massacres.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Babyn_Yar._General_view_of_the_place_of_massacres.jpg",
+      "author": "Автор невідомий",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "description": "Babyn Yar. The steep slopes with little greenery are covered with snow on the left and right sides; five figures in full-length and in winter clothes are at the bottom of the ravine"
+    },
+    "ponary": {
+      "file": "File:Paneriai memorial - panoramio.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Paneriai_memorial_-_panoramio.jpg/960px-Paneriai_memorial_-_panoramio.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Paneriai_memorial_-_panoramio.jpg",
+      "author": "Keith Ruffles",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Paneriai memorial"
+    },
+    "rumbula": {
+      "file": "File:Detail of Memorial Marker - Rumbula Forest Holocaust Site - Riga - Latvia.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Detail_of_Memorial_Marker_-_Rumbula_Forest_Holocaust_Site_-_Riga_-_Latvia.jpg/960px-Detail_of_Memorial_Marker_-_Rumbula_Forest_Holocaust_Site_-_Riga_-_Latvia.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Detail_of_Memorial_Marker_-_Rumbula_Forest_Holocaust_Site_-_Riga_-_Latvia.jpg",
+      "author": "Adam Jones, Ph.D.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "Detail of Memorial Marker - Rumbula Forest Holocaust Site - Riga - Latvia"
+    },
+    "ninth-fort": {
+      "file": "File:Kaunas Fortress.Ninth Fort 3.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kaunas_Fortress.Ninth_Fort_3.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kaunas_Fortress.Ninth_Fort_3.jpg",
+      "author": "Creative at lt.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "description": "Kaunas Fortress' Ninth Fort."
+    }
+  },
+  "people": {
+    "hitler": {
+      "file": "File:Adolf Hitler cropped restored 3x4.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Adolf_Hitler_cropped_restored_3x4.jpg/960px-Adolf_Hitler_cropped_restored_3x4.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Adolf_Hitler_cropped_restored_3x4.jpg",
+      "author": "Unknown author",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Adolf Hitler ADN-ZB Mitch, national-sozialistischen Führer, Hauptkriegsverbrecher. geb. 20.4.1889 in Braunau (Inn), gest. (Selbstmord) 30.4.1945 in Berlin übernahm 1921 die Führung der NSDAP; stand im November 1923 an der Spitze eines gege"
+    },
+    "himmler": {
+      "file": "File:Bundesarchiv Bild 183-S72707, Heinrich Himmler.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bundesarchiv_Bild_183-S72707%2C_Heinrich_Himmler.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-S72707,_Heinrich_Himmler.jpg",
+      "author": "Friedrich Franz Bauer",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Heinrich Himmler"
+    },
+    "goring": {
+      "file": "File:Hermann Göring - Röhr.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hermann_G%C3%B6ring_-_R%C3%B6hr.jpg/960px-Hermann_G%C3%B6ring_-_R%C3%B6hr.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Hermann_G%C3%B6ring_-_R%C3%B6hr.jpg",
+      "author": "Robert Röhr",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Hermann Göring, German Reich Marshal. A retouched portrait photograph taken six days prior to his 50th birthday."
+    },
+    "goebbels": {
+      "file": "File:Bundesarchiv Bild 146-1968-101-20A, Joseph Goebbels.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bundesarchiv_Bild_146-1968-101-20A%2C_Joseph_Goebbels.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1968-101-20A,_Joseph_Goebbels.jpg",
+      "author": "Heinrich Hoffmann",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": ""
+    },
+    "bormann": {
+      "file": "File:Bundesarchiv Bild 183-R14128A, Martin Bormann.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Bundesarchiv_Bild_183-R14128A%2C_Martin_Bormann.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R14128A,_Martin_Bormann.jpg",
+      "author": "Unknown",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Martin Bormann Zentralbild Reichsleiter der NSDAP Martin Bormann, Leiter der Dienststelle des Stellvertreters Hitlers. Aufnahme 1934. 3799-34 [Porträt Martin Bormann]"
+    },
+    "speer": {
+      "file": "File:Bundesarchiv Bild 146II-277, Albert Speer.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Bundesarchiv_Bild_146II-277%2C_Albert_Speer.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146II-277,_Albert_Speer.jpg",
+      "author": "Binder (maybe Atelier Binder after Alexander Binders death in 1929)",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Prof. Speer Generalbauinspektor für die Reichshauptstadt"
+    },
+    "frick": {
+      "file": "File:Wilhelm Frick 72-919.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Wilhelm_Frick_72-919.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wilhelm_Frick_72-919.jpg",
+      "author": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": ""
+    },
+    "heydrich": {
+      "file": "File:Bundesarchiv Bild 146-1969-054-16, Reinhard Heydrich.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Bundesarchiv_Bild_146-1969-054-16%2C_Reinhard_Heydrich.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1969-054-16,_Reinhard_Heydrich.jpg",
+      "author": "Heinrich Hoffmann",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": ""
+    },
+    "kaltenbrunner": {
+      "file": "File:Ernst Kaltenbrunner (1943).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ernst_Kaltenbrunner_%281943%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Ernst_Kaltenbrunner_(1943).jpg",
+      "author": "Unknown photographer (for the NSDAP)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Ernst Kaltenbrunner in 1943"
+    },
+    "muller": {
+      "file": "File:Heinrich Müller.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Heinrich_M%C3%BCller.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Heinrich_M%C3%BCller.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Picture of SS-Gruppenführer Heinrich Müller, the chief of Gestapo, the secret state police of the Nazi Germany."
+    },
+    "eichmann": {
+      "file": "File:Adolf Eichmann, 1942.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Adolf_Eichmann%2C_1942.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Adolf_Eichmann,_1942.jpg",
+      "author": "Author and location unknown",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "SS-Obersturmbannführer Adolf Eichmann (1906–1962), head of Reichssicherheitshauptamt (RSHA, Reich Security Central Office) Department IV B4 (Jewish affairs), who organized the deportation of Jews to the Auschwitz concentration camp in German-occupied Poland during the Holocaust. Taken in or around 1942, this appears to have been Eichmann's official RSHA ID photograph. Yad Vashem describes the imag"
+    },
+    "dannecker": {
+      "file": "File:SS war criminal Theodor Dannecker.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/SS_war_criminal_Theodor_Dannecker.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:SS_war_criminal_Theodor_Dannecker.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "SS-captain Theodor Dannecker"
+    },
+    "pohl": {
+      "file": "File:Pohl, Oswald.JPG",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Pohl%2C_Oswald.JPG/960px-Pohl%2C_Oswald.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Pohl,_Oswald.JPG",
+      "author": "US Army photographers on behalf of the OUSCCPAC or its successor organisation, the OCCWC",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Oswald Ludwig Pohl (* 30. Juni 1892 in Duisburg; † 7. Juni 1951 in Landsberg), deutscher SS-Obergruppenführer und General der Waffen-SS. Pohl war Leiter des SS-Wirtschafts- und Verwaltungshauptamtes und in dieser Funktion führend an der Durchführung des Holocaust beteiligt. Während der Nürnberger Prosse wurde Pohl zum Tode verurteilt und später hingerichtet."
+    },
+    "eicke": {
+      "file": "File:Bundesarchiv Bild 146-1974-160-13A, Theodor Eicke.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bundesarchiv_Bild_146-1974-160-13A%2C_Theodor_Eicke.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1974-160-13A,_Theodor_Eicke.jpg",
+      "author": "Heinrich Hoffmann",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "SS-Obergruppenführer und General der Waffen SS Theodor Eicke."
+    },
+    "glucks": {
+      "file": "File:Richard Glücks.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Richard_Gl%C3%BCcks.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Richard_Gl%C3%BCcks.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Richard Glücks, who was a perpetrator of the Holocaust"
+    },
+    "kruger": {
+      "file": "File:Friedrich Wilhelm Krüger.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Friedrich_Wilhelm_Kr%C3%BCger.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Friedrich_Wilhelm_Kr%C3%BCger.jpg",
+      "author": "C. Wolf, Berlin",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Friedrich Wilhelm Krüger (* 8. Mai 1894 in Straßburg; † 10. Mai 1945 in Gundertshausen, Eggelsberg, Oberösterreich) Reichstagsabgeordneter der NSDAP und SS-Obergruppenführer"
+    },
+    "globocnik": {
+      "file": "File:Bundesarchiv Bild 146-2007-0188, Odilo Globocnik.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bundesarchiv_Bild_146-2007-0188%2C_Odilo_Globocnik.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-2007-0188,_Odilo_Globocnik.jpg",
+      "author": "Unknown author",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Odilo Globotschnigg [Globocnik] Gauleiter v. Wien"
+    },
+    "stroop": {
+      "file": "File:Jürgen Stroop.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/J%C3%BCrgen_Stroop.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:J%C3%BCrgen_Stroop.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Jürgen Stroop capture photo"
+    },
+    "koppe": {
+      "file": "File:Wilhelm Koppe.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Wilhelm_Koppe.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wilhelm_Koppe.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Wilhelm Koppe (* 15. Juni 1896 in Hildesheim; † 2. Juli 1975 in Bonn) SS-Obergruppenführer und Abgeordneter des Deutschen Reichstages"
+    },
+    "bach-zelewski": {
+      "file": "File:Bundesarchiv Bild 183-S73507, Erich von dem Bach-Zelewski.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bundesarchiv_Bild_183-S73507%2C_Erich_von_dem_Bach-Zelewski.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-S73507,_Erich_von_dem_Bach-Zelewski.jpg",
+      "author": "Unger",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Erich von dem Bach-Zelewski Erich von dem Bach-Zelewski SS-Kriegsberichter: Unger 1382-44 [(Porträt)] Abgebildete Personen: Bach-Zelewski, Erich von dem: SS Obergruppenführer und General der Polizei, Ritterkreuz (RK),(GND 119391996)"
+    },
+    "ohlendorf": {
+      "file": "File:Bundesarchiv Bild 183-J08517, Otto Ohlendorf.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bundesarchiv_Bild_183-J08517%2C_Otto_Ohlendorf.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-J08517,_Otto_Ohlendorf.jpg",
+      "author": "Schwarz",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Otto Ohlendorf SS-Brigade-Führer Otto Ohlendorf wurde vom Führer auf Vorschlag des Reichswirtschaftministers Funk mit der Führung der Geschäfte des Hauptabteilungsleiters im Reichswirtschaftministerium beauftragt. Gleichzeitig hat Reichswi"
+    },
+    "nebe": {
+      "file": "File:Bundesarchiv Bild 101III-Alber-096-34, Arthur Nebe.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Bundesarchiv_Bild_101III-Alber-096-34%2C_Arthur_Nebe.jpg/960px-Bundesarchiv_Bild_101III-Alber-096-34%2C_Arthur_Nebe.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101III-Alber-096-34,_Arthur_Nebe.jpg",
+      "author": "Alber, Kurt",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": ""
+    },
+    "stahlecker": {
+      "file": "File:Franz Walter Stahlecker01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Franz_Walter_Stahlecker01.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Franz_Walter_Stahlecker01.jpg",
+      "author": "unknown / неизвестно",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Walter Stahlecker (1900-1942) – SS-Brigadeführer and Generalmajor der Polizei, Commander of the Einsatzgruppe A."
+    },
+    "blobel": {
+      "file": "File:Paul Blobel.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Paul_Blobel.jpg/960px-Paul_Blobel.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Paul_Blobel.jpg",
+      "author": "US Army Signal Corps",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Paul Blobel, former commanding officer of sonderkommando 4a of 'einsatzgruppe C'"
+    },
+    "jager": {
+      "file": "File:Karl Jäger.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Karl_J%C3%A4ger.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Karl_J%C3%A4ger.jpg",
+      "author": "Unknown / Not disclosed",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Karl Jäger (1888-1959) . Machte 1941/1942 als SS-Standartenführer und Kommandeur das Einsatzkommandos 3 Litauen\"judenfrei\" und führte akribisch Buch über die Ermordung der litauischen Juden."
+    },
+    "jeckeln": {
+      "file": "File:FriedrichJeckeln.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/FriedrichJeckeln.jpg/960px-FriedrichJeckeln.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:FriedrichJeckeln.jpg",
+      "author": "Unknown/not disclosed",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "SS Obergruppenfuehrer Jeckeln in uniform."
+    },
+    "bouhler": {
+      "file": "File:Bundesarchiv Bild 146-1983-094-01, Phillip Bouhler.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bundesarchiv_Bild_146-1983-094-01%2C_Phillip_Bouhler.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1983-094-01,_Phillip_Bouhler.jpg",
+      "author": "Unknown author",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": ""
+    },
+    "brandt": {
+      "file": "File:Karl Brandt SS-Arzt.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Karl_Brandt_SS-Arzt.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Karl_Brandt_SS-Arzt.jpg",
+      "author": "USHMM",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Portrait of Karl Brandt as a defendant in the Medical Case Trial at Nuremberg. [Photograph #06231] Portrait von Karl Brandt als Angeklagter im Nürnberger Ärzte-Prozess. [Fotographie #06231] Date: Nov 5, 1946 - Aug 20, 1947 Locale: Nuremberg, [Bavaria] Germany Credit: USHMM, courtesy of Hedwig Wachenheimer Epstein Copyright: USHMM"
+    },
+    "brack": {
+      "file": "File:Viktor Brack Nürnberg 2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Viktor_Brack_N%C3%BCrnberg_2.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Viktor_Brack_N%C3%BCrnberg_2.jpg",
+      "author": "USHMM, courtesy of Hedwig Wachenheimer Epstein",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Portrait of Viktor Brack as a defendant in the Medical Case Trial at Nuremberg. [Photograph ##07333], Porträt von Viktor Brack als Angeklagter im Nürnberger Ärzteprozess. [Fotografie#07333]"
+    },
+    "hoss": {
+      "file": "File:Rudolf Höß crop.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rudolf_H%C3%B6%C3%9F_crop.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Rudolf_H%C3%B6%C3%9F_crop.jpg",
+      "author": "Polska Agencja Prasowa (PAP); cropped by Beyond My Ken",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Rudolf Höss, commandant of German concentration and death camps of Auschwitz, during his trial in Warsaw (Poland), after which he was declared guilty then hanged in 1947 in Auschwitz on the place of his crimes."
+    },
+    "liebehenschel": {
+      "file": "File:Liebehenschel, Arthur.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Liebehenschel%2C_Arthur.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Liebehenschel,_Arthur.jpg",
+      "author": "Unknown (SS official portrait)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "SS-Sturmbannführer Arthur Liebehenschel (1901-1948), Commandant of the Konzentrationslager Auschwitz (December 1, 1943 - May 8, 1944)"
+    },
+    "baer": {
+      "file": "File:Richard Baer.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Richard_Baer.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Richard_Baer.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "SS-Sturmbannführer Richard Baer (1911–1963)"
+    },
+    "kramer": {
+      "file": "File:Kramer Josef.jpeg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Kramer_Josef.jpeg/960px-Kramer_Josef.jpeg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kramer_Josef.jpeg",
+      "author": "Silverside (Sgt) No 5 Army Film & Photographic Unit",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "The Liberation of Bergen-belsen Concentration Camp 1945- Portraits of Belsen Guards at Celle Awaiting Trial, August 1945 Josef Kramer: known as the \"Beast of Belsen\", sentenced to death."
+    },
+    "koch": {
+      "file": "File:Karl Koch in summer dress uniform.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Karl_Koch_in_summer_dress_uniform.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Karl_Koch_in_summer_dress_uniform.jpg",
+      "author": "The author is unknown.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Camp commander Karl Koch with his Contax III camera in front of his house in the SS officers’ colony. From the photo album Karl and Ilse Koch had made for their son Artwin."
+    },
+    "pister": {
+      "file": "File:Hermann Pister.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Hermann_Pister.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Hermann_Pister.jpg",
+      "author": "unknown soldier or employee of the U.S. Army Signal Corps",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Hermann Pister,SS-Oberführer and commandant of the concentration camp at Buchenwald from 1942 to 1945"
+    },
+    "ziereis": {
+      "file": "File:Ziereis cropped.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ziereis_cropped.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Ziereis_cropped.JPG",
+      "author": "Unknown",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "description": "SS-Obersturmbannführer (OF-4) Franz Ziereis."
+    },
+    "suhren": {
+      "file": "File:FritzSuhren.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/FritzSuhren.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:FritzSuhren.JPG",
+      "author": "Wald1siedel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "description": "Ravensbrück concentration camp memorial"
+    },
+    "pauly": {
+      "file": "File:Max Pauly (cropped).png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Max_Pauly_%28cropped%29.png",
+      "page": "https://commons.wikimedia.org/wiki/File:Max_Pauly_(cropped).png",
+      "author": "unknown member of British Army",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Max Pauly (1907-1946), deutscher SS-Führer und Kommandant des KZ Neuengamme. Aufnahme Paulys nach seiner Festnahme 1945."
+    },
+    "weiss": {
+      "file": "File:Martin Gottfried Weiss.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Martin_Gottfried_Weiss.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Martin_Gottfried_Weiss.jpg",
+      "author": "Member of War Crimes Branch: Origin: Dr. Victor L. Wegard",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Martin Gottfried Weiß (* 3. Juni 1905 in Weiden in der Oberpfalz; † 29. Mai 1946 in Landsberg am Lech), SS-Obersturmbannführer and commandant of the concentration camps at Dachau (1942 - 1943) and Majdanek (1943 - 1944)"
+    },
+    "koegel": {
+      "file": "File:2015 09 15 KZ Ravensbrück Max Koegel 1 IMG 2353 S.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2015_09_15_KZ_Ravensbr%C3%BCck_Max_Koegel_1_IMG_2353_S.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:2015_09_15_KZ_Ravensbr%C3%BCck_Max_Koegel_1_IMG_2353_S.JPG",
+      "author": "Fotograf unbekannt Dr. Karl-Heinz Hochhaus",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "description": "Otto Max Koegel war ein deutscher SS-Obersturmbannführer und Lagerkommandant des Frauen-KZ Ravensbrück"
+    },
+    "goth": {
+      "file": "File:Amon goeth 1946.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Amon_goeth_1946.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Amon_goeth_1946.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Portrait of Amon Goeth while in Polish custody as an accused war criminal. Date: Aug 16, 1946 Locale: Krakow, [Krakow] Poland; Podgorza (D Krakow) Poland; Krakau; Cracow Credit: USHMM, courtesy of Instytut Pamieci Narodowej Copyright: Public Domain"
+    },
+    "mengele": {
+      "file": "File:Josef Mengele, Auschwitz. Album Höcker (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Josef_Mengele%2C_Auschwitz._Album_H%C3%B6cker_%28cropped%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Josef_Mengele,_Auschwitz._Album_H%C3%B6cker_(cropped).jpg",
+      "author": "Unknown, i.e. either Bernhard Walther or Ernst Hofmann or Karl-Friedrich Höcker",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Mengele on the grounds on Solahütte, the SS retreat outside of Auschwitz, in 1944."
+    },
+    "stangl": {
+      "file": "File:Franz Stangl Treblinka.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Franz_Stangl_Treblinka.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Franz_Stangl_Treblinka.jpg",
+      "author": "nieznany/unknown",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Franz Paul Stangl, commander of Treblinka death camp"
+    },
+    "eberl": {
+      "file": "File:Irmfried Eberl.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Irmfried_Eberl.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Irmfried_Eberl.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Irmfried Eberl, the first commandant of Treblinka II extermination camp built by Nazi Germany in occupied Poland."
+    },
+    "franz": {
+      "file": "File:Kurt Franz Treblinka.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kurt_Franz_Treblinka.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Kurt_Franz_Treblinka.jpg",
+      "author": "nieznany/unknown",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Kurt Hubert Franz, deputy commander of Treblinka death camp"
+    },
+    "reichleitner": {
+      "file": "File:Franz Reichleitner.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Franz_Reichleitner.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Franz_Reichleitner.jpg",
+      "author": "http://www.sobiborinterviews.nl/en/extermination-camp/biographies-of-ss-men",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Franz Karl Reichleitner (only known photograph)"
+    },
+    "hering": {
+      "file": "File:Gottlieb Hering.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Gottlieb_Hering.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Gottlieb_Hering.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "SS-Hauptsturmführer Gottlieb Hering (SS commander of Nazi Germany; commandant of Bełżec extermination camp during Operation Reinhard)."
+    },
+    "lange": {
+      "file": "File:Herbert Lange - SS kommando Kulmhof.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Herbert_Lange_-_SS_kommando_Kulmhof.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Herbert_Lange_-_SS_kommando_Kulmhof.jpg",
+      "author": "Unknown (Public domain)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Herbert Lange (1909-1945), as Sturmbannführer (Major) in the SS committed acts of mass-murder in Poland during World War II. He was the commandant of Chełmno extermination camp until April 1942."
+    },
+    "bothmann": {
+      "file": "File:Hans Bothmann (1911 - 1946).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Hans_Bothmann_%281911_-_1946%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Hans_Bothmann_(1911_-_1946).jpg",
+      "author": "Unknown (Public domain)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Hans Bothmann (1911 - 1946), as Sturmbannführer (Major) in the SS committed acts of mass-murder in occupied Poland during World War II. He was the commandant of Chełmno extermination camp from 1942."
+    },
+    "frank": {
+      "file": "File:Bundesarchiv Bild 146-1989-011-13, Hans Frank.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bundesarchiv_Bild_146-1989-011-13%2C_Hans_Frank.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1989-011-13,_Hans_Frank.jpg",
+      "author": "Unknown",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": ""
+    },
+    "buhler": {
+      "file": "File:Bühler Josef.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/B%C3%BChler_Josef.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:B%C3%BChler_Josef.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Staatssekretär Josef Bühler"
+    },
+    "stuckart": {
+      "file": "File:Wilhelm Stuckart at the Ministries Trial.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Wilhelm_Stuckart_at_the_Ministries_Trial.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wilhelm_Stuckart_at_the_Ministries_Trial.jpg",
+      "author": "US Army Signal Corps",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Wilhelm Stuckart at the Ministries Trial Nuremberg, Germany, 01/10/1948"
+    },
+    "rosenberg": {
+      "file": "File:Nazi party member Alfred Rosenberg in cell Nuremberg Trials.jpeg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Nazi_party_member_Alfred_Rosenberg_in_cell_Nuremberg_Trials.jpeg",
+      "page": "https://commons.wikimedia.org/wiki/File:Nazi_party_member_Alfred_Rosenberg_in_cell_Nuremberg_Trials.jpeg",
+      "author": "United States Army Signal Corps photographer",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Nazi party member and theorist Alfred Rosenberg photographed in his jail cell at Nuremberg during the Nuremberg Trials, Nuremberg, Germany. Gelatin silver process on paper. 28 cm x 35.3 cm. Image courtesy of the Harvard Law School Library, Harvard University, Cambridge, Mass."
+    },
+    "streicher": {
+      "file": "File:Bundesarchiv Bild 146-1997-011-24, Julius Streicher.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_Bild_146-1997-011-24%2C_Julius_Streicher.jpg/960px-Bundesarchiv_Bild_146-1997-011-24%2C_Julius_Streicher.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-1997-011-24,_Julius_Streicher.jpg",
+      "author": "Hoffmann, Heinrich",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "description": "Julius Streicher, Gauleiter von Franken"
+    },
+    "greiser": {
+      "file": "File:Arthur Greiser portrait (cropped).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Arthur_Greiser_portrait_%28cropped%29.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Arthur_Greiser_portrait_(cropped).jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Portrait of Arthur Greiser, Reichsstatthalter and Gauleiter of the Warthegau during World War II"
+    },
+    "biebow": {
+      "file": "File:Hans Biebow trial.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Hans_Biebow_trial.jpg/960px-Hans_Biebow_trial.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Hans_Biebow_trial.jpg",
+      "author": "nieznany/unknown",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Hans Biebow"
+    },
+    "seyss-inquart": {
+      "file": "File:Arthur Seyss-Inquart.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Arthur_Seyss-Inquart.jpg/960px-Arthur_Seyss-Inquart.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Arthur_Seyss-Inquart.jpg",
+      "author": "Unknown author",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "description": "Portret van Dr. Arthur Seyss-Inquart, Oostenrijker, door Hitler als Reichskommissar benoemd in Nederland. 1940-1945"
+    }
+  }
+}

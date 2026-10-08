@@ -1,0 +1,12 @@
+[out:json][timeout:180];
+(
+  relation["admin_level"="2"]["name"="Deutsches Reich"];
+  relation["admin_level"="2"]["name"~"^(Österreich|Bundesstaat Österreich|Republik Österreich)$"];
+  relation["admin_level"="2"]["name"~"Československ"];
+  relation["admin_level"="2"]["name"~"Protektorat|Böhmen und Mähren"];
+  relation["admin_level"="2"]["name"~"Saar"];
+  relation["admin_level"="2"]["name"~"Memel|Klaipėda"];
+  relation["admin_level"~"^[2-4]$"]["name"~"Sudeten"];
+  relation["admin_level"="2"]["name"="Freie Stadt Danzig"];
+);
+out tags;

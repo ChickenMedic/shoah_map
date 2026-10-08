@@ -1,0 +1,4692 @@
+[
+ {
+  "parent": "dachau",
+  "name": "München (Bergmannschule)",
+  "start": "1944-12",
+  "lat": 48.135477,
+  "lng": 11.537112
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Bombensuchkommando)",
+  "start": "1944-07",
+  "lat": 48.127713,
+  "lng": 11.551546
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Ehrengut)",
+  "start": "1942-04-07",
+  "end": "1942-09-11",
+  "lat": 48.107311,
+  "lng": 11.544626
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Gestapo)",
+  "start": "1944-06",
+  "lat": 48.144375,
+  "lng": 11.572703
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Großschlachterei Thomae)",
+  "start": "1942-08-21",
+  "end": "1942-11-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Höchlstraße)",
+  "start": "1944-10",
+  "end": "1944-12-28",
+  "lat": 48.145818,
+  "lng": 11.601567
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Katastropheneinsatz)",
+  "start": "1945-02-05",
+  "end": "1945-04-21"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Königinstraße)",
+  "start": "1944-11-08"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Lebensborn e. V.)",
+  "start": "1942-06-15",
+  "lat": 48.135068,
+  "lng": 11.563545
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Leopoldstraße)",
+  "start": "1945-03"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Loden-Frey)",
+  "start": "1944-06-13",
+  "lat": 48.162738,
+  "lng": 11.598212
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Möhlstraße, SS-Oberabschnitt Süd)"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Oberbürgermeister)",
+  "start": "1945-01-01",
+  "end": "1945-04-14"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Parteikanzlei)",
+  "start": "1944-03",
+  "end": "1945-04-22"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Reichsführer SS)",
+  "start": "1942-10-23",
+  "end": "1945-04-14"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Reichsführer, SS-Adjutantur)",
+  "start": "1945-01-07",
+  "lat": 48.144619,
+  "lng": 11.566638
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Reichskriminalpolizeiamt)",
+  "start": "1945-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Schuhhaus Meier)",
+  "start": "1944-11",
+  "end": "1945-02",
+  "lat": 48.142575,
+  "lng": 11.56801
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Sprengkommando)"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (SS-Mannschaftshäuser)",
+  "start": "1942-05-11",
+  "end": "1942-11-18"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (SS-Standortkommandantur Bunkerbau)"
+ },
+ {
+  "parent": "dachau",
+  "name": "München (SS-Standortkommandantur Kabelbau)"
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Allach (Porzellanmanufaktur)",
+  "start": "1941-06-02"
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Allach (BMW), Hauptlager",
+  "start": "1943-02-22"
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Allach (Bombenräumkommando)",
+  "start": "1944-06-01",
+  "end": "1944-07"
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Allach (SS-Arbeits- und Krankenlager)",
+  "start": "1945-04-11",
+  "end": "1945-04-25"
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Freimann (Bartolith-Werke)",
+  "start": "1942-08-28",
+  "end": "1943-07",
+  "lat": 48.19,
+  "lng": 11.627
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Freimann (Dyckerhoff & Widmann)",
+  "start": "1942-09-19",
+  "end": "1942-12-10",
+  "lat": 48.208,
+  "lng": 11.587
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Freimann (SS-Standortverwaltung)",
+  "start": "1941-11-10",
+  "lat": 48.208609,
+  "lng": 11.584363
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Giesing (Agfa Kamerawerke)",
+  "start": "1944-09"
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Ludwigsfeld (Gärtnereibetrieb Nützl)",
+  "start": "1943-09-01",
+  "lat": 48.2016,
+  "lng": 11.4955
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Moosach (Chemische Werke)",
+  "start": "1944-11-01",
+  "end": "1945-04-14",
+  "lat": 48.1784,
+  "lng": 11.5375
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Neuaubing (Dornier)",
+  "start": "1944-08",
+  "lat": 48.141,
+  "lng": 11.427
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Oberföhring (Bauleitung der Waffen-SS)",
+  "start": "1944-04-11"
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Riem (OT, SS-Reit- & Fahrschule)",
+  "start": "1937-07-25",
+  "end": "1943-02",
+  "lat": 48.145463,
+  "lng": 11.66618
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Schwabing (Schwester Pia)",
+  "start": "1937-01-19",
+  "end": "1942-12-18"
+ },
+ {
+  "parent": "dachau",
+  "name": "München-Sendling (Architekt Bücklers)",
+  "start": "1942-03-16",
+  "end": "1942-12-01",
+  "lat": 48.094602,
+  "lng": 11.534388
+ },
+ {
+  "parent": "dachau",
+  "name": "Germering",
+  "start": "1943-09-07",
+  "end": "1943-10"
+ },
+ {
+  "parent": "dachau",
+  "name": "Garmisch-Partenkirchen",
+  "start": "1944-12",
+  "end": "1944-12-15"
+ },
+ {
+  "parent": "dachau",
+  "name": "Seehausen",
+  "start": "1945-04-25"
+ },
+ {
+  "parent": "dachau",
+  "name": "Deisenhofen (Schwester Pia)"
+ },
+ {
+  "parent": "dachau",
+  "name": "Feldafing",
+  "start": "1942-04-06",
+  "end": "1945-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "Starnberg",
+  "start": "1945-01-22"
+ },
+ {
+  "parent": "dachau",
+  "name": "Tutzing",
+  "start": "1944-10-27",
+  "end": "1945-01-18"
+ },
+ {
+  "parent": "dachau",
+  "name": "Weilheim",
+  "start": "1945-02-01",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "Bad Tölz",
+  "start": "1940-06"
+ },
+ {
+  "parent": "dachau",
+  "name": "Bichl",
+  "start": "1941-05-01",
+  "end": "1941-12-31"
+ },
+ {
+  "parent": "dachau",
+  "name": "Königssee",
+  "start": "1944-09-02",
+  "end": "1944-09-19"
+ },
+ {
+  "parent": "dachau",
+  "name": "Fischbachau",
+  "start": "1944-09-12",
+  "end": "1945-01-21"
+ },
+ {
+  "parent": "dachau",
+  "name": "Wölflhof bei Aurach",
+  "start": "1945-02",
+  "end": "1945-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Gmund",
+  "start": "1944-05-23"
+ },
+ {
+  "parent": "dachau",
+  "name": "Hausham"
+ },
+ {
+  "parent": "dachau",
+  "name": "Spitzingsee",
+  "start": "1941-10",
+  "end": "1942-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "Sudelfeld (SS-Berghaus)",
+  "start": "1940-06-22"
+ },
+ {
+  "parent": "dachau",
+  "name": "Sudelfeld (Luftwaffe)",
+  "start": "1940-06-22"
+ },
+ {
+  "parent": "dachau",
+  "name": "Valepp/Schliersee (Bauer Marx)",
+  "start": "1944-10-30"
+ },
+ {
+  "parent": "dachau",
+  "name": "Valepp/Schliersee (Jagdhaus Himmler)",
+  "start": "1942-11-01",
+  "end": "1944-10-30"
+ },
+ {
+  "parent": "dachau",
+  "name": "Fridolfing",
+  "start": "1943-11-23",
+  "end": "1944-05-30"
+ },
+ {
+  "parent": "dachau",
+  "name": "Traunstein",
+  "start": "1942-10-08"
+ },
+ {
+  "parent": "dachau",
+  "name": "Trostberg",
+  "start": "1944-11",
+  "end": "1945-05-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Halfing-Brüningsau",
+  "start": "1942-09"
+ },
+ {
+  "parent": "dachau",
+  "name": "Stephanskirchen",
+  "start": "1944-11",
+  "end": "1945-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Thansau"
+ },
+ {
+  "parent": "dachau",
+  "name": "Rosenheim",
+  "start": "1945-04-14"
+ },
+ {
+  "parent": "dachau",
+  "name": "Gendorf (= „AL Emmerting“)",
+  "start": "1943-10"
+ },
+ {
+  "parent": "dachau",
+  "name": "Mühldorf-Mettenheim (M 1), Hauptlager",
+  "start": "1944-07"
+ },
+ {
+  "parent": "dachau",
+  "name": "Mühldorf-Ampfing Waldlager V/VI",
+  "start": "1944-08"
+ },
+ {
+  "parent": "dachau",
+  "name": "Mühldorf-Mittergars",
+  "start": "1944-11-30"
+ },
+ {
+  "parent": "dachau",
+  "name": "Mühldorf-Thalham",
+  "start": "1945-01-31"
+ },
+ {
+  "parent": "dachau",
+  "name": "Mühldorf-Zangberg",
+  "start": "1945-03",
+  "end": "1945-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Landshut",
+  "start": "1944-09",
+  "end": "1945-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Dachau (Entomologisches Institut)",
+  "lat": 48.279876,
+  "lng": 11.463482
+ },
+ {
+  "parent": "dachau",
+  "name": "Dachau (Pollnhof)",
+  "start": "1945-03",
+  "end": "1945-03-01",
+  "lat": 48.262509,
+  "lng": 11.451305
+ },
+ {
+  "parent": "dachau",
+  "name": "Dachau (Fleischwarenfabrik Hans Wülfert)",
+  "start": "1941-08",
+  "end": "1943-02",
+  "lat": 48.257567,
+  "lng": 11.438969
+ },
+ {
+  "parent": "dachau",
+  "name": "Gröbenried"
+ },
+ {
+  "parent": "dachau",
+  "name": "Karlsfeld (OT)",
+  "start": "1944-07-11"
+ },
+ {
+  "parent": "dachau",
+  "name": "Rothschwaige",
+  "start": "1944-05-17"
+ },
+ {
+  "parent": "dachau",
+  "name": "Ebersberg",
+  "start": "1945-03"
+ },
+ {
+  "parent": "dachau",
+  "name": "Markt Schwaben",
+  "start": "1944-09-02"
+ },
+ {
+  "parent": "dachau",
+  "name": "Steinhöring",
+  "start": "1944-09-20",
+  "end": "1945-04-28"
+ },
+ {
+  "parent": "dachau",
+  "name": "Eching",
+  "start": "1945-04-10"
+ },
+ {
+  "parent": "dachau",
+  "name": "Freising",
+  "start": "1945-02"
+ },
+ {
+  "parent": "dachau",
+  "name": "Neufahrn",
+  "start": "1945-04-22"
+ },
+ {
+  "parent": "dachau",
+  "name": "Ottobrunn"
+ },
+ {
+  "parent": "dachau",
+  "name": "Schleißheim (Aufräumungskommando)",
+  "start": "1945-04-14"
+ },
+ {
+  "parent": "dachau",
+  "name": "Schleißheim (Berufsschule)",
+  "start": "1941-10"
+ },
+ {
+  "parent": "dachau",
+  "name": "Eschelbach"
+ },
+ {
+  "parent": "dachau",
+  "name": "Ingolstadt (Bahnbetriebswerk)",
+  "start": "1945-02"
+ },
+ {
+  "parent": "dachau",
+  "name": "Ingolstadt (Landrat)",
+  "start": "1944-07"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering I – Landsberg, Hauptlager",
+  "start": "1944-06-22",
+  "end": "1944-08-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering II – Igling",
+  "start": "1944-08-24"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering III – Kaufering",
+  "start": "1944-06-18"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering IV – Hurlach",
+  "start": "1944-09"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering V – Utting",
+  "start": "1944-07"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering VI – Türkheim",
+  "start": "1944-10",
+  "end": "1945-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering VII – Landsberg-Erpfting",
+  "start": "1944-09",
+  "end": "1945-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering VIII – Seestall",
+  "start": "1944-11"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering IX – Obermeitingen",
+  "start": "1944-10"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering X – Utting",
+  "start": "1944-09-26"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufering XI – Landsberg-Stadtwaldhof",
+  "start": "1944-10",
+  "end": "1944-10-30"
+ },
+ {
+  "parent": "dachau",
+  "name": "Landsberg",
+  "start": "1944-07-14"
+ },
+ {
+  "parent": "dachau",
+  "name": "Landsberg (Dynamit AG)",
+  "start": "1945-03"
+ },
+ {
+  "parent": "dachau",
+  "name": "Neuburg",
+  "start": "1945-02",
+  "end": "1945-03"
+ },
+ {
+  "parent": "dachau",
+  "name": "Augsburg-Kriegshaber",
+  "start": "1944-09-07",
+  "end": "1945-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Augsburg (Oberbürgermeister)",
+  "start": "1944-11-03",
+  "end": "1945-03"
+ },
+ {
+  "parent": "dachau",
+  "name": "Augsburg (Reichsbahnbetriebsamt)",
+  "start": "1945-02",
+  "end": "1945-03"
+ },
+ {
+  "parent": "dachau",
+  "name": "Haunstetten",
+  "start": "1943-02-09",
+  "end": "1944-04-20"
+ },
+ {
+  "parent": "dachau",
+  "name": "Augsburg-Pfersee, Hauptlager",
+  "start": "1944-04-27"
+ },
+ {
+  "parent": "dachau",
+  "name": "Gablingen",
+  "start": "1944-01",
+  "end": "1944-04-24"
+ },
+ {
+  "parent": "dachau",
+  "name": "Horgau",
+  "start": "1945-03-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Bäumenheim",
+  "start": "1944-08-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "Bad Oberdorf",
+  "start": "1945-03",
+  "end": "1945-05"
+ },
+ {
+  "parent": "dachau",
+  "name": "Oberstdorf-Birgsau",
+  "start": "1943-07-01",
+  "end": "1945-04-25"
+ },
+ {
+  "parent": "dachau",
+  "name": "Blaichach",
+  "start": "1944-07-16"
+ },
+ {
+  "parent": "dachau",
+  "name": "Fischen"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kottern",
+  "start": "1943-10-01",
+  "end": "1945-04-27"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kempten",
+  "start": "1943-09-15"
+ },
+ {
+  "parent": "dachau",
+  "name": "Kaufbeuren",
+  "start": "1944-05-23"
+ },
+ {
+  "parent": "dachau",
+  "name": "Riederloh",
+  "start": "1944-09-20",
+  "end": "1945-01-08"
+ },
+ {
+  "parent": "dachau",
+  "name": "Schlachters"
+ },
+ {
+  "parent": "dachau",
+  "name": "Lauingen",
+  "start": "1944-03",
+  "end": "1945-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Burgau",
+  "start": "1945-03-03"
+ },
+ {
+  "parent": "dachau",
+  "name": "Unterfahlheim",
+  "start": "1943-07-05"
+ },
+ {
+  "parent": "dachau",
+  "name": "Nürnberg (SS-Kaserne)",
+  "start": "1941-05-12",
+  "end": "1943-06-16"
+ },
+ {
+  "parent": "dachau",
+  "name": "Passau I (=„Oberilzmühle“)",
+  "start": "1942-10-16",
+  "end": "1945-05-02"
+ },
+ {
+  "parent": "dachau",
+  "name": "Hof-Moschendorf",
+  "start": "1944-09-03",
+  "end": "1945-04-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Ellwangen",
+  "start": "1941-07-03",
+  "end": "1942-10-17"
+ },
+ {
+  "parent": "dachau",
+  "name": "Radolfzell"
+ },
+ {
+  "parent": "dachau",
+  "name": "Friedrichshafen, 1. Hauptlager",
+  "start": "1943-06-22",
+  "end": "1944-09-25"
+ },
+ {
+  "parent": "dachau",
+  "name": "Überlingen-Aufkirch, 2. Hauptlager",
+  "start": "1944-10-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Saulgau",
+  "start": "1943-09-13"
+ },
+ {
+  "parent": "dachau",
+  "name": "Heidenheim",
+  "start": "1941-10-20",
+  "end": "1942-11-26"
+ },
+ {
+  "parent": "dachau",
+  "name": "Ulm",
+  "start": "1945-01-04",
+  "end": "1945-03-11"
+ },
+ {
+  "parent": "dachau",
+  "name": "Heppenheim",
+  "start": "1942-05",
+  "end": "1943-06"
+ },
+ {
+  "parent": "dachau",
+  "name": "Bad Ischl (Sägewerk Bachmanning)",
+  "start": "1942-06-18",
+  "end": "1942-12-19"
+ },
+ {
+  "parent": "dachau",
+  "name": "Bad Ischl (Umsiedlungslager)",
+  "start": "1942-02-09",
+  "end": "1942-12-19"
+ },
+ {
+  "parent": "dachau",
+  "name": "Mauthausen",
+  "start": "1938-05",
+  "end": "1939-03"
+ },
+ {
+  "parent": "dachau",
+  "name": "Hallein",
+  "start": "1943-09-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "Salzburg (Bombensuchkommando)",
+  "start": "1944-11"
+ },
+ {
+  "parent": "dachau",
+  "name": "Salzburg (Polizeidirektion)",
+  "start": "1944-12-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "Salzburg (Kapitelplatz)",
+  "start": "1942-12",
+  "end": "1944-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Salzburg (Sprengkommando)",
+  "start": "1945-01-12"
+ },
+ {
+  "parent": "dachau",
+  "name": "Salzburg (Firma E. Schürich)",
+  "start": "1942-12-11",
+  "end": "1942-12-28"
+ },
+ {
+  "parent": "dachau",
+  "name": "Pabenschwandt",
+  "start": "1944-12-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "St. Gilgen (identisch mit „St. Wolfgang“)",
+  "start": "1938-06"
+ },
+ {
+  "parent": "dachau",
+  "name": "Weißsee"
+ },
+ {
+  "parent": "dachau",
+  "name": "Fischhorn",
+  "start": "1944-09-06"
+ },
+ {
+  "parent": "dachau",
+  "name": "Schloß Lind",
+  "start": "1942-06"
+ },
+ {
+  "parent": "dachau",
+  "name": "St. Lambrecht",
+  "start": "1942-05-13"
+ },
+ {
+  "parent": "dachau",
+  "name": "Neustift im Stubaital („Innsbruck II“)",
+  "start": "1942-10-10"
+ },
+ {
+  "parent": "dachau",
+  "name": "St. Johann",
+  "start": "1940-08",
+  "end": "1941-06"
+ },
+ {
+  "parent": "dachau",
+  "name": "Schloss Itter",
+  "start": "1945-05-05"
+ },
+ {
+  "parent": "dachau",
+  "name": "Plansee (SS-Sonderkommando, Männer)",
+  "start": "1944-09-02"
+ },
+ {
+  "parent": "dachau",
+  "name": "Plansee (SS-Sonderkommando, Frauen)",
+  "start": "1944-09"
+ },
+ {
+  "parent": "dachau",
+  "name": "Lochau",
+  "start": "1945-04-07",
+  "end": "1945-04-27"
+ },
+ {
+  "parent": "dachau",
+  "name": "Woxfelde",
+  "start": "1944-11",
+  "end": "1945-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "KZ-Kommando Reichsführer, SS-Hauptkasse",
+  "start": "1945-02-05",
+  "end": "1945-03-03"
+ },
+ {
+  "parent": "dachau",
+  "name": "KZ-Kommando Feldmoching",
+  "start": "1944-10",
+  "end": "1944-10-02"
+ },
+ {
+  "parent": "dachau",
+  "name": "KZ-Kommando Reichsbahn-Ausbesserungswerk München-Freimann",
+  "start": "1944-03-28"
+ },
+ {
+  "parent": "dachau",
+  "name": "KZ-Kommando Ampermoching"
+ },
+ {
+  "parent": "dachau",
+  "name": "KZ-Kommando Dachau (Präzifix), Werk II",
+  "start": "1942-11-01",
+  "lat": 48.278998,
+  "lng": 11.458946
+ },
+ {
+  "parent": "dachau",
+  "name": "KZ-Kommando Dachau (Liebhof)",
+  "start": "1943-06-03",
+  "lat": 48.260022,
+  "lng": 11.462129
+ },
+ {
+  "parent": "dachau",
+  "name": "KZ-Kommando Dachau (Pollnhof)",
+  "start": "1945-03-01",
+  "lat": 48.262509,
+  "lng": 11.451305
+ },
+ {
+  "parent": "dachau",
+  "name": "München (Reichsbahn), 13. SS-Eisenbahnbaubrigade",
+  "start": "1945-01-01"
+ },
+ {
+  "parent": "dachau",
+  "name": "Ötztal - Bauvorhaben",
+  "start": "1945-05-01",
+  "end": "1945-05-04"
+ },
+ {
+  "parent": "dachau",
+  "name": "Innsbruck (Reichsstraßenbauamt) – geplantes AK",
+  "start": "1942-10-13"
+ },
+ {
+  "parent": "dachau",
+  "name": "Innsbruck-Reichenau – Auffanglager",
+  "start": "1945-04-24",
+  "end": "1945-04-25"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "HASAG – Altenburg",
+  "end": "1944-08-02"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Annaburg",
+  "start": "1945-01-08",
+  "end": "1945-03-16"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Arolsen",
+  "start": "1943-11-14",
+  "end": "1945-03-29"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Aschersleben",
+  "start": "1944-08-15",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Bad Gandersheim",
+  "start": "1944-10",
+  "end": "1945-04"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Bad Godesberg",
+  "start": "1944-03",
+  "end": "1945-03-29"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Bad Salzungen",
+  "start": "1945-01-05",
+  "end": "1945-04-06"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Bensberg",
+  "start": "1944-12"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "[[Böhlen",
+  "start": "1944-11-28",
+  "end": "1945-04"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "[[Dora-Mittelbau|Dora",
+  "end": "1943-08-28"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "[[Dornburg",
+  "start": "1945-03-21",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Dortmund: In Dortmund",
+  "start": "1944-10",
+  "end": "1945-03"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Emil",
+  "start": "1943-04-11",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Humboldtstraße in Essen",
+  "end": "1945-03-17"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Schwarze Poth in Essen",
+  "end": "1945-03"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Flößberg",
+  "start": "1944-12-28",
+  "end": "1945-04-17"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Hadmersleben",
+  "start": "1944-03-13",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Hessisch-Lichtenau",
+  "start": "1944-08",
+  "end": "1945-03-29"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Junkers-Werke Halberstadt",
+  "start": "1944-07-26",
+  "end": "1945-04-08"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Holzen",
+  "start": "1944-09",
+  "end": "1945-04"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Kassel-Druseltal",
+  "start": "1943-07-05",
+  "end": "1945-04-04"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Köln-Messelager",
+  "start": "1942-09-21",
+  "end": "1944-05-10"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Köln-Deutz",
+  "end": "1945-03-15"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Köln-Niehl",
+  "start": "1944-08-10",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Köln-Stadt",
+  "start": "1944-08-15",
+  "end": "1944-10-25"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Langensalza",
+  "start": "1943-12",
+  "end": "1945-04"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Langenstein-Zwieberge",
+  "start": "1944-04",
+  "end": "1945-04"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Leopoldshall",
+  "start": "1944-12-28",
+  "end": "1945-04-11"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Magda",
+  "start": "1944-06"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Markkleeberg",
+  "start": "1944-08-31",
+  "end": "1945-04-15"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Münchmühle",
+  "start": "1944-08",
+  "end": "1945-03"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Neustadt bei Coburg 26. September 1944 bis 6. April 1945",
+  "start": "1944-09-26",
+  "end": "1945-04-06"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Niederhagen oder Wewelsburg",
+  "start": "1943-05-01",
+  "end": "1945-04-02"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "S III im Jonastal bei Arnstadt vom 6. November 1944 bis Anfang April 1945",
+  "start": "1944-11-06",
+  "end": "1945-04"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Junkers-Werke Schönebeck",
+  "start": "1943-03-19",
+  "end": "1945-04-11"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Staßfurt",
+  "start": "1944-09-15",
+  "end": "1945-04-11"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Tannenwald",
+  "start": "1944-12-07",
+  "end": "1945-03-31"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Wansleben",
+  "start": "1944-04",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Westeregeln",
+  "start": "1944-10-17",
+  "end": "1945-04-04"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Wille",
+  "start": "1944-06-05"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Witten-Annen",
+  "start": "1944-09",
+  "end": "1945-03"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "SS-Baubrigade I",
+  "start": "1944-10"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "SS-Bauzug: Der 2. SS-Bauzug war von Sep. bis Okt. 1944 zum Wegräumen von Schutt und Ausbesserung von Eisenbahngleisen in Karlsruhe",
+  "end": "1944-10"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "Sonderlager Fichtenhain: Außerhalb des eigentlichen eingezäunten Lagers",
+  "start": "1944-07-20"
+ },
+ {
+  "parent": "buchenwald",
+  "name": "vom KZ Buchenwald über Flossenbürg nach Dachau",
+  "start": "1945-05-01"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Passau I, „Oberilzmühle“",
+  "start": "1942-10-19",
+  "end": "1945-05-02"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Passau II, „Waldwerke II“",
+  "start": "1944-03-09",
+  "end": "1944-11-07"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Passau III, „Hafen“, „Jandelsbrunn“",
+  "start": "1945-03-00",
+  "end": "1945-05-00"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Klagenfurt-Lendorf",
+  "start": "1943-11-19",
+  "end": "1945-04-15"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "KZ Loibl",
+  "start": "1943-06-02",
+  "end": "1945-04-15"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "St. Aegyd am Neuwalde",
+  "start": "1944-11-02",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Frauenlager Amstetten, „Bahnbau II“",
+  "start": "1945-03-20",
+  "end": "1945-04-18"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Männerlager Amstetten",
+  "start": "1945-03-19",
+  "end": "1945-04-18"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Hinterbrühl, „Lisa“ (Lager), „Languste“ (Werk)",
+  "start": "1944-09-00",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Waffen-SS Arbeitslager Hirtenberg, „Gustloffwerke“",
+  "start": "1944-09-28",
+  "end": "1945-04-15"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "KZ Melk, „Quarz“ (Männerlager)",
+  "start": "1944-04-20",
+  "end": "1945-04-15"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Schwechat-Heidfeld I",
+  "start": "1943-08-30",
+  "end": "1944-07-13"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Schwechat-Heidfeld II, „Wien Hinterbrühl“",
+  "start": "1944-07-31",
+  "end": "1945-03-31"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Schwechat \"Santa\", „Santa I-III“",
+  "start": "1944-08-15",
+  "end": "1945-03-31"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "St. Valentin, „Nibelungenwerk“",
+  "start": "1944-08-21",
+  "end": "1945-04-23"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Wiener Neudorf, „Guntramsdorf“",
+  "start": "1943-08-02",
+  "end": "1945-04-02"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Wiener Neustadt (Phase I)",
+  "start": "1943-06-20",
+  "end": "1943-11-20"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Wiener Neustadt (Phase II)",
+  "start": "1944-07-05",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Bachmanning",
+  "start": "1942-09-20"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Dippoldsau",
+  "start": "1943-09-17",
+  "end": "1944-08-25"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "KZ Ebensee, „Kalk“, „Solvay“, „Zement“, „Dachs II“, „Taube I“",
+  "start": "1943-11-08",
+  "end": "1945-05-06"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Enns/Ennsdorf",
+  "start": "1945-04-10",
+  "end": "1945-04-19"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Grein",
+  "start": "1945-02-02",
+  "end": "1945-02-19"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Großraming",
+  "start": "1943-01-14",
+  "end": "1944-08-29"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "KZ Gusen I",
+  "start": "1940-05-25",
+  "end": "1945-05-05"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "KZ Gusen II, „Bergkristall“",
+  "start": "1943-01-11",
+  "end": "1944-08-03"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "KZ Gusen III",
+  "start": "1944-12-00",
+  "end": "1945-05-05"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Lenzing",
+  "start": "1943-11-08",
+  "end": "1945-05-04"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Linz I, „SS-Arbeitslager Linz“",
+  "start": "1943-01-11",
+  "end": "1944-08-03"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Linz II",
+  "start": "1944-02-21",
+  "end": "1945-05-05"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Linz III, „KLM-Arbeitslager Linz III“",
+  "start": "1944-02-44",
+  "end": "1945-05-05"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Redl-Zipf, „Schlier“, „Rella X“",
+  "start": "1943-10-11",
+  "end": "1945-05-03"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Steyr-Münichholz",
+  "start": "1942-03-14",
+  "end": "1945-05-05"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Ternberg",
+  "start": "1942-05-15",
+  "end": "1944-09-18"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Vöcklabruck, „Wagrein“, „Cäsar-Kommando“",
+  "start": "1941-06-06",
+  "end": "1942-05-14"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Gunskirchen, „Waldwerke“, „Wels I“",
+  "start": "1944-12-27",
+  "end": "1945-04-29"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Wels II",
+  "start": "1945-03-24",
+  "end": "1945-04-13"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Schloss Mittersill",
+  "start": "1944-03-24",
+  "end": "1945-05-08"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Graz-Leibnitz, „Kalksteinwerke“, „Salm“",
+  "start": "1944-02-04",
+  "end": "1945-04-02"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Bretstein",
+  "start": "1941-08-01",
+  "end": "1943-09-30"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Eisenerz",
+  "start": "1943-06-15",
+  "end": "1945-03-14"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Schloss Lannach (Frauenlager)",
+  "start": "1944-03-24",
+  "end": "1945-05-08"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Peggau, „Marmor“",
+  "start": "1944-08-17",
+  "end": "1945-04-02"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "St. Lambrecht (Frauenlager)",
+  "start": "1943-02-00",
+  "end": "1945-05-00"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "St. Lambrecht (Männerlager)",
+  "start": "1942-05-13",
+  "end": "1945-05-00"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Schloss Lind",
+  "start": "1942-06-22",
+  "end": "1945-05-05"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Wien-Floridsdorf",
+  "start": "1944-07-14",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Subkommando Wien-Jedlesee, „Julius“",
+  "start": "1944-07-13",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Wien-Saurerwerke, „Wien-West“",
+  "start": "1944-08-20",
+  "end": "1945-05-03"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Wien-Schönbrunn, „Sonderkommando Wien“",
+  "start": "1943-09-30",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "In Vöcklabruck existierte zwischen 30. September 1943 und 24. März 1945 ein zweites Lager. Bekannt ist",
+  "start": "1943-09-30",
+  "end": "1945-03-24"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "Maria Lanzendorf wurde bis zum 27. März 1945 als Außenlager von Mauthausen geführt.[https://www.gesetze-im-internet.de/begdv_6/BJNR002330967.html Bundesministerium der Justiz: Verzeichnis der Konzentrationslager und ihrer Außenkommandos gemäß §&nbsp",
+  "end": "1945-03-27"
+ },
+ {
+  "parent": "mauthausen",
+  "name": "In Wien-Floridsdorf existierte neben den Lagern Jedlesee und Floridsdorf noch ein dritter",
+  "start": "1944-07"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Asbach",
+  "start": "1944-09",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Bad Rappenau",
+  "start": "1944-09",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Bensheim-Auerbach",
+  "start": "1944-09",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Bisingen",
+  "start": "1944-08",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Bruttig-Treis",
+  "start": "1944-03",
+  "end": "1944-09"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Calw",
+  "start": "1945-01",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "in der Maschinenfabrik Heymann",
+  "start": "1944-08",
+  "end": "1944-09-12"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Dautmergen",
+  "start": "1944-08",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Dormettingen",
+  "start": "1945-03",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Echterdingen",
+  "start": "1944-11",
+  "end": "1945-01"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Ellwangen (drei Außenlager)",
+  "start": "1943-06",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Erzingen",
+  "start": "1944-05",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Frankfurt am Main, Deckname „Katzbach“",
+  "start": "1944-08",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Frommern",
+  "start": "1944-03",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Geisenheim",
+  "start": "1944-12",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Geislingen",
+  "start": "1944-07",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Hailfingen-Tailfingen",
+  "start": "1944-11",
+  "end": "1945-02"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Haslach (drei Außenlager)",
+  "start": "1944-09",
+  "end": "1945-02"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Hayingen",
+  "start": "1944-08",
+  "end": "1944-09"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Heidenheim",
+  "start": "1944-12",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Heppenheim",
+  "start": "1943-06",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Hessental",
+  "start": "1944-10",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Iffezheim",
+  "start": "1943-10",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Kochendorf, Deckname „Eisbär“",
+  "start": "1944-09",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Leonberg",
+  "start": "1944-04",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Markirch (mit Lager Otto-Hütten II)",
+  "start": "1944-03",
+  "end": "1944-10"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Metz, Sonderlager „Feste Goeben“ (frz. Fort Queuleu)",
+  "start": "1943-08",
+  "end": "1944-08"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Mülhausen",
+  "start": "1944-08",
+  "end": "1944-09"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Neckarbischofsheim",
+  "start": "1944-09",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Neckarelz I",
+  "start": "1944-03",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Neckarelz II",
+  "start": "1944-07",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Neckargartach, Deckname „Steinbock“",
+  "start": "1944-09",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Neckargerach",
+  "start": "1944-04",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Oberehnheim",
+  "start": "1942-12",
+  "end": "1944-11"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Offenburg",
+  "start": "1945-03",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Peltre",
+  "start": "1943-03",
+  "end": "1944-08"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Rastatt",
+  "start": "1943-11",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Sandhofen",
+  "start": "1944-09",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Schömberg",
+  "start": "1943-12",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Schörzingen",
+  "start": "1944-02",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Schwindratzheim",
+  "start": "1944-08",
+  "end": "1944-09"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Sennheim",
+  "start": "1944-03",
+  "end": "1944-09"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Spaichingen, Deckname „Metallwerke Spaichingen“",
+  "start": "1944-09",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Thil, auch: Kommando Erz, Kommando von Longwy-Thil, frz. Camp de Thil",
+  "start": "1944-06",
+  "end": "1944-09"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Unterriexingen",
+  "start": "1944-11",
+  "end": "1945-03"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Urbès",
+  "start": "1944-03",
+  "end": "1944-10"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Vaihingen, auch „KZ Wiesengrund“",
+  "start": "1944-08",
+  "end": "1945-04"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "Walldorf",
+  "start": "1944-08",
+  "end": "1944-11"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "KZ Wiesendorf",
+  "start": "1944-09",
+  "end": "1945-02"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "* KZ Bisingen * KZ Dautmergen * KZ Dormettingen * KZ Erzingen * KZ Frommern * KZ Schömberg * KZ Schörzingen"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "* Calw * KZ Echterdingen * Ellwangen an der Jagst * KZ-Außenlager Geislingen * KZ-Außenlager Hailfingen-Tailfingen * KZ Haslach * KZ Hessental * KZ Iffezheim * KZ Kochendorf * KZ Neckarelz * KZ Neckargartach * KZ Offenburg * Rastatt * KZ Sandhofen * KZ Spaichingen * KZ-Außenlager Vaihingen * KZ Wiesendorf"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "* Bensheim-Auerbach * Darmstadt * Frankfurt am Main (Adlerwerke AG) * Geisenheim * Heppenheim * KZ-Außenlager Walldorf"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "* KZ Bruttig-Treis"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "* KZ Markirch * KZ Mülhausen * KZ Oberehnheim * KZ Schwindratzheim * SS-Ausbildungslager Sennheim) * KZ-Außenlager Urbès"
+ },
+ {
+  "parent": "natzweiler",
+  "name": "* KZ Hayingen * KZ Metz, Sonderlager „Feste Goeben“ * KZ Peltre * KZ-Außenlager Thil"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "derney (I. SS-Baubrigade), genannt Lager Sylt",
+  "start": "1943-03-05",
+  "end": "1944-06-24"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Alt Garge",
+  "start": "1944-08-24",
+  "end": "1945-02-15"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Engerhafe",
+  "start": "1944-10-21",
+  "end": "1944-12-22"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Bad Sassendorf (11. SS-Eisenbahnbaubrigade)",
+  "start": "1945-02-08",
+  "end": "1945-04-05"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Boizenburg",
+  "start": "1944-08",
+  "end": "1945-04-28"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "SS-Reitschule Braunschweig",
+  "start": "1944-12-20",
+  "end": "1945-02"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Schillstraße Braunschweig (Büssing-NAG)",
+  "start": "1944-08-17",
+  "end": "1945-03-26"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Vechelde Braunschweig",
+  "start": "1944-09",
+  "end": "1945-04"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Breitenfelde bei Mölln",
+  "start": "1944-11-10",
+  "end": "1945-04-30"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Bahrsplate",
+  "start": "1944-09-07",
+  "end": "1945-04-09"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Bremen-Neuenland",
+  "start": "1944-08-16",
+  "end": "1944-11-28"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Schützenhof",
+  "start": "1944-12",
+  "end": "1945-04-09"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Bremen (II. SS-Baubrigade)",
+  "start": "1942-10-12",
+  "end": "1944-04-15"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Bremen Hindenburgkaserne",
+  "start": "1944-08-02",
+  "end": "1944-09-26"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Stuhr-Obernheide",
+  "start": "1944-09-26",
+  "end": "1945-04-04"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Bremen, Borgward-Werke",
+  "start": "1944-08-25",
+  "end": "1944-10-12"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Uphusen",
+  "start": "1945-02-07",
+  "end": "1945-04-04"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Farge",
+  "start": "1943-10",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Darß-Wieck",
+  "start": "1941-01",
+  "end": "1941-02"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Darß-Zingst",
+  "start": "1942-04"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Düssin (Mecklenburg)",
+  "start": "1944-09-15",
+  "end": "1945-03-01"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ ArbeitsdorfFallersleben, formal eigenständiges KZ",
+  "start": "1942-04",
+  "end": "1942-10-01"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Laagberg Fallersleben",
+  "start": "1944-05-31",
+  "end": "1945-04-08"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Garlitz (Mecklenburg)",
+  "start": "1945-02-03",
+  "end": "1945-05-02"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "SS-Barackenlager Hahndorf Goslar",
+  "start": "1944-10-20",
+  "end": "1945-03-25"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Eidelstedt",
+  "start": "1944-09-27",
+  "end": "1945-05-05"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Finkenwerder",
+  "start": "1944-10",
+  "end": "1945-03"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Hamburg-Fuhlsbüttel",
+  "start": "1944-10-25",
+  "end": "1945-02-15"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Hammerbrook (II. SS-Baubrigade, Süderstraße 301)",
+  "start": "1943-08-07",
+  "end": "1944-04"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Hammerbrook (Bombensuchkommando, Brackdamm)",
+  "start": "1945-03-25"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Hammerbrook (Spaldingstraße)",
+  "start": "1944-10",
+  "end": "1945-04-17"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Langenhorn",
+  "start": "1944-09-12",
+  "end": "1945-05-03"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Neugraben Hamburg",
+  "start": "1944-09-13",
+  "end": "1945-02-08"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Rothenburgsort (Bullenhuser Damm)",
+  "start": "1944-11",
+  "end": "1945-04-11"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Sasel",
+  "start": "1944-09-13",
+  "end": "1945-05-05"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Steinwerder",
+  "start": "1944-11-22",
+  "end": "1945-04-21"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Steinwerder (Blohm & Voss)",
+  "start": "1944-10-09",
+  "end": "1945-04-12"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Tiefstack",
+  "start": "1945-02-08",
+  "end": "1945-04-07"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "haus G Hamburg-Veddel (Frauen) Dessauer Ufer",
+  "start": "1944-07",
+  "end": "1944-09-13"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "haus G Hamburg-Veddel (Männer) Dessauer Ufer",
+  "start": "1944-09-15",
+  "end": "1945-04-14"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hamburg-Wandsbek",
+  "start": "1944-06-08",
+  "end": "1945-04-30"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hannover-Langenhagen",
+  "start": "1944-10-02",
+  "end": "1945-01-06"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hannover-Mühlenberg (Hanomag/Linden)",
+  "start": "1945-02-03",
+  "end": "1945-04-06"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Hannover-Limmer",
+  "start": "1944-06-25",
+  "end": "1945-04-06"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hannover-Stöcken (Akkumulatorenwerke)",
+  "start": "1943-07-17",
+  "end": "1945-04-07"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Hannover-Stöcken (Continental)",
+  "start": "1944-09-07",
+  "end": "1944-11-30"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hannover-Misburg",
+  "start": "1944-06-26",
+  "end": "1945-04-06"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hannover-Ahlem",
+  "start": "1944-11-30",
+  "end": "1945-04-06"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Beendorf (Frauen)",
+  "start": "1944-08",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Beendorf (Männer)",
+  "start": "1944-03-17",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Hildesheim",
+  "start": "1945-03-02",
+  "end": "1945-03-26"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Horneburg",
+  "start": "1944-10",
+  "end": "1945-04-08"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Husum-Schwesing",
+  "start": "1944-09-26",
+  "end": "1944-12-29"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Kaltenkirchen",
+  "start": "1944-08",
+  "end": "1945-04-17"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Kiel",
+  "start": "1944-07",
+  "end": "1944-09"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Ladelund",
+  "start": "1944-11-01",
+  "end": "1944-12-16"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Lengerich",
+  "start": "1944-03-29",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Lübberstedt-Bilohe",
+  "start": "1944-08",
+  "end": "1945-04-29"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Lütjenburg-Hohwacht",
+  "start": "1944-11-16",
+  "end": "1945-04-19"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Lüneburg-Kaland (II. SS-Baubrigade)",
+  "start": "1943-08-12",
+  "end": "1943-11-13"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Emslandlager Dalum Meppen",
+  "start": "1944-11",
+  "end": "1945-03-25"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Versen Meppen",
+  "start": "1944-11-16",
+  "end": "1945-03-25"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Neustadt in Holstein",
+  "start": "1944-12",
+  "end": "1945-05-01"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Osnabrück (II. SS-Baubrigade)",
+  "start": "1942-10-17",
+  "end": "1943-05"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Porta Westfalica-Hausberge (Männer)",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Porta Westfalica-Hausberge (Frauen)",
+  "start": "1945-02",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Porta Westfalica-Barkhausen",
+  "start": "1944-03-19",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Porta Westfalica-Lerbeck/Neesen",
+  "start": "1944-10-01",
+  "end": "1945-04-01"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Salzgitter-Bad",
+  "start": "1944-09",
+  "end": "1945-04-07"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Salzgitter-Drütte",
+  "start": "1942-10-13",
+  "end": "1945-04-07"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Salzgitter-Watenstedt / Leinde (Frauen)",
+  "start": "1944-07",
+  "end": "1945-04-07"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Salzgitter-Watenstedt / Leinde (Männer)",
+  "start": "1944-05",
+  "end": "1945-04-07"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Salzwedel",
+  "start": "1944-08",
+  "end": "1945-04-14"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Stalag X B Sandbostel",
+  "start": "1945-04"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Schandelah",
+  "start": "1944-05-08",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Uelzen",
+  "start": "1945-03",
+  "end": "1945-04-17"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Verden",
+  "start": "1945-01-08",
+  "end": "1945-04"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Warberg",
+  "start": "1944-06-05",
+  "end": "1945-01-08"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Wedel (Frauen)",
+  "start": "1944-09-13",
+  "end": "1944-09-27"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Wedel (Männer)",
+  "start": "1944-10-17",
+  "end": "1944-11-20"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Wilhelmshaven (Alter Banter Weg)",
+  "start": "1944-09-17",
+  "end": "1945-04-05"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Wilhelmshaven (II. SS-Baubrigade)",
+  "end": "1943-11"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "Wittenberge",
+  "start": "1942-08-28",
+  "end": "1945-02-17"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "KZ Wöbbelin",
+  "start": "1945-03",
+  "end": "1945-05-02"
+ },
+ {
+  "parent": "neuengamme",
+  "name": "} == Literatur == * Wolfgang Benz, Barbara Distel (Hrsg.): Der Ort des Terrors. Geschichte der nationalsozialistischen Konzentrationslager. Band 5: Hinzert, Auschwitz, Neuengamme. C.H. Beck, München 2007, ISBN 978-3-406-52965-8, S. 313 ff. * Marc Buggeln: Das Außenlagersystem des Konzentrationslagers Neuengamme. In: Sabine Moller, Miriam Rürup, Christel Trouvé (Hrsg.): Abgeschlossene Kapitel? Zur Geschichte der Konzentrationslager und der NS-Prozesse (= Studien zum Nationalsozialismus in der edition diskord. Bd. 5). Edition Diskord, Tübingen 2002, ISBN 3-89295-726-6, S. 15–47. * Buggeln, Marc: Arbeit und & Gewalt, Das Außenlagersystem des KZ Neuengamme. Wallstein-Verlag, Göttingen 2009. * Hermann Kaienburg: Das Konzentrationslager Neuengamme 1938–1945 (= Dietz-Taschenbuch. Bd. 76). Dietz, Bonn 1997, ISBN 3-8012-3076-7. == Weblinks == * [http://www.kz-gedenkstaette-neuengamme.de/index.php?id=3238 Webpräsenz der KZ-Gedenkstätte Neuengamme mit einer Liste der Außenlager] == Einzelnachweise == Neuengamme !KZ Neuengamme"
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Aslau",
+  "lat": 51.317,
+  "lng": 15.75
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Bad Warmbrunn",
+  "lat": 50.870066,
+  "lng": 15.684884
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Bausnitz"
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Bautzen",
+  "lat": 51.169791,
+  "lng": 14.411144
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Bernsdorf",
+  "start": "1944-03-18",
+  "end": "1945-05-08",
+  "lat": 50.646111,
+  "lng": 15.965556
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Birnbäumel",
+  "start": "1944-10-27",
+  "end": "1945-01-23",
+  "lat": 51.4738989064778,
+  "lng": 17.1640777587891
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Bolkenhain",
+  "lat": 50.921559,
+  "lng": 16.11436
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Brandhofen",
+  "lat": 51.404795,
+  "lng": 14.2678
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Breslau I und II",
+  "lat": 51.11,
+  "lng": 17.03
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Breslau-Hundsfeld",
+  "start": "1944-08",
+  "end": "1945-01-24",
+  "lat": 51.11,
+  "lng": 17.03
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Breslau-Lissa",
+  "lat": 51.11,
+  "lng": 17.03
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Brieg",
+  "lat": 50.849998,
+  "lng": 17.469999
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Brünnlitz: KZ-Außenlager Brünnlitz (Oskar Schindler)",
+  "start": "1944-10-22",
+  "end": "1945-05-08",
+  "lat": 49.6234444202973,
+  "lng": 16.5248966217041
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Buchwald-Hohenwiese",
+  "lat": 50.824444,
+  "lng": 15.816944
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Bunzlau I und II",
+  "lat": 51.259998,
+  "lng": 15.56
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Christianstadt",
+  "start": "1944-07",
+  "end": "1945-02-02",
+  "lat": 51.798953,
+  "lng": 15.235579
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Dörnhau (Riese)",
+  "lat": 50.6646961949819,
+  "lng": 16.3946914672852
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Dyhernfurth I und II",
+  "lat": 51.27,
+  "lng": 16.739999
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Erlenbusch (Riese)",
+  "lat": 50.717,
+  "lng": 16.367
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Falkenberg (Riese)",
+  "lat": 50.65,
+  "lng": 16.46
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Faulbrück, Kreis Reichenbach/Niederschlesien",
+  "start": "1944-06-16"
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Freiburg",
+  "start": "1945-01-12",
+  "end": "1945-02-15",
+  "lat": 50.86,
+  "lng": 16.329999
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Friedland",
+  "lat": 50.66849,
+  "lng": 16.200605
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Fünfteichen",
+  "lat": 51.0526176322973,
+  "lng": 17.3134231567383
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Fürstenstein (Riese): Schloss Fürstenstein",
+  "lat": 50.842194,
+  "lng": 16.292444
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Gabersdorf: Gabersdorf (Arbeitslager)",
+  "start": "1944-03-18",
+  "end": "1945-05-08",
+  "lat": 50.5857162430775,
+  "lng": 15.9473419189453
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Gablonz",
+  "start": "1945-02-17",
+  "end": "1945-05-08",
+  "lat": 50.729999,
+  "lng": 15.159999
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Gassen",
+  "start": "1944-09",
+  "end": "1945-02",
+  "lat": 51.7523272717487,
+  "lng": 15.0107574462891
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Gebhardsdorf",
+  "start": "1944-09",
+  "end": "1945-01-18",
+  "lat": 50.978333,
+  "lng": 15.346944
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Geppersdorf",
+  "lat": 51.01559,
+  "lng": 15.52761
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Görlitz: KZ-Außenlager Görlitz (Biesnitzer Grund)",
+  "start": "1944-09-05",
+  "end": "1945-05-08",
+  "lat": 51.153139,
+  "lng": 14.975297
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Gräben",
+  "start": "1944-06",
+  "end": "1945-02-08",
+  "lat": 50.960089142779,
+  "lng": 16.3459610939026
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Gräflich-Röhrsdorf",
+  "start": "1944-09-04",
+  "end": "1945-01-18",
+  "lat": 50.960089142779,
+  "lng": 16.3459610939026
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Grafenort",
+  "start": "1945-04-12",
+  "end": "1945-05-08",
+  "lat": 50.353415,
+  "lng": 16.568302
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Großkoschen",
+  "lat": 51.494406,
+  "lng": 14.064268
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Grulich",
+  "lat": 50.080001,
+  "lng": 16.77
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Grünberg II",
+  "start": "1944-07",
+  "end": "1945-01-29",
+  "lat": 51.939998,
+  "lng": 15.489999
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Grünberg I",
+  "lat": 51.939998,
+  "lng": 15.489999
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Guben",
+  "start": "1944-07",
+  "end": "1945-02",
+  "lat": 51.95224,
+  "lng": 14.714819
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Halbau",
+  "lat": 51.49683,
+  "lng": 15.19736
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Halbstadt",
+  "start": "1944-10",
+  "end": "1945-05-08",
+  "lat": 50.619998,
+  "lng": 16.25
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Hartmannsdorf",
+  "lat": 51.0055460846572,
+  "lng": 15.2485084533691
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Hirschberg",
+  "lat": 50.909999,
+  "lng": 15.729999
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Hirschberg (Baukommando)",
+  "lat": 50.909999,
+  "lng": 15.729999
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Hochweiler",
+  "start": "1944-10-20",
+  "end": "1945-01-30",
+  "lat": 51.4825,
+  "lng": 17.334722
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Kaltwasser (Riese)",
+  "lat": 50.433,
+  "lng": 18.317
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Kamenz",
+  "lat": 51.268279,
+  "lng": 14.096687
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Kittlitztreben",
+  "lat": 51.38,
+  "lng": 15.6
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Klein-Radisch",
+  "lat": 51.342024,
+  "lng": 14.645495
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Kleinschönau/Zittau: Zittwerke",
+  "lat": 50.892125,
+  "lng": 14.83888
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Kratzau I",
+  "start": "1944-10",
+  "end": "1945-05-08",
+  "lat": 50.819999,
+  "lng": 14.97
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Kratzau II",
+  "start": "1944-10-28",
+  "end": "1945-05-08",
+  "lat": 50.819999,
+  "lng": 14.97
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Kurzbach",
+  "start": "1944-10-22",
+  "end": "1945-01-20",
+  "lat": 50.510261,
+  "lng": 18.250942
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Kunnerwitz",
+  "lat": 51.1179364451665,
+  "lng": 14.9362993240356
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Landeshut",
+  "lat": 50.79,
+  "lng": 16.03
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Langenbielau I",
+  "start": "1944-08",
+  "end": "1945-05-08",
+  "lat": 50.689998,
+  "lng": 16.61
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Langenbielau II",
+  "start": "1944-09",
+  "end": "1945-05-08",
+  "lat": 50.689998,
+  "lng": 16.61
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Lärche (Riese)",
+  "lat": 50.733,
+  "lng": 16.333
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Liebau",
+  "start": "1944-09-19",
+  "end": "1945-05-08",
+  "lat": 50.70697,
+  "lng": 15.99748
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Ludwigsdorf",
+  "start": "1944-07",
+  "end": "1945-05-08",
+  "lat": 50.7772869007486,
+  "lng": 16.5024948120117
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Märzbachtal (Riese)",
+  "lat": 50.6800901249347,
+  "lng": 16.4125442504883
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Merzdorf",
+  "start": "1944-10",
+  "end": "1945-05-08",
+  "lat": 50.8451884330723,
+  "lng": 16.0269927978516
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Mittelsteine",
+  "start": "1944-08-24",
+  "end": "1945-04-01",
+  "lat": 50.52,
+  "lng": 16.5
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Morchenstern",
+  "start": "1945-02-19",
+  "end": "1945-03-15",
+  "lat": 50.740001,
+  "lng": 15.239999
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Neuhammer",
+  "lat": 51.393100666418,
+  "lng": 15.8197975158691
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Neusalz/Oder",
+  "start": "1944-06",
+  "end": "1945-01-29",
+  "lat": 51.810001,
+  "lng": 15.71
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Niederoderwitz",
+  "lat": 50.9523712294541,
+  "lng": 14.7244262695312
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Niesky",
+  "lat": 51.2962760949399,
+  "lng": 14.8219299316406
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Nimptsch",
+  "lat": 50.716667,
+  "lng": 16.833333
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Ober Hohenelbe",
+  "start": "1944-09-12",
+  "end": "1945-05-08",
+  "lat": 50.6425,
+  "lng": 15.608611
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Ober Altstadt",
+  "start": "1944-03-01",
+  "end": "1945-05-08",
+  "lat": 50.569999,
+  "lng": 15.899999
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Oberwüstegiersdorf (Riese)",
+  "lat": 50.66,
+  "lng": 16.38
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Parschnitz",
+  "start": "1944-03-01",
+  "end": "1945-05-08",
+  "lat": 51.2962760949399,
+  "lng": 14.8219299316406
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Peterswaldau",
+  "start": "1944-04-01",
+  "end": "1945-05-08",
+  "lat": 50.720001,
+  "lng": 16.59
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Reichenau",
+  "lat": 50.6849302821149,
+  "lng": 15.1480865478516
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Reichenbach im Eulengebirge",
+  "start": "1944-06-12",
+  "end": "1945-01-17",
+  "lat": 50.728056,
+  "lng": 16.651111
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Rennersdorf: KZ-Außenlager Rennersdorf",
+  "lat": 51.0182633534823,
+  "lng": 14.7887992858887
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Rauscha",
+  "lat": 51.412793,
+  "lng": 15.17469
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Sackisch",
+  "start": "1944-08-01",
+  "end": "1945-05-08",
+  "lat": 50.43333,
+  "lng": 16.25
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Schatzlar",
+  "start": "1944-03-01",
+  "end": "1945-05-08",
+  "lat": 50.6644785767519,
+  "lng": 15.9087181091309
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Schlesiersee I",
+  "start": "1944-10-10",
+  "end": "1945-01-21",
+  "lat": 51.882271,
+  "lng": 16.078831
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Schlesiersee II",
+  "start": "1944-10-10",
+  "end": "1945-01-21",
+  "lat": 51.882271,
+  "lng": 16.078831
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Schertendorf",
+  "lat": 51.97,
+  "lng": 15.449444
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Schotterwerk (Riese) in Oberwüstegiersdorf",
+  "lat": 50.673056,
+  "lng": 16.375833
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "St. Georgenthal I",
+  "start": "1944-09-30",
+  "end": "1945-05-08",
+  "lat": 50.9947431179034,
+  "lng": 14.5661544799805
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "St. Georgenthal II",
+  "start": "1945-03-01",
+  "end": "1945-05-08",
+  "lat": 50.9947431179034,
+  "lng": 14.5661544799805
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Säuferwasser/Kaltwasser (Riese): Projekt Riese",
+  "lat": 50.433,
+  "lng": 14.317
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Tannhausen (Zentralrevier Riese)",
+  "lat": 50.7,
+  "lng": 16.37
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Treskau",
+  "lat": 52.51,
+  "lng": 16.98
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Waldenburg",
+  "lat": 50.779998,
+  "lng": 16.28
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Weißwasser/Oberlausitz",
+  "start": "1944-09-11",
+  "end": "1945-02-15",
+  "lat": 51.502306,
+  "lng": 14.634685
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Weißwasser/Mähren (Mährisch Weißwasser)",
+  "start": "1944-10",
+  "end": "1945-05-08",
+  "lat": 50.021389,
+  "lng": 16.749722
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Wiesau",
+  "start": "1944-09",
+  "end": "1945-01",
+  "lat": 51.2992814807878,
+  "lng": 15.5706310272217
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Wolfsberg/Wüstewaltersdorf (Riese)",
+  "lat": 50.6981973660456,
+  "lng": 16.4417266845703
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Wilhelmshöhe bei Langenbielau",
+  "lat": 50.7,
+  "lng": 16.616667
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Wüstenröhrsdorf (Gräfisch-Röhrsdorf)",
+  "lat": 50.68,
+  "lng": 19.86
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Wüstewaltersdorf (Riese)",
+  "lat": 50.6981973660456,
+  "lng": 16.4417266845703
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Wüstegiersdorf/Tannhausen (Riese)",
+  "start": "1944-08",
+  "end": "1945-05-08",
+  "lat": 50.66,
+  "lng": 16.38
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Wüstegiersdorf (Krupp)",
+  "lat": 50.66,
+  "lng": 16.38
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Zillerthal-Erdmannsdorf",
+  "lat": 50.85,
+  "lng": 15.77
+ },
+ {
+  "parent": "gross-rosen",
+  "name": "Zittau",
+  "start": "1944-10-20",
+  "end": "1945-05-08"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Dondangen (lett. Dundaga)",
+  "start": "1943-11-26",
+  "end": "1944-08-25"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Elley-Meiten (lett. Eleja-Meitene)",
+  "start": "1943-10-01",
+  "end": "1944-06-30"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Jungfernhof (lett. Jumpravmuiža)",
+  "start": "1941-12-03",
+  "end": "1942-12-31"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Kurben (lett. Kurbe)",
+  "start": "1944-08"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Poperwahlen (lett. Popervale)",
+  "start": "1944-12-31"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga Balastdamm (lett. Balasta dambis)",
+  "start": "1943-08-18",
+  "end": "1944-08-07"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga Dünawerke",
+  "start": "1943-08-18",
+  "end": "1944-07-01"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga Heereskraftfahrpark",
+  "start": "1943-08-18",
+  "end": "1944-08-06"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga Heereskraftfahrpark Hirtenstraße",
+  "start": "1944-01-31",
+  "end": "1944-08-06"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga Lenta",
+  "start": "1943-08-18",
+  "end": "1944-07-29"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga Mühlgraben (lett. Mīlgrāvis)",
+  "start": "1943-08-18",
+  "end": "1944-08-06"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga Reichsbahn",
+  "start": "1943-08-18",
+  "end": "1944-08"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga Spilwe (lett. Spilve)",
+  "start": "1943-07-05",
+  "end": "1944-08-06"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga-Strasdenhof",
+  "start": "1943-08-04",
+  "end": "1944-09"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga Truppenwirtschaftslager",
+  "start": "1943-08-18",
+  "end": "1944-10"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga-Strasdenhof AEG",
+  "start": "1943-08-01",
+  "end": "1944-09-25"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Riga-Strasdenhof Fabrikarbeiten",
+  "start": "1943-08-18",
+  "end": "1944-08-06"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Windau (lett. Ventspils)"
+ },
+ {
+  "parent": "riga-kaiserwald",
+  "name": "Krottingen (lit. Kretinga)",
+  "start": "1943-10-01",
+  "end": "1944-06-30"
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Altenhammer",
+  "start": "1944-12",
+  "end": "1945-04-16",
+  "lat": 49.729364,
+  "lng": 12.333107
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Ansbach",
+  "start": "1945-03-13",
+  "end": "1945-04-04",
+  "lat": 49.3004246,
+  "lng": 10.5719357
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Aue",
+  "start": "1944-11-24",
+  "end": "1945-04",
+  "lat": 50.584917,
+  "lng": 12.707389
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Bayreuth",
+  "start": "1944-06-13",
+  "end": "1945-04-11",
+  "lat": 49.9514769,
+  "lng": 11.5697406
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Brüx (Most)",
+  "start": "1944-09-01",
+  "end": "1944-10-07",
+  "lat": 50.523068,
+  "lng": 13.539233
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Chemnitz",
+  "start": "1944-10-24",
+  "end": "1945-04",
+  "lat": 50.816537,
+  "lng": 12.916481
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Dresden (Bernsdorf)",
+  "start": "1944-11-24",
+  "end": "1945-04",
+  "lat": 51.040762,
+  "lng": 13.801338
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Dresden (Zeiss-Ikon, Goehle-Werk)",
+  "start": "1944-10-09",
+  "end": "1945-04",
+  "lat": 51.081516,
+  "lng": 13.728434
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Dresden (Reichsbahn)",
+  "start": "1945-03",
+  "end": "1945-05-08"
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Dresden-Friedrichstadt (Reichsbahnausbesserungswerk)",
+  "start": "1944-09-15",
+  "end": "1945-02-19",
+  "lat": 51.060403,
+  "lng": 13.692464
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Dresden (SS-Pionier Kaserne)",
+  "start": "1942-06",
+  "end": "1945-04-15",
+  "lat": 51.099167,
+  "lng": 13.725861
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Dresden (Universelle)",
+  "start": "1944-10-09",
+  "end": "1945-04",
+  "lat": 51.047342,
+  "lng": 13.717379
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Dresden (Zeiss-Ikon, Werk Reick)",
+  "start": "1944-10",
+  "end": "1945-04",
+  "lat": 51.009814,
+  "lng": 13.809691
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Eichstätt",
+  "start": "1944-10",
+  "end": "1945-01",
+  "lat": 48.894306,
+  "lng": 11.16981
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Eisenberg (Jezeři)",
+  "start": "1943-06-21",
+  "end": "1945-04-27",
+  "lat": 50.554087,
+  "lng": 13.504997
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Falkenau an der Eger, Sokolov",
+  "start": "1943-12",
+  "end": "1944-07"
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Flöha",
+  "start": "1944-03",
+  "end": "1945-04-14",
+  "lat": 50.84843,
+  "lng": 13.0805
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Freiberg",
+  "start": "1944-08-31",
+  "end": "1945-04-14",
+  "lat": 50.911944,
+  "lng": 13.342778
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Ganacker",
+  "start": "1945-02-20",
+  "end": "1945-04-24",
+  "lat": 48.719168,
+  "lng": 12.725215
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Grafenreuth",
+  "start": "1943-06",
+  "end": "1945-04-21",
+  "lat": 49.69293,
+  "lng": 12.28962
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Graslitz (Kraslice)",
+  "start": "1944-08-07",
+  "end": "1945-04-15",
+  "lat": 50.329167,
+  "lng": 12.508611
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Gröditz",
+  "start": "1944-09-27",
+  "end": "1945-04-17",
+  "lat": 51.416667,
+  "lng": 13.449722
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Gundelsdorf mit Knellendorf bei Kronach",
+  "start": "1944-09-12",
+  "end": "1945-04-13",
+  "lat": 50.284738,
+  "lng": 11.301713
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Hainichen",
+  "start": "1944-08",
+  "end": "1945-04",
+  "lat": 50.969722,
+  "lng": 13.125278
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Helmbrechts",
+  "start": "1944-07-19",
+  "end": "1945-04-13",
+  "lat": 50.236773,
+  "lng": 11.715915
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Happurg und Hersbruck, mit Hubmersberg-Hohenstadt",
+  "start": "1944-05-17",
+  "end": "1945-04",
+  "lat": 49.511944,
+  "lng": 11.443611
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Happurg",
+  "start": "1944-05-17",
+  "end": "1944-07",
+  "lat": 49.493056,
+  "lng": 11.471111
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Hertine (Rtyně)",
+  "start": "1944-10-10",
+  "end": "1945-04-22",
+  "lat": 50.603056,
+  "lng": 13.906667
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Hof-Moschendorf",
+  "start": "1944-09-03",
+  "end": "1945-04-14",
+  "lat": 50.294151,
+  "lng": 11.928202
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Hohenstein-Ernstthal",
+  "start": "1944-12-10",
+  "end": "1945-04",
+  "lat": 50.8,
+  "lng": 12.716667
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Hohenthan",
+  "start": "1945-02-14",
+  "end": "1945-04-22",
+  "lat": 49.810278,
+  "lng": 12.436111
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Holleischen (Holýšov) (= „Pilsen/Plzeň“)",
+  "start": "1945-05-05",
+  "lat": 49.593056,
+  "lng": 13.107222
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Hradischko (Hradištko pod Medníkem, = „Beneschau“, Benešov)",
+  "start": "1943-11-17",
+  "end": "1945-04-26",
+  "lat": 49.868333,
+  "lng": 14.409444
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Janowitz (Vrchotovy Janovice, = „Olbramowitz“)",
+  "start": "1944-07-24",
+  "end": "1945-03",
+  "lat": 49.683333,
+  "lng": 14.574167
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Johanngeorgenstadt",
+  "start": "1943-12-01",
+  "end": "1945-04-16",
+  "lat": 50.431111,
+  "lng": 12.723889
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Jungfern-Breschan (Panenské-Břežaný, = „Prag“)",
+  "start": "1944-02-14",
+  "end": "1945-05-08",
+  "lat": 50.213889,
+  "lng": 14.441111
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Kirchham (= „Pocking“, „Pocking-Waldstadt“)",
+  "start": "1945-03-06",
+  "end": "1945-05-02",
+  "lat": 48.35,
+  "lng": 13.266667
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Königstein (= „Rathen-Schwalbe II“)",
+  "start": "1944-11-15",
+  "end": "1945-03-17",
+  "lat": 50.924354,
+  "lng": 14.038417
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Krondorf-Sauerbrunn (= „Kaaden/Kadaň“)",
+  "start": "1942-08-19",
+  "end": "1944-07-15",
+  "lat": 50.3412114,
+  "lng": 13.0674031
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Leitmeritz (Litomerice)",
+  "start": "1944-03-24",
+  "end": "1945-05-08",
+  "lat": 50.540833,
+  "lng": 14.100278
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Lengenfeld",
+  "start": "1944-10-09",
+  "end": "1945-04-13",
+  "lat": 50.575686,
+  "lng": 12.349217
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Lobositz (Lovosice)",
+  "start": "1944-05-20",
+  "end": "1945-05-07",
+  "lat": 50.513056,
+  "lng": 14.056667
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Mehltheuer",
+  "start": "1944-12-02",
+  "end": "1945-04-16",
+  "lat": 50.544444,
+  "lng": 12.038889
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Meißen-Neuhirschstein",
+  "start": "1943-10-07",
+  "end": "1944-03-04",
+  "lat": 51.256389,
+  "lng": 13.356944
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Mittweida",
+  "start": "1944-10-09",
+  "end": "1945-04",
+  "lat": 50.983242,
+  "lng": 12.967747
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Mockethal-Zatzschke",
+  "start": "1945-01-10",
+  "end": "1945-04",
+  "lat": 50.973832,
+  "lng": 13.960479
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Mülsen St. Micheln",
+  "start": "1944-01-27",
+  "end": "1945-04-13",
+  "lat": 50.744444,
+  "lng": 12.583056
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Neurohlau (Nová Role)",
+  "start": "1942-12-07",
+  "end": "1945-04-29",
+  "lat": 50.270833,
+  "lng": 12.784167
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Nossen",
+  "start": "1944-11",
+  "end": "1945-04-14",
+  "lat": 51.05,
+  "lng": 13.3
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Nürnberg (SS-Kaserne)",
+  "start": "1941-05-12",
+  "end": "1945-04",
+  "lat": 49.455556,
+  "lng": 11.078611
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Nürnberg (Siemens-Schuckertwerke)",
+  "start": "1944-10-18",
+  "end": "1945-03-06",
+  "lat": 49.4089,
+  "lng": 11.0842
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Obertraubling",
+  "start": "1945-02-20",
+  "end": "1945-04-16",
+  "lat": 48.965833,
+  "lng": 12.166944
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Oederan",
+  "start": "1944-09",
+  "end": "1945-04-14",
+  "lat": 50.861667,
+  "lng": 13.167222
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Plattling",
+  "start": "1945-02-20",
+  "end": "1945-04-25",
+  "lat": 48.766667,
+  "lng": 12.866667
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Plauen (Baumwollspinnerei)",
+  "start": "1944-09-18",
+  "end": "1945-04-14",
+  "lat": 50.5157728,
+  "lng": 12.126964
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Plauen (Industriewerke)",
+  "start": "1944-09-18",
+  "end": "1945-04-14",
+  "lat": 50.5157728,
+  "lng": 12.126964
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Plauen (Dr. Th. Horn)",
+  "start": "1944-11-09",
+  "end": "1945-03-27",
+  "lat": 50.5157728,
+  "lng": 12.126964
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Porschdorf",
+  "start": "1945-02-03",
+  "end": "1945-04",
+  "lat": 50.941667,
+  "lng": 14.123889
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Pottenstein",
+  "start": "1942-10-12",
+  "end": "1945-04-16",
+  "lat": 49.772222,
+  "lng": 11.411389
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Rabstein (Rabštejn)",
+  "lat": 50.799722,
+  "lng": 14.415833
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Regensburg (= „Colosseum“)",
+  "start": "1945-03-19",
+  "end": "1945-04-23",
+  "lat": 49.024444,
+  "lng": 12.097222
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Reuth b. Erbendorf",
+  "start": "1945-01-12",
+  "end": "1945-04-22",
+  "lat": 49.843611,
+  "lng": 12.120556
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Rochlitz",
+  "start": "1944-09-18",
+  "end": "1945-03-28",
+  "lat": 51.049,
+  "lng": 12.814
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Saal an der Donau",
+  "start": "1944-11-30",
+  "end": "1945-04-19",
+  "lat": 48.89857,
+  "lng": 11.96864
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Schlackenwerth (Ostrov nad Ohří)",
+  "start": "1943-05-17",
+  "end": "1945-04-20",
+  "lat": 50.306667,
+  "lng": 12.946944
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Schönheide",
+  "start": "1945-02-21",
+  "end": "1945-04-13",
+  "lat": 50.503611,
+  "lng": 12.523611
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Seifhennersdorf",
+  "start": "1944-01",
+  "end": "1945-03-16",
+  "lat": 50.933333,
+  "lng": 14.616667
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Siegmar-Schönau",
+  "start": "1944-08",
+  "end": "1944-12-10",
+  "lat": 50.816667,
+  "lng": 12.855556
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Steinschönau (Kamenicky-Šenov)",
+  "start": "1944-09-22",
+  "end": "1945-01-27",
+  "lat": 50.774722,
+  "lng": 14.4725
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Sankt Georgenthal (Jiřetín pod Jedlovou)",
+  "start": "1944-10-01",
+  "end": "1945-02-28",
+  "lat": 50.875,
+  "lng": 14.575833
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Stulln",
+  "start": "1942-02",
+  "end": "1942-10",
+  "lat": 49.422778,
+  "lng": 12.1475
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Venusberg",
+  "start": "1945-01-08",
+  "end": "1945-04-14",
+  "lat": 50.698611,
+  "lng": 13.016944
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Wilischthal",
+  "start": "1944-10-30",
+  "end": "1945-04-13",
+  "lat": 50.72578,
+  "lng": 13.056285
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Wolkenburg",
+  "start": "1944-08",
+  "end": "1945-04-13",
+  "lat": 50.866667,
+  "lng": 12.75
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Würzburg",
+  "start": "1943-04-17",
+  "end": "1945-03-22",
+  "lat": 49.805168,
+  "lng": 9.939857
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Zschachwitz",
+  "start": "1944-10",
+  "end": "1945-04",
+  "lat": 51,
+  "lng": 13.841667
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Zschopau",
+  "start": "1944-11-21",
+  "end": "1945-04",
+  "lat": 50.75,
+  "lng": 13.066667
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Zwickau",
+  "start": "1944-08-30",
+  "end": "1945-04-14",
+  "lat": 50.718889,
+  "lng": 12.492222
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Zwodau (Svatava)",
+  "start": "1944-03",
+  "end": "1945-04-20",
+  "lat": 50.193611,
+  "lng": 12.621111
+ },
+ {
+  "parent": "flossenburg",
+  "name": "} === Unbestätigt === Nicht bestätigt sind mögliche Außenkommandos oder -lager in:"
+ },
+ {
+  "parent": "flossenburg",
+  "name": "St. Ötzen",
+  "start": "1944-12",
+  "lat": 49.328333,
+  "lng": 12.11
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Münchberg",
+  "end": "1945-04-13",
+  "lat": 50.192222,
+  "lng": 11.788889
+ },
+ {
+  "parent": "flossenburg",
+  "name": "Theresienstadt (Terezín)",
+  "start": "1944-03-24",
+  "lat": 50.511111,
+  "lng": 14.150556
+ },
+ {
+  "parent": "flossenburg",
+  "name": "} == Literatur == * Wolfgang Benz, Barbara Distel (Hrsg.): Flossenbürg. Das Konzentrationslager Flossenbürg und seine Außenlager. C. H. Beck, München 2007, ISBN 978-3-406-56229-7 ([https://books.google.de/books?id=yCk0_nzYCzIC&printsec=frontcover&dq=flossenb%C3%BCrg&hl=de Google Books]). * [https://www.ushmm.org/research/publications/encyclopedia-camps-ghettos/download Encyclopedia of camps and ghettos, 1933–1945 / 1,A : Early camps, youth camps, and concentration camps and subcamps under the SS-Business Administration Main Office (WVHA)], part A, Indiana Univ. Press, Bloomington 2009, 859 S., ISBN 978-0-253-35328-3, ISBN 978-0-253-35428-0, S. 567–691 == Weblinks == * [https://www.gedenkstaette-flossenbuerg.de/geschichte/aussenlager/ Außenlager] auf der Website der KZ-Gedenkstätte Flossenbürg * [https://memorial-archives.international/ Memorial Archives.] Online-Archiv der KZ-Gedenkstätte Flossenbürg * [https://www.gesetze-im-internet.de/begdv_6/BJNR002330967.html Verzeichnis der Konzentrationslager und ihrer Außenkommandos gemäß § 42 Abs. 2 BEG.] Bundesministerium der Justiz == Einzelnachweise == Flossenburg !Kz Flossenburg it:Campo di concentramento di Flossenbürg#Lista dei sottocampi di Flossenbürg"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Bendorf"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Ettinghausen"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Mörsch (Frankenthal), Polizeihaftlager"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Frankfurt (Flughafen)"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Frankfurt-Heddernheim, vormals AEL"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Fulda"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Gelnhausen / 2 Lager"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Bad Homburg vor der Höhe, Polizeihaftlager"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Langendiebach (Erlensee)"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Losheim"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Mainz-Finthen"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Mainz-Gustavsburg"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Mainz – Ingelheimer Aue"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Mainz-Weisenau"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Mannheim-Sandhofen"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Merzhausen"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Michelbach (Schmelz)"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Neubrücke-Hoppstädten"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Rheinzabern"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Rothenbergen"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Seligenstadt"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Trier (Festungsdienststelle)"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Trier (OT-Oberbauleitung)"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Uthlede"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Vicht"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Wächtersbach"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Wiesbaden (“Unter den Eichen”)"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Wittlich"
+ },
+ {
+  "parent": "hinzert",
+  "name": "Zeltingen-Rachtig"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Bad Saarow",
+  "end": "1945-04-15"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Berlin-Lichterfelde",
+  "start": "1941-01-07"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Berlin-Lichtenrade",
+  "end": "1945-04-20"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Berlin-Neukölln",
+  "start": "1944-08"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Berlin-Siemensstadt",
+  "start": "1944-07-17",
+  "end": "1945-04-10"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Berlin-Wilmersdorf",
+  "start": "1943-01-02",
+  "end": "1943-07-03"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Berlin-Zehlendorf",
+  "start": "1943-09-01"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Biesenthal",
+  "start": "1944-07-01"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Brandenburg an der Havel",
+  "start": "1941-05-13",
+  "end": "1945-04-18"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "[[Briesen",
+  "start": "1943-10-26",
+  "end": "1945-04-30"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Schloss Dammsmühle",
+  "start": "1943-01-02",
+  "end": "1943-07-03"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Sicherheitspolizeischule Drögen",
+  "start": "1941-05-02",
+  "end": "1942-11-01"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Falkensee",
+  "start": "1943-03-08",
+  "end": "1945-04-25"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Genshagen",
+  "start": "1944-09-01",
+  "end": "1945-04-20"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Glau-Trebbin",
+  "start": "1942-10-23"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Glöwen",
+  "start": "1944-08-17",
+  "end": "1945-04-14"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Groß-Rosen",
+  "start": "1940-08-02",
+  "end": "1941-05-01"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Hennigsdorf",
+  "end": "1945-04-24"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Hohenlychen",
+  "start": "1941-08-01",
+  "end": "1941-09-02"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Kleinmachnow",
+  "start": "1942-12-01",
+  "end": "1945-04-30"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Kolpin",
+  "end": "1945-02-15"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Königs Wusterhausen",
+  "start": "1943-02-09",
+  "end": "1945-04-26"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Küstrin",
+  "start": "1943-05-16",
+  "end": "1945-04-30"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Lieberose",
+  "start": "1943-12-01",
+  "end": "1945-02-02"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "[[Lübben",
+  "start": "1944-07-01",
+  "end": "1945-04-23"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Oranienburg",
+  "start": "1933-03-21",
+  "end": "1945-04-21"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Prettin",
+  "start": "1941-10-03"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Rathenow",
+  "end": "1945-04-27"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Senftenberg",
+  "start": "1944-07-05",
+  "end": "1945-04-16"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "SS-Baubrigaden",
+  "start": "1945-01"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Treuenbrietzen/Belzig",
+  "start": "1944-10-01",
+  "end": "1945-05-02"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Velten",
+  "start": "1943-03-01",
+  "end": "1945-04-20"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "[[Werder",
+  "start": "1943-03-20"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Wewelsburg",
+  "start": "1940-01-01",
+  "end": "1943-05"
+ },
+ {
+  "parent": "sachsenhausen",
+  "name": "Wittenberg",
+  "start": "1944-09-08",
+  "end": "1945-04-24"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "tdorf",
+  "start": "1942-10-01",
+  "end": "1943-11-30"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "thammer",
+  "start": "1944-09-15",
+  "end": "1945-01-17"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Babitz",
+  "start": "1943-03-01",
+  "end": "1945-01-18"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Birkenau",
+  "start": "1945-01",
+  "end": "1945-01-17"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Bismarckhütte",
+  "start": "1944-09-01",
+  "end": "1945-01-27"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Blechhammer",
+  "start": "1944-04-01",
+  "end": "1945-01-26"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Bobrek",
+  "start": "1943-12",
+  "end": "1945-01-19"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Brünn",
+  "start": "1943-10",
+  "end": "1945-03-31"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Budy",
+  "start": "1943-04"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Budy",
+  "start": "1942-04",
+  "end": "1945-01"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Budy",
+  "start": "1942-06"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Charlottengrube",
+  "start": "1944-09-19",
+  "end": "1945-01-31"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Chelmek",
+  "start": "1942-10-01",
+  "end": "1942-12-09"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Eintrachthütte",
+  "start": "1943-05",
+  "end": "1945-01-23"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Freudenthal",
+  "start": "1944-12-30",
+  "end": "1945-05-08"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Fürstengrube",
+  "start": "1943-09-02",
+  "end": "1945-01-29"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Gleiwitz I",
+  "start": "1944-03",
+  "end": "1945-01-21"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Gleiwitz II",
+  "start": "1944-05-03",
+  "end": "1945-01-22"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Gleiwitz III",
+  "start": "1944-07",
+  "end": "1945-01-21"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Gleiwitz IV",
+  "start": "1944-06",
+  "end": "1945-01-21"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Golleschau",
+  "start": "1942-07-15",
+  "end": "1945-01-21"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Günthergrube",
+  "start": "1944-02-01",
+  "end": "1945-01-19"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Harmense",
+  "start": "1941-12-08",
+  "end": "1945-01-18"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Harmense",
+  "start": "1942-06",
+  "end": "1945-01-18"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Hindenburg",
+  "start": "1944-08-01",
+  "end": "1945-01-19"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Hubertushütte",
+  "start": "1944-12-20",
+  "end": "1945-01-19"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Janinagrube",
+  "start": "1943-09-04",
+  "end": "1945-01-18"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Jawischowitz",
+  "start": "1942-08-15",
+  "end": "1945-01-19"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Kobier",
+  "start": "1942-10-01",
+  "end": "1943-09-30"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Lagischa",
+  "start": "1943-06-15",
+  "end": "1944-09-06"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Laurahütte",
+  "start": "1944-04-01",
+  "end": "1945-01-24"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Lichtewerden",
+  "start": "1944-11-11",
+  "end": "1945-05-06"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Monowitz (Buna)",
+  "start": "1941-04",
+  "end": "1945-01-27"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Neu-Dachs",
+  "start": "1943-06-15",
+  "end": "1945-01-19"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Neustadt",
+  "start": "1944-09-26",
+  "end": "1945-01-19"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Plawy",
+  "start": "1944-12-20",
+  "end": "1945-01-18"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Radostowitz"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Raisko",
+  "start": "1943-06",
+  "end": "1945-01"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Sonderkommando Kattowitz",
+  "start": "1944-01-20",
+  "end": "1945-01-31"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Sosnitza",
+  "start": "1940-07",
+  "end": "1940-08"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Sosnowitz I",
+  "start": "1943-08-31",
+  "end": "1945-01-17"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Sosnowitz II",
+  "start": "1944-05",
+  "end": "1945-01-17"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Carlsruhe in Oberschlesien",
+  "start": "1944-09",
+  "end": "1944-10-10"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "SS-Hütte Porombka",
+  "start": "1945-01"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Trzebinia",
+  "start": "1944-07-01",
+  "end": "1945-01-31"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Tschechowitz I (Bombensuchkommando)",
+  "start": "1944-08",
+  "end": "1944-09"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "Tschechowitz II (Vacuum)",
+  "start": "1944-09",
+  "end": "1945-01-17"
+ },
+ {
+  "parent": "auschwitz",
+  "name": "} == Bilder == File:Wikipedia-blechhammer-camp3.jpg|Nebenlager Blechhammer, Krematorium (2007) Jawischwitz_camp_bath.jpg|Nebenlager Jawischowitz, Überreste einer Baracke (2006) File:Bundesarchiv Bild 146-2007-0057, IG-Farbenwerke Auschwitz.jpg|IG-Farbenwerke Monowitz (1941) File:Auschwitz Solahutte (34750).jpg|SS-Urlaubsheim Solahütte (vor 1945) === Dokumentarfilme === * Auschwitz – Das Projekt (Frankreich, 2017, 57 Min, Regie E. Weiss, deutsche und frz. Fassungen) – ein Überblick über den räumlichen Ausbau der KZ-Auschwitz-Bauten von 1940 bis 1945 (Bilder von Nebenlagern und Zwangsarbeitsstätten in Industrie und Landwirtschaft) in der besetzten Region westlich von Krakau mittels Luftbildaufnahmen aus der Gegenwart. == Literatur == * Franciszek Piper, Teresa Świebocka (Redaktion): Auschwitz. Nationalsozialistisches Vernichtungslager. Hrsg.: Staatliches Museum Auschwitz-Birkenau, 2011, 492 S., ISBN 978-83-88526-28-2. * == Weblinks == * [https://tiergartenstrasse4.org/AUSCHWITZ_-_THE_SUB-CAMPS.html Fotos und Kerndaten zu den Außenlagern] == Einzelnachweise == !Aussenlager Auschwitz hu:Auschwitzi koncentrációs tábor#Auschwitz III. és a kisebb táborok"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "tdorfer See",
+  "start": "1945-04"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Altenburg",
+  "start": "1944-07-31",
+  "end": "1945-04-12"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Ansbach",
+  "start": "1945-04-10"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Barth",
+  "start": "1943-08-01",
+  "end": "1945-04-30",
+  "lat": 54.349259,
+  "lng": 12.719643
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Belzig",
+  "start": "1944-08",
+  "end": "1945-05-02",
+  "lat": 52.1514,
+  "lng": 12.56
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Bofferdingen im Großherzogtum Luxemburg"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Born",
+  "start": "1942-12-01"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Chojna (Königsberg in der Neumark)"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Dabelow",
+  "start": "1941-07-26"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Dahmshöhe",
+  "start": "1943-05-13",
+  "end": "1943-10-21"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Sicherheitspolizeischule Drögen",
+  "start": "1942-10-31",
+  "end": "1945-05-08",
+  "lat": 53.150836,
+  "lng": 13.149315
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Eberswalde",
+  "start": "1944-09-05",
+  "end": "1945-04-22",
+  "lat": 52.841729,
+  "lng": 13.770771
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Feldberg (Mecklenburg)"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Finow",
+  "start": "1945-03-02"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Fürstenberg/Havel"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Genthin",
+  "start": "1943-06-18",
+  "end": "1944-10-29"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Grüneberg",
+  "start": "1943-03-06",
+  "end": "1945-04-30",
+  "lat": 52.86658,
+  "lng": 13.21667
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Gut Hartzwalde bei Königsstädt"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Hagenow"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Hausham",
+  "start": "1944-10-05",
+  "end": "1945-04-25",
+  "lat": 47.749326,
+  "lng": 11.79951
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Helmbrechts",
+  "start": "1944-09-01",
+  "end": "1945-04-13"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Hohenlychen bei Lychen"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Holýšov (Holleischen)",
+  "start": "1944-04-17",
+  "end": "1945-05-05"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Kalisz Pomorski (Kallies)",
+  "start": "1944-07-01",
+  "end": "1945-01-01"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Karlshagen I und II",
+  "start": "1943-05-22"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Kluczewo, Stargard (Klützow, Stargard)",
+  "start": "1943-03-18"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Kraslice (Graslitz)",
+  "start": "1944-08-07",
+  "end": "1945-04-20",
+  "lat": 50.315274,
+  "lng": 12.520257
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Leipzig-Schönefeld",
+  "start": "1944-09-01",
+  "end": "1945-04-19"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Magdeburg-Polte",
+  "start": "1944-09-01",
+  "end": "1945-04-13"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Malchow",
+  "start": "1943-01-01",
+  "end": "1945-05-01"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Mildenberg"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| München"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Neubrandenburg (Waldbau)",
+  "start": "1943-03-01",
+  "end": "1945-04-29",
+  "lat": 53.497965,
+  "lng": 13.228523
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Neustrelitz-Fürstensee",
+  "start": "1945-04-30"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Neustadt-Glewe",
+  "start": "1944-11-01",
+  "end": "1945-05-02",
+  "lat": 53.3662,
+  "lng": 11.609169
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Nová Role (Neurohlau/Neu Rohlau)",
+  "start": "1942-12-07",
+  "end": "1945-04-18",
+  "lat": 50.275772,
+  "lng": 12.777466
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Peenemünde",
+  "start": "1943-06",
+  "end": "1943-10",
+  "lat": 54.148186,
+  "lng": 13.794033
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Prenzlau",
+  "start": "1945-04-27"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Retzow bei Rechlin"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Rheinsberg"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Rostock-Schwarzenpfost",
+  "start": "1943-07-01",
+  "end": "1945-05-01"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Saßnitz",
+  "start": "1945-03",
+  "end": "1945-05-03"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Schlieben",
+  "start": "1944-09-01",
+  "end": "1945-05-08",
+  "lat": 51.733333,
+  "lng": 13.383333
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Schönefeld",
+  "start": "1945-04-20"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Stargard (Stargard in Pommern)",
+  "start": "1943-07-01",
+  "end": "1945-01-31"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Stift St. Lambrecht",
+  "start": "1943-05-13",
+  "end": "1944-11-15",
+  "lat": 47.071631,
+  "lng": 14.300686
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Steinhöring",
+  "start": "1943-08-01",
+  "end": "1945-05-02"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Zwodau",
+  "start": "1943-11-30",
+  "end": "1945-05-07"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "KZ Uckermark",
+  "start": "1942-06",
+  "end": "1945-04-30"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "Velten",
+  "start": "1943-03-01",
+  "end": "1945-04-20",
+  "lat": 52.6704,
+  "lng": 13.1963
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Wiesbaden",
+  "start": "1943-06-21"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Wolfen",
+  "start": "1943-05-14",
+  "end": "1945-04-05"
+ },
+ {
+  "parent": "ravensbruck",
+  "name": "| Zichow"
+ }
+]

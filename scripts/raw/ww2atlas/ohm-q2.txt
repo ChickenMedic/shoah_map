@@ -1,0 +1,8 @@
+[out:json][timeout:180];
+(
+  relation["admin_level"="2"]["name:en"~"Bohemia and Moravia"];
+  relation["admin_level"="2"]["name:en"~"Soviet Union|USSR"];
+  relation["admin_level"="2"]["name:en"~"Slovak"];
+  relation["admin_level"="2"]["name:en"~"Italian Social Republic|Kingdom of Italy"];
+);
+out tags;
